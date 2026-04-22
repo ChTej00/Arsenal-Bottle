@@ -1,0 +1,434 @@
+Rk,Team,Date,Venue,Opp,Comp,Result,GF,GA,GD,Poss,G-PK,PK,PKatt,PKm,xG,xGA,Round
+1,Arsenal,25-05-2025,@,Southampton,Premier League,W,2,1,1,62,2,0,0,0,2.3,0.6,Matchweek 38
+2,Arsenal,18-05-2025,,Newcastle United,Premier League,W,1,0,1,52,1,0,0,0,0.6,1.5,Matchweek 37
+3,Arsenal,11-05-2025,@,Liverpool,Premier League,D,2,2,0,56,2,0,0,0,2.6,2.4,Matchweek 36
+4,Arsenal,07-05-2025,@,Paris Saint-Germain,Champions League,L,1,2,-1,54,1,0,0,0,2.8,1.7,Semi-Finals
+5,Arsenal,03-05-2025,,Bournemouth,Premier League,L,1,2,-1,51,1,0,0,0,1.4,0.9,Matchweek 35
+6,Arsenal,29-04-2025,,Paris Saint-Germain,Champions League,L,0,1,-1,48,0,0,0,0,1.7,1.2,Semi-Finals
+7,Arsenal,23-04-2025,,Crystal Palace,Premier League,D,2,2,0,68,2,0,0,0,1.2,1.7,Matchweek 34
+8,Arsenal,20-04-2025,@,Ipswich Town,Premier League,W,4,0,4,75,4,0,0,0,2.4,0.2,Matchweek 33
+9,Arsenal,16-04-2025,@,Real Madrid,Champions League,W,2,1,1,34,2,0,1,1,2,1.4,Quarter-Finals
+10,Arsenal,12-04-2025,,Brentford,Premier League,D,1,1,0,64,1,0,0,0,1,0.2,Matchweek 32
+11,Arsenal,08-04-2025,,Real Madrid,Champions League,W,3,0,3,54,3,0,0,0,1.5,0.5,Round of 16
+12,Arsenal,05-04-2025,@,Everton,Premier League,D,1,1,0,71,1,0,0,0,1.8,1.1,Matchweek 31
+13,Arsenal,01-04-2025,,Fulham,Premier League,W,2,1,1,52,2,0,0,0,2.2,1,Matchweek 30
+14,Arsenal,16-03-2025,,Chelsea,Premier League,W,1,0,1,41,1,0,0,0,0.7,0.4,Matchweek 29
+15,Arsenal,12-03-2025,,PSV,Champions League,D,2,2,0,51,2,0,0,0,1.2,1.6,Round of 16
+16,Arsenal,09-03-2025,@,Manchester Utd,Premier League,D,1,1,0,68,1,0,0,0,1.6,1.5,Matchweek 28
+17,Arsenal,04-03-2025,@,PSV,Champions League,W,7,1,6,47,7,0,0,0,1.9,1.4,Round of 16
+18,Arsenal,26-02-2025,@,Nottingham Forest,Premier League,D,0,0,0,65,0,0,0,0,1,0.4,Matchweek 26
+19,Arsenal,22-02-2025,,West Ham United,Premier League,L,0,1,-1,68,0,0,0,0,1.2,1.1,Matchweek 25
+20,Arsenal,15-02-2025,@,Leicester City,Premier League,W,2,0,2,60,2,0,0,0,1.4,0.2,Matchweek 24
+21,Arsenal,05-02-2025,@,Newcastle United,EFL Cup,L,0,2,-2,68,0,0,0,0,,,Semi-Finals
+22,Arsenal,02-02-2025,,Manchester City,Premier League,W,5,1,4,46,5,0,0,0,1,0.8,Matchweek 23
+23,Arsenal,29-01-2025,@,Girona,Champions League,W,2,1,1,61,1,1,2,1,2.1,0.7,Group Stage
+24,Arsenal,25-01-2025,@,Wolves,Premier League,W,1,0,1,49,1,0,0,0,1,0.7,Matchweek 22
+25,Arsenal,22-01-2025,,Dinamo Zagreb,Champions League,W,3,0,3,63,3,0,0,0,2.4,0.1,Group Stage
+26,Arsenal,18-01-2025,,Aston Villa,Premier League,D,2,2,0,66,2,0,0,0,1.3,1,Matchweek 21
+27,Arsenal,15-01-2025,,Tottenham Hotspur,Premier League,W,2,1,1,53,1,0,0,0,1.4,0.8,Matchweek 20
+28,Arsenal,12-01-2025,,Manchester Utd,FA Cup,D,1,1,0,,1,0,1,1,1.2,1.1,3rd Round
+29,Arsenal,07-01-2025,,Newcastle United,EFL Cup,L,0,2,-2,70,0,0,0,0,0.7,0.9,Semi-Finals
+30,Arsenal,04-01-2025,@,Brighton,Premier League,D,1,1,0,55,1,0,0,0,0.9,1.5,Matchweek 19
+31,Arsenal,01-01-2025,@,Brentford,Premier League,W,3,1,2,50,3,0,0,0,1.9,0.3,Matchweek 18
+32,Arsenal,27-12-2024,,Ipswich Town,Premier League,W,1,0,1,68,1,0,0,0,1.8,0.2,Matchweek 17
+33,Arsenal,21-12-2024,@,Crystal Palace,Premier League,W,5,1,4,58,5,0,0,0,2.5,1.6,Matchweek 17
+34,Arsenal,18-12-2024,,Crystal Palace,EFL Cup,W,3,2,1,71,3,0,0,0,2.5,1.6,Quarter-Finals
+35,Arsenal,14-12-2024,,Everton,Premier League,D,0,0,0,77,0,0,0,0,1.2,0.1,Matchweek 16
+36,Arsenal,11-12-2024,,Monaco,Champions League,W,3,0,3,55,3,0,0,0,2.3,0.5,Group Stage
+37,Arsenal,08-12-2024,@,Fulham,Premier League,D,1,1,0,67,1,0,0,0,1.8,0.2,Matchweek 15
+38,Arsenal,04-12-2024,,Manchester Utd,Premier League,W,2,0,2,51,2,0,0,0,2.1,0.2,Matchweek 14
+39,Arsenal,30-11-2024,@,West Ham United,Premier League,W,5,2,3,60,3,2,2,0,3.5,1.5,Matchweek 13
+40,Arsenal,26-11-2024,@,Sporting CP,Champions League,W,5,1,4,48,4,1,1,0,4,1,Group Stage
+41,Arsenal,23-11-2024,,Nottingham Forest,Premier League,W,3,0,3,66,3,0,0,0,1.2,0.3,Matchweek 12
+42,Arsenal,10-11-2024,@,Chelsea,Premier League,D,1,1,0,51,1,0,0,0,1.5,1.5,Matchweek 11
+43,Arsenal,06-11-2024,@,Inter,Champions League,L,0,1,-1,63,0,0,0,0,1.8,1.1,Group Stage
+44,Arsenal,02-11-2024,@,Newcastle United,Premier League,L,0,1,-1,64,0,0,0,0,1.1,0.5,Matchweek 10
+45,Arsenal,30-10-2024,@,Preston North End,EFL Cup,W,3,0,3,74,3,0,0,0,,,4th Round
+46,Arsenal,27-10-2024,,Liverpool,Premier League,D,2,2,0,45,2,0,0,0,0.9,0.8,Matchweek 9
+47,Arsenal,22-10-2024,,Shakhtar Donetsk,Champions League,W,1,0,1,56,0,0,1,1,1.8,0.7,Group Stage
+48,Arsenal,19-10-2024,@,Bournemouth,Premier League,L,0,2,-2,52,0,0,0,0,0.7,1.8,Matchweek 8
+49,Arsenal,05-10-2024,,Southampton,Premier League,W,3,1,2,59,3,0,0,0,2.8,0.6,Matchweek 7
+50,Arsenal,01-10-2024,,Paris Saint-Germain,Champions League,W,2,0,2,35,2,0,0,0,0.7,0.4,Group Stage
+51,Arsenal,28-09-2024,,Leicester City,Premier League,W,4,2,2,75,3,0,0,0,4.4,0.3,Matchweek 6
+52,Arsenal,25-09-2024,,Bolton Wanderers,EFL Cup,W,5,1,4,77,5,0,0,0,,,3rd Round
+53,Arsenal,22-09-2024,@,Manchester City,Premier League,D,2,2,0,22,2,0,0,0,0.7,2.1,Matchweek 5
+54,Arsenal,19-09-2024,@,Atalanta,Champions League,D,0,0,0,46,0,0,0,0,0.8,1.2,Group Stage
+55,Arsenal,15-09-2024,@,Tottenham Hotspur,Premier League,W,1,0,1,36,1,0,0,0,0.7,0.7,Matchweek 4
+56,Arsenal,31-08-2024,,Brighton,Premier League,D,1,1,0,36,1,0,0,0,2.1,1.7,Matchweek 3
+57,Arsenal,24-08-2024,@,Aston Villa,Premier League,W,2,0,2,61,2,0,0,0,0.9,1.2,Matchweek 2
+58,Arsenal,17-08-2024,,Wolves,Premier League,W,2,0,2,53,2,0,0,0,1.2,0.5,Matchweek 1
+59,Arsenal,19-05-2024,,Everton,Premier League,W,2,1,1,69,2,0,0,0,2.9,0.6,Matchweek 38
+60,Arsenal,12-05-2024,@,Manchester Utd,Premier League,W,1,0,1,46,1,0,0,0,1.5,0.5,Matchweek 37
+61,Arsenal,04-05-2024,,Bournemouth,Premier League,W,3,0,3,56,2,1,1,0,3.3,0.5,Matchweek 36
+62,Arsenal,28-04-2024,@,Tottenham Hotspur,Premier League,W,3,2,1,38,2,0,0,0,1,2.3,Matchweek 35
+63,Arsenal,23-04-2024,,Chelsea,Premier League,W,5,0,5,45,5,0,0,0,3.3,1.6,Matchweek 33
+64,Arsenal,20-04-2024,@,Wolves,Premier League,W,2,0,2,54,2,0,0,0,1.2,0.2,Matchweek 34
+65,Arsenal,17-04-2024,@,Bayern Munich,Champions League,L,0,1,-1,49,0,0,0,0,0.4,1.3,Quarter-Finals
+66,Arsenal,14-04-2024,,Aston Villa,Premier League,L,0,2,-2,51,0,0,0,0,1.6,0.9,Matchweek 33
+67,Arsenal,09-04-2024,,Bayern Munich,Champions League,D,2,2,0,59,2,0,0,0,1,1.9,Quarter-Finals
+68,Arsenal,06-04-2024,@,Brighton,Premier League,W,3,0,3,45,2,1,1,0,3.4,0.5,Matchweek 32
+69,Arsenal,03-04-2024,,Luton Town,Premier League,W,2,0,2,58,1,0,0,0,0.7,0.3,Matchweek 31
+70,Arsenal,31-03-2024,@,Manchester City,Premier League,D,0,0,0,28,0,0,0,0,0.7,1,Matchweek 30
+71,Arsenal,12-03-2024,,Porto,Champions League,W,1,0,1,58,1,0,0,0,0.9,0.5,Round of 16
+72,Arsenal,09-03-2024,,Brentford,Premier League,W,2,1,1,72,2,0,0,0,1.3,1,Matchweek 28
+73,Arsenal,04-03-2024,@,Sheffield United,Premier League,W,6,0,6,81,5,0,0,0,2.3,0.2,Matchweek 27
+74,Arsenal,24-02-2024,,Newcastle United,Premier League,W,4,1,3,55,3,0,0,0,2.8,0.2,Matchweek 26
+75,Arsenal,21-02-2024,@,Porto,Champions League,L,0,1,-1,65,0,0,0,0,0.4,1,Round of 16
+76,Arsenal,17-02-2024,@,Burnley,Premier League,W,5,0,5,65,4,1,1,0,2.3,0.3,Matchweek 25
+77,Arsenal,11-02-2024,@,West Ham United,Premier League,W,6,0,6,71,5,1,1,0,3.6,0.2,Matchweek 24
+78,Arsenal,04-02-2024,,Liverpool,Premier League,W,3,1,2,43,3,0,0,0,3.5,0.4,Matchweek 23
+79,Arsenal,30-01-2024,@,Nottingham Forest,Premier League,W,2,1,1,74,2,0,0,0,1.2,0.5,Matchweek 22
+80,Arsenal,20-01-2024,,Crystal Palace,Premier League,W,5,0,5,61,5,0,0,0,3.3,0.3,Matchweek 21
+81,Arsenal,07-01-2024,,Liverpool,FA Cup,L,0,2,-2,54,0,0,0,0,,,3rd Round
+82,Arsenal,31-12-2023,@,Fulham,Premier League,L,1,2,-1,61,1,0,0,0,1.6,1.2,Matchweek 20
+83,Arsenal,28-12-2023,,West Ham United,Premier League,L,0,2,-2,74,0,0,0,0,2.7,1.4,Matchweek 19
+84,Arsenal,23-12-2023,@,Liverpool,Premier League,D,1,1,0,49,1,0,0,0,0.7,1,Matchweek 18
+85,Arsenal,17-12-2023,,Brighton,Premier League,W,2,0,2,50,2,0,0,0,2.3,0.7,Matchweek 17
+86,Arsenal,12-12-2023,@,PSV,Champions League,D,1,1,0,58,1,0,0,0,1,1.3,Group Stage
+87,Arsenal,09-12-2023,@,Aston Villa,Premier League,L,0,1,-1,61,0,0,0,0,1.4,0.6,Matchweek 16
+88,Arsenal,05-12-2023,@,Luton Town,Premier League,W,4,3,1,67,4,0,0,0,2.2,0.5,Matchweek 15
+89,Arsenal,02-12-2023,,Wolves,Premier League,W,2,1,1,56,2,0,0,0,2.8,0.7,Matchweek 14
+90,Arsenal,29-11-2023,,Lens,Champions League,W,6,0,6,48,5,1,1,0,2.6,0.4,Group Stage
+91,Arsenal,25-11-2023,@,Brentford,Premier League,W,1,0,1,64,1,0,0,0,1.6,1.1,Matchweek 13
+92,Arsenal,11-11-2023,,Burnley,Premier League,W,3,1,2,64,3,0,0,0,1.8,0.3,Matchweek 12
+93,Arsenal,08-11-2023,,Sevilla,Champions League,W,2,0,2,62,2,0,0,0,1.5,0,Group Stage
+94,Arsenal,04-11-2023,@,Newcastle United,Premier League,L,0,1,-1,59,0,0,0,0,0.6,1,Matchweek 11
+95,Arsenal,01-11-2023,@,West Ham United,EFL Cup,L,1,3,-2,72,1,0,0,0,,,4th Round
+96,Arsenal,28-10-2023,,Sheffield United,Premier League,W,5,0,5,67,4,1,1,0,2.8,0,Matchweek 10
+97,Arsenal,24-10-2023,@,Sevilla,Champions League,W,2,1,1,44,2,0,0,0,1.9,0.8,Group Stage
+98,Arsenal,21-10-2023,@,Chelsea,Premier League,D,2,2,0,57,2,0,0,0,1,1.3,Matchweek 9
+99,Arsenal,08-10-2023,,Manchester City,Premier League,W,1,0,1,49,1,0,0,0,0.4,0.5,Matchweek 8
+100,Arsenal,03-10-2023,@,Lens,Champions League,L,1,2,-1,67,1,0,0,0,1.5,0.7,Group Stage
+101,Arsenal,30-09-2023,@,Bournemouth,Premier League,W,4,0,4,58,2,2,2,0,3.4,0.6,Matchweek 7
+102,Arsenal,27-09-2023,@,Brentford,EFL Cup,W,1,0,1,60,1,0,0,0,,,3rd Round
+103,Arsenal,24-09-2023,,Tottenham Hotspur,Premier League,D,2,2,0,47,0,1,1,0,1.8,1.4,Matchweek 6
+104,Arsenal,20-09-2023,,PSV,Champions League,W,4,0,4,59,4,0,0,0,2.3,0.5,Group Stage
+105,Arsenal,17-09-2023,@,Everton,Premier League,W,1,0,1,74,1,0,0,0,1,0.3,Matchweek 5
+106,Arsenal,03-09-2023,,Manchester Utd,Premier League,W,3,1,2,55,3,0,0,0,2.3,0.9,Matchweek 4
+107,Arsenal,26-08-2023,,Fulham,Premier League,D,2,2,0,71,1,1,1,0,3.2,0.6,Matchweek 3
+108,Arsenal,21-08-2023,@,Crystal Palace,Premier League,W,1,0,1,54,0,1,1,0,2,1,Matchweek 2
+109,Arsenal,12-08-2023,,Nottingham Forest,Premier League,W,2,1,1,79,2,0,0,0,0.8,1.2,Matchweek 1
+110,Arsenal,06-08-2023,N,Manchester City,FA Community Shield,D,1,1,0,45,1,0,0,0,1,1,Community Shield
+111,Arsenal,28-05-2023,,Wolves,Premier League,W,5,0,5,51,5,0,0,0,2.8,0.5,Matchweek 38
+112,Arsenal,20-05-2023,@,Nottingham Forest,Premier League,L,0,1,-1,82,0,0,0,0,0.6,0.6,Matchweek 37
+113,Arsenal,14-05-2023,,Brighton,Premier League,L,0,3,-3,41,0,0,0,0,0.9,1.7,Matchweek 36
+114,Arsenal,07-05-2023,@,Newcastle United,Premier League,W,2,0,2,46,1,0,0,0,1.3,1.3,Matchweek 35
+115,Arsenal,02-05-2023,,Chelsea,Premier League,W,3,1,2,55,3,0,0,0,1.7,0.8,Matchweek 34
+116,Arsenal,26-04-2023,@,Manchester City,Premier League,L,1,4,-3,48,1,0,0,0,0.5,2.5,Matchweek 33
+117,Arsenal,21-04-2023,,Southampton,Premier League,D,3,3,0,74,3,0,0,0,2.4,1.3,Matchweek 32
+118,Arsenal,16-04-2023,@,West Ham United,Premier League,D,2,2,0,72,2,0,1,1,2.7,1.8,Matchweek 31
+119,Arsenal,09-04-2023,@,Liverpool,Premier League,D,2,2,0,41,2,0,0,0,1.4,3.9,Matchweek 30
+120,Arsenal,01-04-2023,,Leeds United,Premier League,W,4,1,3,67,3,1,1,0,3.8,0.7,Matchweek 29
+121,Arsenal,19-03-2023,,Crystal Palace,Premier League,W,4,1,3,62,4,0,0,0,1.6,0.8,Matchweek 28
+122,Arsenal,16-03-2023,,Sporting CP,Europa League,D,1,1,0,53,1,0,0,0,1.6,1.3,Round of 16
+123,Arsenal,12-03-2023,@,Fulham,Premier League,W,3,0,3,55,3,0,0,0,2.3,0.8,Matchweek 27
+124,Arsenal,09-03-2023,@,Sporting CP,Europa League,D,2,2,0,68,1,0,0,0,2,2.2,Round of 16
+125,Arsenal,04-03-2023,,Bournemouth,Premier League,W,3,2,1,81,3,0,0,0,2.1,1.3,Matchweek 26
+126,Arsenal,01-03-2023,,Everton,Premier League,W,4,0,4,73,4,0,0,0,2.4,1.2,Matchweek 7
+127,Arsenal,25-02-2023,@,Leicester City,Premier League,W,1,0,1,66,1,0,0,0,0.7,0,Matchweek 25
+128,Arsenal,18-02-2023,@,Aston Villa,Premier League,W,4,2,2,67,3,0,0,0,3.2,0.5,Matchweek 24
+129,Arsenal,15-02-2023,,Manchester City,Premier League,L,1,3,-2,64,0,1,1,0,1.6,1.8,Matchweek 23
+130,Arsenal,11-02-2023,,Brentford,Premier League,D,1,1,0,69,1,0,0,0,1.6,2,Matchweek 22
+131,Arsenal,04-02-2023,@,Everton,Premier League,L,0,1,-1,70,0,0,0,0,0.9,1.7,Matchweek 21
+132,Arsenal,27-01-2023,@,Manchester City,FA Cup,L,0,1,-1,46,0,0,0,0,,,4th Round
+133,Arsenal,22-01-2023,,Manchester Utd,Premier League,W,3,2,1,58,3,0,0,0,3.1,0.4,Matchweek 19
+134,Arsenal,15-01-2023,@,Tottenham Hotspur,Premier League,W,2,0,2,49,1,0,0,0,1.8,1.6,Matchweek 20
+135,Arsenal,09-01-2023,@,Oxford United,FA Cup,W,3,0,3,64,3,0,0,0,,,3rd Round
+136,Arsenal,03-01-2023,,Newcastle United,Premier League,D,0,0,0,67,0,0,0,0,1.1,1,Matchweek 17
+137,Arsenal,31-12-2022,@,Brighton,Premier League,W,4,2,2,32,4,0,0,0,2.9,1.2,Matchweek 15
+138,Arsenal,26-12-2022,,West Ham United,Premier League,W,3,1,2,67,3,0,0,0,2.1,1,Matchweek 14
+139,Arsenal,12-11-2022,@,Wolves,Premier League,W,2,0,2,63,2,0,0,0,2.1,0.7,Matchweek 16
+140,Arsenal,09-11-2022,,Brighton,EFL Cup,L,1,3,-2,57,1,0,0,0,,,3rd Round
+141,Arsenal,06-11-2022,@,Chelsea,Premier League,W,1,0,1,56,1,0,0,0,2.1,0.3,Matchweek 14
+142,Arsenal,03-11-2022,,Zurich,Europa League,W,1,0,1,56,1,0,0,0,1.6,0.4,Group Stage
+143,Arsenal,30-10-2022,,Nottingham Forest,Premier League,W,5,0,5,69,5,0,0,0,2.3,0.4,Matchweek 13
+144,Arsenal,27-10-2022,@,PSV,Europa League,L,0,2,-2,70,0,0,0,0,1.4,0.8,Group Stage
+145,Arsenal,23-10-2022,@,Southampton,Premier League,D,1,1,0,60,1,0,0,0,1,0.7,Matchweek 12
+146,Arsenal,20-10-2022,,PSV,Europa League,W,1,0,1,62,1,0,0,0,2.7,0.3,Group Stage
+147,Arsenal,16-10-2022,@,Leeds United,Premier League,W,1,0,1,54,1,0,0,0,0.5,1.8,Matchweek 11
+148,Arsenal,13-10-2022,@,Bodo Glimt,Europa League,W,1,0,1,55,1,0,0,0,0.7,0.5,Group Stage
+149,Arsenal,09-10-2022,,Liverpool,Premier League,W,3,2,1,44,2,1,1,0,2.7,1.1,Matchweek 10
+150,Arsenal,06-10-2022,,Bodo Glimt,Europa League,W,3,0,3,49,3,0,0,0,3.4,0.8,Group Stage
+151,Arsenal,01-10-2022,,Tottenham Hotspur,Premier League,W,3,1,2,65,3,0,0,0,2.4,1.6,Matchweek 9
+152,Arsenal,18-09-2022,@,Brentford,Premier League,W,3,0,3,64,3,0,0,0,1.5,0.5,Matchweek 5
+153,Arsenal,08-09-2022,@,Zurich,Europa League,W,2,1,1,70,2,0,0,0,2.3,1.2,Group Stage
+154,Arsenal,04-09-2022,@,Manchester Utd,Premier League,L,1,3,-2,61,1,0,0,0,1.3,1.5,Matchweek 6
+155,Arsenal,31-08-2022,,Aston Villa,Premier League,W,2,1,1,60,2,0,0,0,2.4,0.4,Matchweek 5
+156,Arsenal,27-08-2022,,Fulham,Premier League,W,2,1,1,72,2,0,0,0,2.6,0.8,Matchweek 4
+157,Arsenal,20-08-2022,@,Bournemouth,Premier League,W,3,0,3,59,3,0,0,0,1.3,0.3,Matchweek 3
+158,Arsenal,13-08-2022,,Leicester City,Premier League,W,4,2,2,50,4,0,0,0,2.7,0.5,Matchweek 2
+159,Arsenal,05-08-2022,@,Crystal Palace,Premier League,W,2,0,2,44,1,0,0,0,1,1.2,Matchweek 1
+160,Arsenal,22-05-2022,,Everton,Premier League,W,5,1,4,74,4,1,1,0,4.2,1.1,Matchweek 38
+161,Arsenal,16-05-2022,@,Newcastle United,Premier League,L,0,2,-2,49,0,0,0,0,0.6,1.6,Matchweek 37
+162,Arsenal,12-05-2022,@,Tottenham Hotspur,Premier League,L,0,3,-3,42,0,0,0,0,0.5,2.7,Matchweek 22
+163,Arsenal,08-05-2022,,Leeds United,Premier League,W,2,1,1,64,2,0,0,0,2,0.3,Matchweek 36
+164,Arsenal,01-05-2022,@,West Ham United,Premier League,W,2,1,1,44,2,0,0,0,0.9,0.5,Matchweek 35
+165,Arsenal,23-04-2022,,Manchester Utd,Premier League,W,3,1,2,56,2,1,1,0,2.3,1.8,Matchweek 34
+166,Arsenal,20-04-2022,@,Chelsea,Premier League,W,4,2,2,32,3,1,1,0,2,0.7,Matchweek 25
+167,Arsenal,16-04-2022,@,Southampton,Premier League,L,0,1,-1,76,0,0,0,0,1.7,0.8,Matchweek 33
+168,Arsenal,09-04-2022,,Brighton,Premier League,L,1,2,-1,65,1,0,0,0,1.9,0.6,Matchweek 32
+169,Arsenal,04-04-2022,@,Crystal Palace,Premier League,L,0,3,-3,69,0,0,0,0,0.8,1.5,Matchweek 31
+170,Arsenal,19-03-2022,@,Aston Villa,Premier League,W,1,0,1,54,1,0,0,0,1.3,0.5,Matchweek 30
+171,Arsenal,16-03-2022,,Liverpool,Premier League,L,0,2,-2,49,0,0,0,0,0.5,0.8,Matchweek 27
+172,Arsenal,13-03-2022,,Leicester City,Premier League,W,2,0,2,46,1,1,1,0,2.4,0.4,Matchweek 28
+173,Arsenal,06-03-2022,@,Watford,Premier League,W,3,2,1,57,3,0,0,0,1,1,Matchweek 26
+174,Arsenal,24-02-2022,,Wolves,Premier League,W,2,1,1,55,1,0,0,0,3.1,1,Matchweek 24
+175,Arsenal,19-02-2022,,Brentford,Premier League,W,2,1,1,67,2,0,0,0,1.7,0.6,Matchweek 24
+176,Arsenal,10-02-2022,@,Wolves,Premier League,W,1,0,1,41,1,0,0,0,1.8,0.8,Matchweek 24
+177,Arsenal,23-01-2022,,Burnley,Premier League,D,0,0,0,76,0,0,0,0,1.2,0.4,Matchweek 23
+178,Arsenal,20-01-2022,,Liverpool,EFL Cup,L,0,2,-2,46,0,0,0,0,,,Semi-Finals
+179,Arsenal,13-01-2022,@,Liverpool,EFL Cup,D,0,0,0,22,0,0,0,0,,,Semi-Finals
+180,Arsenal,09-01-2022,@,Nottingham Forest,FA Cup,L,0,1,-1,67,0,0,0,0,,,3rd Round
+181,Arsenal,01-01-2022,,Manchester City,Premier League,L,1,2,-1,29,1,0,0,0,0.8,2,Matchweek 21
+182,Arsenal,26-12-2021,@,Norwich City,Premier League,W,5,0,5,65,4,1,1,0,2.5,0.1,Matchweek 19
+183,Arsenal,21-12-2021,,Sunderland,EFL Cup,W,5,1,4,68,5,0,0,0,,,4th Round
+184,Arsenal,18-12-2021,@,Leeds United,Premier League,W,4,1,3,49,4,0,0,0,3.5,1.6,Matchweek 18
+185,Arsenal,15-12-2021,,West Ham United,Premier League,W,2,0,2,57,2,0,1,1,2.8,0.4,Matchweek 17
+186,Arsenal,11-12-2021,,Southampton,Premier League,W,3,0,3,62,3,0,0,0,1.8,0.6,Matchweek 16
+187,Arsenal,06-12-2021,@,Everton,Premier League,L,1,2,-1,64,1,0,0,0,1,0.9,Matchweek 15
+188,Arsenal,02-12-2021,@,Manchester Utd,Premier League,L,2,3,-1,55,2,0,0,0,1.4,1.9,Matchweek 14
+189,Arsenal,27-11-2021,,Newcastle United,Premier League,W,2,0,2,66,2,0,0,0,2.5,0.3,Matchweek 13
+190,Arsenal,20-11-2021,@,Liverpool,Premier League,L,0,4,-4,37,0,0,0,0,0.4,4.3,Matchweek 12
+191,Arsenal,07-11-2021,,Watford,Premier League,W,1,0,1,61,1,0,1,1,1.6,0.5,Matchweek 11
+192,Arsenal,30-10-2021,@,Leicester City,Premier League,W,2,0,2,36,2,0,0,0,0.7,1.3,Matchweek 10
+193,Arsenal,26-10-2021,,Leeds United,EFL Cup,W,2,0,2,45,2,0,0,0,,,4th Round
+194,Arsenal,22-10-2021,,Aston Villa,Premier League,W,3,1,2,54,3,0,1,1,2.7,1.4,Matchweek 9
+195,Arsenal,18-10-2021,,Crystal Palace,Premier League,D,2,2,0,54,2,0,0,0,1.7,0.7,Matchweek 8
+196,Arsenal,02-10-2021,@,Brighton,Premier League,D,0,0,0,42,0,0,0,0,0.4,1.1,Matchweek 7
+197,Arsenal,26-09-2021,,Tottenham Hotspur,Premier League,W,3,1,2,47,3,0,0,0,1.1,1,Matchweek 6
+198,Arsenal,22-09-2021,,AFC Wimbledon,EFL Cup,W,3,0,3,62,2,1,1,0,,,3rd Round
+199,Arsenal,18-09-2021,@,Burnley,Premier League,W,1,0,1,56,1,0,0,0,1.1,1,Matchweek 5
+200,Arsenal,11-09-2021,,Norwich City,Premier League,W,1,0,1,52,1,0,0,0,2.7,0.7,Matchweek 4
+201,Arsenal,28-08-2021,@,Manchester City,Premier League,L,0,5,-5,19,0,0,0,0,0.2,4.4,Matchweek 3
+202,Arsenal,25-08-2021,@,West Brom,EFL Cup,W,6,0,6,75,6,0,0,0,,,3rd Round
+203,Arsenal,22-08-2021,,Chelsea,Premier League,L,0,2,-2,35,0,0,0,0,0.3,3.1,Matchweek 2
+204,Arsenal,13-08-2021,@,Brentford,Premier League,L,0,2,-2,65,0,0,0,0,1.3,1.2,Matchweek 1
+205,Arsenal,23-05-2021,,Brighton,Premier League,W,2,0,2,54,2,0,0,0,0.8,0.2,Matchweek 38
+206,Arsenal,19-05-2021,@,Crystal Palace,Premier League,W,3,1,2,69,3,0,0,0,1.8,1,Matchweek 37
+207,Arsenal,12-05-2021,@,Chelsea,Premier League,W,1,0,1,32,1,0,0,0,0.6,1.8,Matchweek 36
+208,Arsenal,09-05-2021,,West Brom,Premier League,W,3,1,2,66,3,0,0,0,0.9,1.8,Matchweek 35
+209,Arsenal,06-05-2021,,Villarreal,Europa League,D,0,0,0,56,0,0,0,0,1.1,0.3,Semi-Finals
+210,Arsenal,02-05-2021,@,Newcastle United,Premier League,W,2,0,2,62,2,0,0,0,2,0.3,Matchweek 34
+211,Arsenal,29-04-2021,@,Villarreal,Europa League,L,1,2,-1,53,0,1,1,0,1.2,1.2,Semi-Finals
+212,Arsenal,23-04-2021,,Everton,Premier League,L,0,1,-1,59,0,0,0,0,0.8,0.5,Matchweek 33
+213,Arsenal,18-04-2021,,Fulham,Premier League,D,1,1,0,69,1,0,0,0,2.7,0.9,Matchweek 32
+214,Arsenal,15-04-2021,@,Slavia Prague,Europa League,W,4,0,4,39,3,1,1,0,1.9,0.4,Quarter-Finals
+215,Arsenal,11-04-2021,@,Sheffield United,Premier League,W,3,0,3,55,3,0,0,0,1.7,0.3,Matchweek 31
+216,Arsenal,08-04-2021,,Slavia Prague,Europa League,D,1,1,0,55,1,0,0,0,2.1,0.7,Quarter-Finals
+217,Arsenal,03-04-2021,,Liverpool,Premier League,L,0,3,-3,36,0,0,0,0,0.1,2.4,Matchweek 30
+218,Arsenal,21-03-2021,@,West Ham United,Premier League,D,3,3,0,63,1,0,0,0,1.4,2.4,Matchweek 29
+219,Arsenal,18-03-2021,,Olympiacos,Europa League,L,0,1,-1,46,0,0,0,0,2.5,0.7,Round of 16
+220,Arsenal,14-03-2021,,Tottenham Hotspur,Premier League,W,2,1,1,53,1,1,1,0,1.7,0.4,Matchweek 28
+221,Arsenal,11-03-2021,@,Olympiacos,Europa League,W,3,1,2,59,3,0,0,0,1.1,0.8,Round of 16
+222,Arsenal,06-03-2021,@,Burnley,Premier League,D,1,1,0,59,1,0,0,0,2.5,1.1,Matchweek 27
+223,Arsenal,28-02-2021,@,Leicester City,Premier League,W,3,1,2,56,2,1,1,0,2.3,0.4,Matchweek 26
+224,Arsenal,25-02-2021,N,Benfica,Europa League,W,3,2,1,53,3,0,0,0,1.5,0.9,Round of 32
+225,Arsenal,21-02-2021,,Manchester City,Premier League,L,0,1,-1,45,0,0,0,0,0.3,1.8,Matchweek 25
+226,Arsenal,18-02-2021,N,Benfica,Europa League,D,1,1,0,59,1,0,0,0,1.4,1,Round of 32
+227,Arsenal,14-02-2021,,Leeds United,Premier League,W,4,2,2,46,3,1,1,0,2.3,0.9,Matchweek 24
+228,Arsenal,06-02-2021,@,Aston Villa,Premier League,L,0,1,-1,66,0,0,0,0,0.8,1.2,Matchweek 23
+229,Arsenal,02-02-2021,@,Wolves,Premier League,L,1,2,-1,45,1,0,0,0,0.8,1.5,Matchweek 22
+230,Arsenal,30-01-2021,,Manchester Utd,Premier League,D,0,0,0,43,0,0,0,0,0.9,1.6,Matchweek 21
+231,Arsenal,26-01-2021,@,Southampton,Premier League,W,3,1,2,42,3,0,0,0,2.2,0.8,Matchweek 20
+232,Arsenal,23-01-2021,@,Southampton,FA Cup,L,0,1,-1,62,0,0,0,0,,,4th Round
+233,Arsenal,18-01-2021,,Newcastle United,Premier League,W,3,0,3,66,3,0,0,0,2.4,0.2,Matchweek 19
+234,Arsenal,14-01-2021,,Crystal Palace,Premier League,D,0,0,0,67,0,0,0,0,0.4,0.8,Matchweek 18
+235,Arsenal,09-01-2021,,Newcastle United,FA Cup,W,2,0,2,61,2,0,0,0,,,3rd Round
+236,Arsenal,02-01-2021,@,West Brom,Premier League,W,4,0,4,62,4,0,0,0,3.7,1,Matchweek 17
+237,Arsenal,29-12-2020,@,Brighton,Premier League,W,1,0,1,50,1,0,0,0,1.1,0.8,Matchweek 16
+238,Arsenal,26-12-2020,,Chelsea,Premier League,W,3,1,2,40,2,1,1,0,2,2.6,Matchweek 15
+239,Arsenal,22-12-2020,,Manchester City,EFL Cup,L,1,4,-3,43,1,0,0,0,,,Quarter-Finals
+240,Arsenal,19-12-2020,@,Everton,Premier League,L,1,2,-1,58,0,1,1,0,1.4,0.6,Matchweek 14
+241,Arsenal,16-12-2020,,Southampton,Premier League,D,1,1,0,35,1,0,0,0,0.6,1.2,Matchweek 13
+242,Arsenal,13-12-2020,,Burnley,Premier League,L,0,1,-1,65,0,0,0,0,1.6,1.4,Matchweek 12
+243,Arsenal,10-12-2020,@,Dundalk FC,Europa League,W,4,2,2,52,4,0,0,0,1.5,0.3,Group Stage
+244,Arsenal,06-12-2020,@,Tottenham Hotspur,Premier League,L,0,2,-2,69,0,0,0,0,0.6,0.3,Matchweek 11
+245,Arsenal,03-12-2020,,Rapid Wien,Europa League,W,4,1,3,71,4,0,0,0,2.9,1.5,Group Stage
+246,Arsenal,29-11-2020,,Wolves,Premier League,L,1,2,-1,56,1,0,0,0,1.5,1.8,Matchweek 10
+247,Arsenal,26-11-2020,@,Molde,Europa League,W,3,0,3,50,3,0,0,0,2.4,1.3,Group Stage
+248,Arsenal,22-11-2020,@,Leeds United,Premier League,D,0,0,0,34,0,0,0,0,0.9,1.8,Matchweek 9
+249,Arsenal,08-11-2020,,Aston Villa,Premier League,L,0,3,-3,59,0,0,0,0,1.5,1.8,Matchweek 8
+250,Arsenal,05-11-2020,,Molde,Europa League,W,4,1,3,58,2,0,0,0,2.6,0.2,Group Stage
+251,Arsenal,01-11-2020,@,Manchester Utd,Premier League,W,1,0,1,47,0,1,1,0,1,0.4,Matchweek 7
+252,Arsenal,29-10-2020,,Dundalk FC,Europa League,W,3,0,3,62,3,0,0,0,3,0.2,Group Stage
+253,Arsenal,25-10-2020,,Leicester City,Premier League,L,0,1,-1,57,0,0,0,0,0.7,0.7,Matchweek 6
+254,Arsenal,22-10-2020,@,Rapid Wien,Europa League,W,2,1,1,67,2,0,0,0,1.5,1.5,Group Stage
+255,Arsenal,17-10-2020,@,Manchester City,Premier League,L,0,1,-1,41,0,0,0,0,0.9,1.3,Matchweek 5
+256,Arsenal,04-10-2020,,Sheffield United,Premier League,W,2,1,1,65,2,0,0,0,0.6,0.2,Matchweek 4
+257,Arsenal,01-10-2020,@,Liverpool,EFL Cup,D,0,0,0,44,0,0,0,0,,,4th Round
+258,Arsenal,28-09-2020,@,Liverpool,Premier League,L,1,3,-2,34,1,0,0,0,1.3,2.7,Matchweek 3
+259,Arsenal,23-09-2020,@,Leicester City,EFL Cup,W,2,0,2,51,1,0,0,0,,,3rd Round
+260,Arsenal,19-09-2020,,West Ham United,Premier League,W,2,1,1,63,2,0,0,0,1.1,2,Matchweek 2
+261,Arsenal,12-09-2020,@,Fulham,Premier League,W,3,0,3,55,3,0,0,0,1.9,0.1,Matchweek 1
+262,Arsenal,29-08-2020,N,Liverpool,FA Community Shield,D,1,1,0,40,1,0,0,0,1,1,Community Shield
+263,Arsenal,01-08-2020,N,Chelsea,FA Cup,W,2,1,1,40,1,1,1,0,,,Final
+264,Arsenal,26-07-2020,,Watford,Premier League,W,3,2,1,51,2,1,1,0,2.3,3.7,Matchweek 38
+265,Arsenal,21-07-2020,@,Aston Villa,Premier League,L,0,1,-1,69,0,0,0,0,0.6,0.6,Matchweek 37
+266,Arsenal,18-07-2020,N,Manchester City,FA Cup,W,2,0,2,29,2,0,0,0,,,Semi-Finals
+267,Arsenal,15-07-2020,,Liverpool,Premier League,W,2,1,1,31,2,0,0,0,0.8,2.1,Matchweek 36
+268,Arsenal,12-07-2020,@,Tottenham Hotspur,Premier League,L,1,2,-1,63,1,0,0,0,0.6,2,Matchweek 35
+269,Arsenal,07-07-2020,,Leicester City,Premier League,D,1,1,0,38,1,0,0,0,1.1,0.9,Matchweek 34
+270,Arsenal,04-07-2020,@,Wolves,Premier League,W,2,0,2,48,2,0,0,0,1.3,1.2,Matchweek 33
+271,Arsenal,01-07-2020,,Norwich City,Premier League,W,4,0,4,52,4,0,0,0,1.5,0.3,Matchweek 32
+272,Arsenal,28-06-2020,@,Sheffield United,FA Cup,W,2,1,1,59,1,1,1,0,,,5th Round
+273,Arsenal,25-06-2020,@,Southampton,Premier League,W,2,0,2,48,2,0,0,0,1.9,0.9,Matchweek 31
+274,Arsenal,20-06-2020,@,Brighton,Premier League,L,1,2,-1,59,1,0,0,0,0.8,1,Matchweek 30
+275,Arsenal,17-06-2020,@,Manchester City,Premier League,L,0,3,-3,33,0,0,0,0,0.3,2.6,Matchweek 28
+276,Arsenal,07-03-2020,,West Ham United,Premier League,W,1,0,1,69,1,0,0,0,1.2,1.5,Matchweek 29
+277,Arsenal,02-03-2020,@,Portsmouth,FA Cup,W,2,0,2,73,2,0,0,0,,,5th Round
+278,Arsenal,27-02-2020,,Olympiacos,Europa League,L,1,2,-1,61,1,0,0,0,2,1.2,Round of 32
+279,Arsenal,23-02-2020,,Everton,Premier League,W,3,2,1,51,3,0,0,0,1.3,2.7,Matchweek 27
+280,Arsenal,20-02-2020,@,Olympiacos,Europa League,W,1,0,1,49,1,0,0,0,2.3,0.4,Round of 32
+281,Arsenal,16-02-2020,,Newcastle United,Premier League,W,4,0,4,69,4,0,0,0,2.6,0.9,Matchweek 26
+282,Arsenal,02-02-2020,@,Burnley,Premier League,D,0,0,0,58,0,0,0,0,1.2,1.9,Matchweek 25
+283,Arsenal,27-01-2020,@,Bournemouth,FA Cup,W,2,1,1,60,2,0,0,0,,,4th Round
+284,Arsenal,21-01-2020,@,Chelsea,Premier League,D,2,2,0,41,2,0,0,0,0.4,2.9,Matchweek 24
+285,Arsenal,18-01-2020,,Sheffield United,Premier League,D,1,1,0,61,1,0,0,0,1.4,0.8,Matchweek 23
+286,Arsenal,11-01-2020,@,Crystal Palace,Premier League,D,1,1,0,58,1,0,0,0,1.4,0.6,Matchweek 22
+287,Arsenal,06-01-2020,,Leeds United,FA Cup,W,1,0,1,42,1,0,0,0,,,3rd Round
+288,Arsenal,01-01-2020,,Manchester Utd,Premier League,W,2,0,2,49,2,0,0,0,1.5,0.7,Matchweek 21
+289,Arsenal,29-12-2019,,Chelsea,Premier League,L,1,2,-1,42,1,0,0,0,0.5,1.4,Matchweek 20
+290,Arsenal,26-12-2019,@,Bournemouth,Premier League,D,1,1,0,61,1,0,0,0,1.4,2,Matchweek 19
+291,Arsenal,21-12-2019,@,Everton,Premier League,D,0,0,0,57,0,0,0,0,0.6,0.5,Matchweek 18
+292,Arsenal,15-12-2019,,Manchester City,Premier League,L,0,3,-3,42,0,0,0,0,0.5,1.3,Matchweek 17
+293,Arsenal,12-12-2019,@,Standard Liage,Europa League,D,2,2,0,57,2,0,0,0,1.6,0.5,Group Stage
+294,Arsenal,09-12-2019,@,West Ham United,Premier League,W,3,1,2,64,3,0,0,0,1.4,0.6,Matchweek 16
+295,Arsenal,05-12-2019,,Brighton,Premier League,L,1,2,-1,49,1,0,0,0,0.9,1.7,Matchweek 15
+296,Arsenal,01-12-2019,@,Norwich City,Premier League,D,2,2,0,60,1,1,1,0,1.9,0.8,Matchweek 14
+297,Arsenal,28-11-2019,,Eintracht Frankfurt,Europa League,L,1,2,-1,58,1,0,0,0,1.3,1.2,Group Stage
+298,Arsenal,23-11-2019,,Southampton,Premier League,D,2,2,0,61,2,0,0,0,1.8,2.4,Matchweek 13
+299,Arsenal,09-11-2019,@,Leicester City,Premier League,L,0,2,-2,49,0,0,0,0,1,1.2,Matchweek 12
+300,Arsenal,06-11-2019,@,Vitoria Guimaraes,Europa League,D,1,1,0,65,1,0,0,0,1.2,1,Group Stage
+301,Arsenal,02-11-2019,,Wolves,Premier League,D,1,1,0,58,1,0,0,0,0.9,1.8,Matchweek 11
+302,Arsenal,30-10-2019,@,Liverpool,EFL Cup,D,5,5,0,34,5,0,0,0,,,4th Round
+303,Arsenal,27-10-2019,,Crystal Palace,Premier League,D,2,2,0,57,2,0,0,0,1.3,1.6,Matchweek 10
+304,Arsenal,24-10-2019,,Vitoria Guimaraes,Europa League,W,3,2,1,68,3,0,0,0,2.3,1.7,Group Stage
+305,Arsenal,21-10-2019,@,Sheffield United,Premier League,L,0,1,-1,69,0,0,0,0,1,0.9,Matchweek 9
+306,Arsenal,06-10-2019,,Bournemouth,Premier League,W,1,0,1,53,1,0,0,0,1.2,0.6,Matchweek 8
+307,Arsenal,03-10-2019,,Standard Liage,Europa League,W,4,0,4,62,4,0,0,0,4.9,0.6,Group Stage
+308,Arsenal,30-09-2019,@,Manchester Utd,Premier League,D,1,1,0,45,1,0,0,0,1.9,0.9,Matchweek 7
+309,Arsenal,24-09-2019,,Nottingham Forest,EFL Cup,W,5,0,5,68,5,0,0,0,,,3rd Round
+310,Arsenal,22-09-2019,,Aston Villa,Premier League,W,3,2,1,58,2,1,1,0,2.4,1.5,Matchweek 6
+311,Arsenal,19-09-2019,@,Eintracht Frankfurt,Europa League,W,3,0,3,44,3,0,0,0,3.2,1.8,Group Stage
+312,Arsenal,15-09-2019,@,Watford,Premier League,D,2,2,0,47,2,0,0,0,0.8,2.7,Matchweek 5
+313,Arsenal,01-09-2019,,Tottenham Hotspur,Premier League,D,2,2,0,55,2,0,0,0,2.4,2,Matchweek 4
+314,Arsenal,24-08-2019,@,Liverpool,Premier League,L,1,3,-2,47,1,0,0,0,1,2.5,Matchweek 3
+315,Arsenal,17-08-2019,,Burnley,Premier League,W,2,1,1,68,2,0,0,0,0.8,1.5,Matchweek 2
+316,Arsenal,11-08-2019,@,Newcastle United,Premier League,W,1,0,1,62,1,0,0,0,1.1,0.4,Matchweek 1
+317,Arsenal,29-05-2019,N,Chelsea,Europa League,L,1,4,-3,50,1,0,0,0,1.4,1.9,Final
+318,Arsenal,12-05-2019,@,Burnley,Premier League,W,3,1,2,60,3,0,0,0,2.7,1.7,Matchweek 38
+319,Arsenal,09-05-2019,@,Valencia,Europa League,W,4,2,2,44,4,0,0,0,0.7,2.5,Semi-Finals
+320,Arsenal,05-05-2019,,Brighton,Premier League,D,1,1,0,71,0,1,1,0,2.4,1.9,Matchweek 37
+321,Arsenal,02-05-2019,,Valencia,Europa League,W,3,1,2,58,3,0,0,0,2.3,2.6,Semi-Finals
+322,Arsenal,28-04-2019,@,Leicester City,Premier League,L,0,3,-3,33,0,0,0,0,0.6,3.3,Matchweek 36
+323,Arsenal,24-04-2019,@,Wolves,Premier League,L,1,3,-2,71,1,0,0,0,0.8,1.2,Matchweek 31
+324,Arsenal,21-04-2019,,Crystal Palace,Premier League,L,2,3,-1,73,2,0,0,0,1.2,1.6,Matchweek 35
+325,Arsenal,18-04-2019,@,Napoli,Europa League,W,1,0,1,30,1,0,0,0,0.7,1.4,Quarter-Finals
+326,Arsenal,15-04-2019,@,Watford,Premier League,W,1,0,1,66,1,0,0,0,2.3,1,Matchweek 34
+327,Arsenal,11-04-2019,,Napoli,Europa League,W,2,0,2,42,1,0,0,0,2,0.8,Quarter-Finals
+328,Arsenal,07-04-2019,@,Everton,Premier League,L,0,1,-1,57,0,0,0,0,0.3,2.4,Matchweek 33
+329,Arsenal,01-04-2019,,Newcastle United,Premier League,W,2,0,2,71,2,0,0,0,0.8,0.1,Matchweek 32
+330,Arsenal,14-03-2019,,Rennes,Europa League,W,3,0,3,55,3,0,0,0,3.2,0.5,Round of 16
+331,Arsenal,10-03-2019,,Manchester Utd,Premier League,W,2,0,2,46,1,1,1,0,1.7,2.3,Matchweek 30
+332,Arsenal,07-03-2019,@,Rennes,Europa League,L,1,3,-2,49,1,0,0,0,0.7,1.6,Round of 16
+333,Arsenal,02-03-2019,@,Tottenham Hotspur,Premier League,D,1,1,0,40,1,0,1,1,2.6,1.6,Matchweek 29
+334,Arsenal,27-02-2019,,Bournemouth,Premier League,W,5,1,4,65,5,0,0,0,2.5,0.9,Matchweek 28
+335,Arsenal,24-02-2019,,Southampton,Premier League,W,2,0,2,62,2,0,0,0,2.1,0.8,Matchweek 27
+336,Arsenal,21-02-2019,,BATE Borisov,Europa League,W,3,0,3,68,2,0,0,0,2.2,0.6,Round of 32
+337,Arsenal,14-02-2019,@,BATE Borisov,Europa League,L,0,1,-1,77,0,0,0,0,1.8,0.7,Round of 32
+338,Arsenal,09-02-2019,@,Huddersfield Town,Premier League,W,2,1,1,45,2,0,0,0,1.4,1.6,Matchweek 26
+339,Arsenal,03-02-2019,@,Manchester City,Premier League,L,1,3,-2,41,1,0,0,0,0.7,2.7,Matchweek 25
+340,Arsenal,29-01-2019,,Cardiff City,Premier League,W,2,1,1,71,1,1,1,0,2.6,0.8,Matchweek 23
+341,Arsenal,25-01-2019,,Manchester Utd,FA Cup,L,1,3,-2,63,1,0,0,0,,,4th Round
+342,Arsenal,19-01-2019,,Chelsea,Premier League,W,2,0,2,36,2,0,0,0,1.5,0.9,Matchweek 23
+343,Arsenal,12-01-2019,@,West Ham United,Premier League,L,0,1,-1,59,0,0,0,0,0.7,0.6,Matchweek 22
+344,Arsenal,05-01-2019,@,Blackpool,FA Cup,W,3,0,3,58,3,0,0,0,,,3rd Round
+345,Arsenal,01-01-2019,,Fulham,Premier League,W,4,1,3,60,4,0,0,0,4.5,1.4,Matchweek 21
+346,Arsenal,29-12-2018,@,Liverpool,Premier League,L,1,5,-4,52,1,0,0,0,1,3.8,Matchweek 20
+347,Arsenal,26-12-2018,@,Brighton,Premier League,D,1,1,0,68,1,0,0,0,0.8,1.1,Matchweek 19
+348,Arsenal,22-12-2018,,Burnley,Premier League,W,3,1,2,60,3,0,0,0,1.6,1.2,Matchweek 18
+349,Arsenal,19-12-2018,,Tottenham Hotspur,EFL Cup,L,0,2,-2,54,0,0,0,0,,,Quarter-Finals
+350,Arsenal,16-12-2018,@,Southampton,Premier League,L,2,3,-1,66,2,0,0,0,1.9,1.3,Matchweek 17
+351,Arsenal,13-12-2018,,Qarabag,Europa League,W,1,0,1,67,1,0,0,0,1,0.1,Group Stage
+352,Arsenal,08-12-2018,,Huddersfield Town,Premier League,W,1,0,1,62,1,0,0,0,1.4,0.3,Matchweek 16
+353,Arsenal,05-12-2018,@,Manchester Utd,Premier League,D,2,2,0,55,1,0,0,0,1.1,1.1,Matchweek 15
+354,Arsenal,02-12-2018,,Tottenham Hotspur,Premier League,W,4,2,2,59,3,1,1,0,2.7,1.2,Matchweek 14
+355,Arsenal,29-11-2018,@,Vorskla Poltava,Europa League,W,3,0,3,57,2,1,1,0,2.2,0.8,Group Stage
+356,Arsenal,25-11-2018,@,Bournemouth,Premier League,W,2,1,1,59,1,0,0,0,1.6,0.6,Matchweek 13
+357,Arsenal,11-11-2018,,Wolves,Premier League,D,1,1,0,72,1,0,0,0,0.9,1.9,Matchweek 12
+358,Arsenal,08-11-2018,,Sporting CP,Europa League,D,0,0,0,71,0,0,0,0,1.3,0.2,Group Stage
+359,Arsenal,03-11-2018,,Liverpool,Premier League,D,1,1,0,62,1,0,0,0,1.4,1.3,Matchweek 11
+360,Arsenal,31-10-2018,,Blackpool,EFL Cup,W,2,1,1,63,2,0,0,0,,,4th Round
+361,Arsenal,28-10-2018,@,Crystal Palace,Premier League,D,2,2,0,58,2,0,0,0,0.9,2.3,Matchweek 10
+362,Arsenal,25-10-2018,@,Sporting CP,Europa League,W,1,0,1,67,1,0,0,0,1.6,0.5,Group Stage
+363,Arsenal,22-10-2018,,Leicester City,Premier League,W,3,1,2,69,3,0,0,0,2.7,0.5,Matchweek 9
+364,Arsenal,07-10-2018,@,Fulham,Premier League,W,5,1,4,51,5,0,0,0,1.1,1.4,Matchweek 8
+365,Arsenal,04-10-2018,@,Qarabag,Europa League,W,3,0,3,53,3,0,0,0,2.5,1,Group Stage
+366,Arsenal,29-09-2018,,Watford,Premier League,W,2,0,2,64,1,0,0,0,1.4,2.8,Matchweek 7
+367,Arsenal,26-09-2018,,Brentford,EFL Cup,W,3,1,2,51,3,0,0,0,,,3rd Round
+368,Arsenal,23-09-2018,,Everton,Premier League,W,2,0,2,63,2,0,0,0,0.8,0.8,Matchweek 6
+369,Arsenal,20-09-2018,,Vorskla Poltava,Europa League,W,4,2,2,68,4,0,0,0,2.7,0.5,Group Stage
+370,Arsenal,15-09-2018,@,Newcastle United,Premier League,W,2,1,1,64,2,0,0,0,1,0.4,Matchweek 5
+371,Arsenal,02-09-2018,@,Cardiff City,Premier League,W,3,2,1,72,3,0,0,0,1.7,1,Matchweek 4
+372,Arsenal,25-08-2018,,West Ham United,Premier League,W,3,1,2,62,2,0,0,0,1.8,1.1,Matchweek 3
+373,Arsenal,18-08-2018,@,Chelsea,Premier League,L,2,3,-1,38,2,0,0,0,2.4,1.6,Matchweek 2
+374,Arsenal,12-08-2018,,Manchester City,Premier League,L,0,2,-2,42,0,0,0,0,0.5,1.7,Matchweek 1
+375,Arsenal,13-05-2018,@,Huddersfield Town,Premier League,W,1,0,1,56,1,0,0,0,2,1.7,Matchweek 38
+376,Arsenal,09-05-2018,@,Leicester City,Premier League,L,1,3,-2,60,1,0,0,0,1.4,2.2,Matchweek 31
+377,Arsenal,06-05-2018,,Burnley,Premier League,W,5,0,5,64,5,0,0,0,2.6,0.3,Matchweek 37
+378,Arsenal,03-05-2018,@,Atletico Madrid,Europa League,L,0,1,-1,55,0,0,0,0,0.3,1.9,Semi-Finals
+379,Arsenal,29-04-2018,@,Manchester Utd,Premier League,L,1,2,-1,41,1,0,0,0,0.5,1.7,Matchweek 36
+380,Arsenal,26-04-2018,,Atletico Madrid,Europa League,D,1,1,0,76,1,0,0,0,2.6,1,Semi-Finals
+381,Arsenal,22-04-2018,,West Ham United,Premier League,W,4,1,3,68,4,0,0,0,1.8,0.8,Matchweek 35
+382,Arsenal,15-04-2018,@,Newcastle United,Premier League,L,1,2,-1,72,1,0,0,0,1.2,0.8,Matchweek 34
+383,Arsenal,12-04-2018,@,CSKA Moscow,Europa League,D,2,2,0,47,2,0,0,0,2.1,1.6,Quarter-Finals
+384,Arsenal,08-04-2018,,Southampton,Premier League,W,3,2,1,65,3,0,0,0,1.6,2,Matchweek 33
+385,Arsenal,05-04-2018,,CSKA Moscow,Europa League,W,4,1,3,57,3,1,1,0,3.9,1,Quarter-Finals
+386,Arsenal,01-04-2018,,Stoke City,Premier League,W,3,0,3,70,1,2,2,0,3.3,0.4,Matchweek 32
+387,Arsenal,15-03-2018,,Milan,Europa League,W,3,1,2,58,2,1,1,0,2.6,1.1,Round of 16
+388,Arsenal,11-03-2018,,Watford,Premier League,W,3,0,3,60,3,0,0,0,2.2,1.4,Matchweek 30
+389,Arsenal,08-03-2018,@,Milan,Europa League,W,2,0,2,49,2,0,0,0,1.4,1.3,Round of 16
+390,Arsenal,04-03-2018,@,Brighton,Premier League,L,1,2,-1,68,1,0,0,0,1.2,1.2,Matchweek 29
+391,Arsenal,01-03-2018,,Manchester City,Premier League,L,0,3,-3,46,0,0,1,1,1.3,1.5,Matchweek 28
+392,Arsenal,25-02-2018,,Manchester City,EFL Cup,L,0,3,-3,44,0,0,0,0,,,Final
+393,Arsenal,22-02-2018,,Ostersunds,Europa League,L,1,2,-1,56,1,0,0,0,1.4,0.7,Round of 32
+394,Arsenal,15-02-2018,@,Ostersunds,Europa League,W,3,0,3,61,2,0,0,0,1.5,1.2,Round of 32
+395,Arsenal,10-02-2018,@,Tottenham Hotspur,Premier League,L,0,1,-1,50,0,0,0,0,0.6,2.6,Matchweek 27
+396,Arsenal,03-02-2018,,Everton,Premier League,W,5,1,4,58,5,0,0,0,2.6,1.2,Matchweek 26
+397,Arsenal,30-01-2018,@,Swansea City,Premier League,L,1,3,-2,74,1,0,0,0,1.3,2.1,Matchweek 25
+398,Arsenal,24-01-2018,,Chelsea,EFL Cup,W,2,1,1,52,1,0,0,0,,,Semi-Finals
+399,Arsenal,20-01-2018,,Crystal Palace,Premier League,W,4,1,3,64,4,0,0,0,2.9,0.6,Matchweek 24
+400,Arsenal,14-01-2018,@,Bournemouth,Premier League,L,1,2,-1,59,1,0,0,0,1.1,0.8,Matchweek 23
+401,Arsenal,10-01-2018,@,Chelsea,EFL Cup,D,0,0,0,46,0,0,0,0,,,Semi-Finals
+402,Arsenal,07-01-2018,@,Nottingham Forest,FA Cup,L,2,4,-2,69,2,0,0,0,,,3rd Round
+403,Arsenal,03-01-2018,,Chelsea,Premier League,D,2,2,0,58,2,0,0,0,1.2,3,Matchweek 22
+404,Arsenal,31-12-2017,@,West Brom,Premier League,D,1,1,0,65,0,0,0,0,0.9,1.5,Matchweek 21
+405,Arsenal,28-12-2017,@,Crystal Palace,Premier League,W,3,2,1,65,3,0,0,0,1.8,1.3,Matchweek 20
+406,Arsenal,22-12-2017,,Liverpool,Premier League,D,3,3,0,54,3,0,0,0,1.2,2,Matchweek 19
+407,Arsenal,19-12-2017,,West Ham United,EFL Cup,W,1,0,1,67,1,0,0,0,,,Quarter-Finals
+408,Arsenal,16-12-2017,,Newcastle United,Premier League,W,1,0,1,71,1,0,0,0,1.8,0.3,Matchweek 18
+409,Arsenal,13-12-2017,@,West Ham United,Premier League,D,0,0,0,70,0,0,0,0,1,0.4,Matchweek 17
+410,Arsenal,10-12-2017,@,Southampton,Premier League,D,1,1,0,67,1,0,0,0,0.7,1.3,Matchweek 16
+411,Arsenal,07-12-2017,,BATE Borisov,Europa League,W,6,0,6,71,4,1,1,0,3.1,0.5,Group Stage
+412,Arsenal,02-12-2017,,Manchester Utd,Premier League,L,1,3,-2,75,1,0,0,0,4.7,1.8,Matchweek 15
+413,Arsenal,29-11-2017,,Huddersfield Town,Premier League,W,5,0,5,71,5,0,0,0,4,0.5,Matchweek 14
+414,Arsenal,26-11-2017,@,Burnley,Premier League,W,1,0,1,64,0,1,1,0,1.8,0.4,Matchweek 13
+415,Arsenal,23-11-2017,@,Koln,Europa League,L,0,1,-1,69,0,0,0,0,1.3,0.9,Group Stage
+416,Arsenal,18-11-2017,,Tottenham Hotspur,Premier League,W,2,0,2,42,2,0,0,0,2.1,0.7,Matchweek 12
+417,Arsenal,05-11-2017,@,Manchester City,Premier League,L,1,3,-2,42,1,0,0,0,0.3,1.8,Matchweek 11
+418,Arsenal,02-11-2017,,Red Star,Europa League,D,0,0,0,64,0,0,0,0,0.8,1.1,Group Stage
+419,Arsenal,28-10-2017,,Swansea City,Premier League,W,2,1,1,73,2,0,0,0,2,0.9,Matchweek 10
+420,Arsenal,24-10-2017,,Norwich City,EFL Cup,W,2,1,1,57,2,0,0,0,,,4th Round
+421,Arsenal,22-10-2017,@,Everton,Premier League,W,5,2,3,68,5,0,0,0,3.5,1,Matchweek 9
+422,Arsenal,19-10-2017,@,Red Star,Europa League,W,1,0,1,61,1,0,0,0,1.5,0.7,Group Stage
+423,Arsenal,14-10-2017,@,Watford,Premier League,L,1,2,-1,54,1,0,0,0,1,1.6,Matchweek 8
+424,Arsenal,01-10-2017,,Brighton,Premier League,W,2,0,2,65,2,0,0,0,2.4,0.4,Matchweek 7
+425,Arsenal,28-09-2017,@,BATE Borisov,Europa League,W,4,2,2,62,3,1,1,0,3.8,1.8,Group Stage
+426,Arsenal,25-09-2017,,West Brom,Premier League,W,2,0,2,69,1,1,1,0,2.2,0.9,Matchweek 3
+427,Arsenal,20-09-2017,,Doncaster Rovers,EFL Cup,W,1,0,1,57,1,0,0,0,,,3rd Round
+428,Arsenal,17-09-2017,@,Chelsea,Premier League,D,0,0,0,49,0,0,0,0,1.4,0.8,Matchweek 5
+429,Arsenal,14-09-2017,,Koln,Europa League,W,3,1,2,72,3,0,0,0,1.4,0.4,Group Stage
+430,Arsenal,09-09-2017,,Bournemouth,Premier League,W,3,0,3,58,3,0,0,0,2.2,0.6,Matchweek 4
+431,Arsenal,27-08-2017,@,Liverpool,Premier League,L,0,4,-4,51,0,0,0,0,0.6,3.1,Matchweek 3
+432,Arsenal,19-08-2017,@,Stoke City,Premier League,L,0,1,-1,77,0,0,0,0,1.5,0.7,Matchweek 2
+433,Arsenal,11-08-2017,,Leicester City,Premier League,W,4,3,1,70,4,0,0,0,2.5,1.5,Matchweek 1
