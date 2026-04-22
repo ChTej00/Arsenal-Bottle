@@ -16,11 +16,11 @@ t_results <- data.frame(
     formatC(t_xga$p.value,  format = "e", digits = 3),
     formatC(t_poss$p.value, format = "e", digits = 3)
   ),
-  Significant    = "Yes ✓"
-) %>%
+  Significant    = "Yes"
+) |>
   mutate(
     Normal_mean    = round(Normal_mean, 3),
     HighStake_mean = round(HighStake_mean, 3)
   )
 
-kable(t_results, col.names = c("Metric", "Normal Avg", "High Stakes Avg", "P-Value", "Significant?"))
+t_results

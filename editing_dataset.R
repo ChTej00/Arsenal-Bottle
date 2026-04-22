@@ -42,6 +42,8 @@ arseal <- arsenal |>
          )
 assign("arsenal_backup",arsenal)
 
+arsenal <- arsenal |> mutate(xG_diff = xG- xGA)
+
 arsenal <- arsenal |>
   mutate(matchweek_num = if_else(
     str_detect(Round, "^Matchweek"),
@@ -109,7 +111,7 @@ arsenal |> filter(is.na(xG))
 
 # 5. Quick check — are Big Six PL matches being caught?
 arsenal %>%
-  filter(High_stake == 1, Comp == "Premier League") %>%
+  filter(High_stake == 1) %>%
   count(Opp) %>%
   arrange(desc(n))
 
@@ -121,3 +123,13 @@ write_csv(arsenal, "arsenal_clean.csv")
 
 arsenal <- read.csv("arsenal_clean.csv")
 
+head(arsenal)
+
+table(arsenal$High_stake)
+
+arsenal %>%
+  filter(High_stake == 1) %>%
+  count(Comp) %>%
+  as.data.frame()
+
+arsenal %>% count(season) %>% as.data.frame()

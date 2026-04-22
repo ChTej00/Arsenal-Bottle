@@ -3,6 +3,10 @@ head(arsenal)
 library(tidyverse)
 library(patchwork)
 
+#
+# BOX PLOT: xG, xGA, Poss High stakes vs Normal
+#
+
 arsenal_long <- arsenal %>%
   filter(!is.na(xG), !is.na(xGA), !is.na(Poss)) %>%
   mutate(stake_label = ifelse(High_stake == 1, "High Stakes", "Normal")) %>%
@@ -46,4 +50,32 @@ p1 + p2 +
   )
 
 
+win_rate <- arsenal %>%
+  mutate(stake_label = ifelse(High_stake == 1, "High Stakes", "Normal"),
+         outcome = case_when(
+           Result == "W" ~ "Win",
+           Result == "D" ~ "Draw",
+           Result == "L" ~ "Loss"
+         )) %>%
+  count(stake_label, outcome) %>%
+  group_by(stake_label) %>%
+  mutate(pct = round(n / sum(n) * 100, 1))
 
+ggplot(win_rate, aes(x = 2, y = pct, fill = outcome)) +
+  geom_col(width = 1, color = "white") +
+  coord_polar(theta = "y") +
+  xlim(0.5, 2.5) +
+  facet_wrap(~ stake_label) +
+  scale_fill_manual(values = c("Win" = "#EF0107", "Draw" = "#9C824A", "Loss" = "#D3D3D3")) +
+  geom_text(aes(label = paste0(pct, "%")), 
+            position = position_stack(vjust = 0.5), size = 4) +
+  labs(
+    title = "Arsenal Win Rate: High Stakes vs Normal Matches",
+    subtitle = "All competitions 2017-25",
+    fill = NULL,
+    x = NULL,
+    y = NULL
+  ) +
+  theme_void(base_size = 13) +
+  theme(legend.position = "top",
+        strip.text = element_text(size = 13, face = "bold"))
