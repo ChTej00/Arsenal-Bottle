@@ -98,7 +98,7 @@ arsenal %>%
   count(season)
 
 # 4. Any missing xG or xGA values?
-arsenal %>%
+arsenal |>
   summarise(
     missing_xg  = sum(is.na(xG)),
     missing_xga = sum(is.na(xGA)),
@@ -117,5 +117,7 @@ write_csv(arsenal, "arsenal_clean.csv")
 
 
 #manually added some missing xG values
+#filled in half of them, other half doesnt exist
 
+arsenal <- read.csv("arsenal_clean.csv")
 
