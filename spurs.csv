@@ -1,0 +1,428 @@
+Rk,Team,Date,Venue,Opp,Comp,Result,GF,GA,GD,Poss,G-PK,PK,PKatt,PKm,xG,xGA,Round
+1,Tottenham Hotspur,25-05-2025,H,Brighton,Premier League,L,1,4,-3,32,0,1,1,0,2.0,2.2,Matchweek 38
+2,Tottenham Hotspur,21-05-2025,N,Manchester Utd,Europa League,W,1,0,1,27,1,0,0,0,1.0,1.0,Final
+3,Tottenham Hotspur,16-05-2025,A,Aston Villa,Premier League,L,0,2,-2,31,0,0,0,0,0.5,1.4,Matchweek 37
+4,Tottenham Hotspur,11-05-2025,H,Crystal Palace,Premier League,L,0,2,-2,47,0,0,0,0,0.7,3.3,Matchweek 36
+5,Tottenham Hotspur,08-05-2025,A,Bodø/Glimt,Europa League,W,2,0,2,31,2,0,0,0,0.7,0.5,Semi-Finals
+6,Tottenham Hotspur,04-05-2025,A,West Ham United,Premier League,D,1,1,0,44,1,0,0,0,0.8,0.8,Matchweek 35
+7,Tottenham Hotspur,01-05-2025,H,Bodø/Glimt,Europa League,W,3,1,2,42,2,1,1,0,3.0,0.3,Semi-Finals
+8,Tottenham Hotspur,27-04-2025,A,Liverpool,Premier League,L,1,5,-4,37,1,0,0,0,0.5,2.2,Matchweek 34
+9,Tottenham Hotspur,21-04-2025,H,Nottingham Forest,Premier League,L,1,2,-1,70,1,0,0,0,2.1,0.5,Matchweek 33
+10,Tottenham Hotspur,17-04-2025,A,Eintracht Frankfurt,Europa League,W,1,0,1,39,0,1,1,0,1.5,0.9,Quarter-Finals
+11,Tottenham Hotspur,13-04-2025,A,Wolves,Premier League,L,2,4,-2,62,2,0,0,0,2.0,2.4,Matchweek 32
+12,Tottenham Hotspur,10-04-2025,H,Eintracht Frankfurt,Europa League,D,1,1,0,56,1,0,0,0,0.9,0.3,Quarter-Finals
+13,Tottenham Hotspur,06-04-2025,H,Southampton,Premier League,W,3,1,2,51,2,1,1,0,2.1,1.0,Matchweek 31
+14,Tottenham Hotspur,03-04-2025,A,Chelsea,Premier League,L,0,1,-1,50,0,0,0,0,0.9,1.0,Matchweek 30
+15,Tottenham Hotspur,16-03-2025,A,Fulham,Premier League,L,0,2,-2,43,0,0,0,0,0.9,1.0,Matchweek 29
+16,Tottenham Hotspur,13-03-2025,H,AZ Alkmaar,Europa League,W,3,1,2,60,3,0,0,0,2.1,1.2,Round of 16
+17,Tottenham Hotspur,09-03-2025,H,Bournemouth,Premier League,D,2,2,0,61,1,1,1,0,1.5,2.2,Matchweek 28
+18,Tottenham Hotspur,06-03-2025,A,AZ Alkmaar,Europa League,L,0,1,-1,62,0,0,0,0,0.5,1.6,Round of 16
+19,Tottenham Hotspur,26-02-2025,H,Manchester City,Premier League,L,0,1,-1,55,0,0,0,0,1.3,2.1,Matchweek 27
+20,Tottenham Hotspur,22-02-2025,A,Ipswich Town,Premier League,W,4,1,3,59,4,0,0,0,1.7,1.1,Matchweek 26
+21,Tottenham Hotspur,16-02-2025,H,Manchester Utd,Premier League,W,1,0,1,57,1,0,0,0,2.2,1.5,Matchweek 25
+22,Tottenham Hotspur,09-02-2025,A,Aston Villa,FA Cup,L,1,2,-1,49,1,0,0,0,,,4th Round
+23,Tottenham Hotspur,06-02-2025,A,Liverpool,EFL Cup,L,0,4,-4,36,0,0,0,0,,,Semi-Finals
+24,Tottenham Hotspur,02-02-2025,A,Brentford,Premier League,W,2,0,2,46,1,0,0,0,0.8,2.1,Matchweek 24
+25,Tottenham Hotspur,30-01-2025,H,Elfsborg,Europa League,W,3,0,3,82,3,0,0,0,1.5,0.4,Group Stage
+26,Tottenham Hotspur,26-01-2025,H,Leicester City,Premier League,L,1,2,-1,61,1,0,0,0,1.0,1.6,Matchweek 23
+27,Tottenham Hotspur,23-01-2025,A,Hoffenheim,Europa League,W,3,2,1,45,3,0,0,0,1.8,2.5,Group Stage
+28,Tottenham Hotspur,19-01-2025,A,Everton,Premier League,L,2,3,-1,64,2,0,0,0,1.1,1.8,Matchweek 22
+29,Tottenham Hotspur,15-01-2025,A,Arsenal,Premier League,L,1,2,-1,47,1,0,0,0,0.8,1.4,Matchweek 21
+30,Tottenham Hotspur,12-01-2025,A,Tamworth,FA Cup,W,3,0,3,,2,0,0,0,,,4th Round
+31,Tottenham Hotspur,08-01-2025,H,Liverpool,EFL Cup,W,1,0,1,40,1,0,0,0,,,Semi-Finals
+32,Tottenham Hotspur,04-01-2025,H,Newcastle United,Premier League,L,1,2,-1,57,1,0,0,0,0.9,2.5,Matchweek 20
+33,Tottenham Hotspur,29-12-2024,H,Wolves,Premier League,D,2,2,0,48,2,0,1,1,2.2,0.7,Matchweek 19
+34,Tottenham Hotspur,26-12-2024,A,Nottingham Forest,Premier League,L,0,1,-1,70,0,0,0,0,0.9,1.1,Matchweek 18
+35,Tottenham Hotspur,22-12-2024,H,Liverpool,Premier League,L,3,6,-3,52,3,0,0,0,1.3,5.6,Matchweek 17
+36,Tottenham Hotspur,19-12-2024,H,Manchester Utd,EFL Cup,W,4,3,1,46,4,0,0,0,,,Quarter-Finals
+37,Tottenham Hotspur,15-12-2024,A,Southampton,Premier League,W,5,0,5,58,5,0,0,0,2.3,0.8,Matchweek 16
+38,Tottenham Hotspur,12-12-2024,A,Rangers,Europa League,D,1,1,0,59,1,0,0,0,1.0,1.3,Group Stage
+39,Tottenham Hotspur,08-12-2024,H,Chelsea,Premier League,L,3,4,-1,38,3,0,0,0,2.8,2.8,Matchweek 15
+40,Tottenham Hotspur,05-12-2024,A,Bournemouth,Premier League,L,0,1,-1,66,0,0,0,0,0.9,3.5,Matchweek 14
+41,Tottenham Hotspur,01-12-2024,H,Fulham,Premier League,D,1,1,0,51,1,0,0,0,0.8,1.5,Matchweek 13
+42,Tottenham Hotspur,28-11-2024,H,Roma,Europa League,D,2,2,0,50,1,1,1,0,3.2,2.1,Group Stage
+43,Tottenham Hotspur,23-11-2024,A,Manchester City,Premier League,W,4,0,4,42,4,0,0,0,2.5,2.1,Matchweek 12
+44,Tottenham Hotspur,10-11-2024,H,Ipswich Town,Premier League,L,1,2,-1,66,1,0,0,0,1.5,1.6,Matchweek 11
+45,Tottenham Hotspur,07-11-2024,A,Galatasaray,Europa League,L,2,3,-1,46,2,0,0,0,1.9,2.9,Group Stage
+46,Tottenham Hotspur,03-11-2024,H,Aston Villa,Premier League,W,4,1,3,52,4,0,0,0,2.4,1.8,Matchweek 10
+47,Tottenham Hotspur,30-10-2024,H,Manchester City,EFL Cup,W,2,1,1,32,2,0,0,0,,,4th Round
+48,Tottenham Hotspur,27-10-2024,A,Crystal Palace,Premier League,L,0,1,-1,66,0,0,0,0,0.7,0.8,Matchweek 9
+49,Tottenham Hotspur,24-10-2024,H,AZ Alkmaar,Europa League,W,1,0,1,59,0,1,1,0,1.9,0.4,Group Stage
+50,Tottenham Hotspur,19-10-2024,H,West Ham United,Premier League,W,4,1,3,58,3,0,0,0,1.9,0.8,Matchweek 8
+51,Tottenham Hotspur,06-10-2024,A,Brighton,Premier League,L,2,3,-1,59,2,0,0,0,1.3,1.8,Matchweek 7
+52,Tottenham Hotspur,03-10-2024,A,Ferencváros,Europa League,W,2,1,1,58,2,0,0,0,1.3,1.3,Group Stage
+53,Tottenham Hotspur,29-09-2024,A,Manchester Utd,Premier League,W,3,0,3,61,3,0,0,0,4.4,1.0,Matchweek 6
+54,Tottenham Hotspur,26-09-2024,H,Qarabağ,Europa League,W,3,0,3,49,3,0,0,0,1.4,2.2,Group Stage
+55,Tottenham Hotspur,21-09-2024,H,Brentford,Premier League,W,3,1,2,48,3,0,0,0,3.5,0.8,Matchweek 5
+56,Tottenham Hotspur,18-09-2024,A,Coventry City,EFL Cup,W,2,1,1,70,2,0,0,0,,,3rd Round
+57,Tottenham Hotspur,15-09-2024,H,Arsenal,Premier League,L,0,1,-1,64,0,0,0,0,0.7,0.7,Matchweek 4
+58,Tottenham Hotspur,01-09-2024,A,Newcastle United,Premier League,L,1,2,-1,66,0,0,0,0,1.2,1.8,Matchweek 3
+59,Tottenham Hotspur,24-08-2024,H,Everton,Premier League,W,4,0,4,71,4,0,0,0,2.4,1.0,Matchweek 2
+60,Tottenham Hotspur,19-08-2024,A,Leicester City,Premier League,D,1,1,0,71,1,0,0,0,1.2,1.0,Matchweek 1
+61,Tottenham Hotspur,19-05-2024,A,Sheffield United,Premier League,W,3,0,3,76,3,0,0,0,1.7,2.4,Matchweek 38
+62,Tottenham Hotspur,14-05-2024,H,Manchester City,Premier League,L,0,2,-2,53,0,0,0,0,3.1,1.0,Matchweek 34
+63,Tottenham Hotspur,11-05-2024,H,Burnley,Premier League,W,2,1,1,63,2,0,0,0,2.7,0.7,Matchweek 37
+64,Tottenham Hotspur,05-05-2024,A,Liverpool,Premier League,L,2,4,-2,56,2,0,0,0,1.0,1.5,Matchweek 36
+65,Tottenham Hotspur,02-05-2024,A,Chelsea,Premier League,L,0,2,-2,62,0,0,0,0,2.9,0.5,Matchweek 26
+66,Tottenham Hotspur,28-04-2024,H,Arsenal,Premier League,L,2,3,-1,62,1,1,1,0,1.6,2.2,Matchweek 35
+67,Tottenham Hotspur,13-04-2024,A,Newcastle United,Premier League,L,0,4,-4,73,0,0,0,0,2.3,1.0,Matchweek 33
+68,Tottenham Hotspur,07-04-2024,H,Nottingham Forest,Premier League,W,3,1,2,64,2,0,0,0,0.8,2.8,Matchweek 32
+69,Tottenham Hotspur,02-04-2024,A,West Ham United,Premier League,D,1,1,0,68,1,0,0,0,1.5,1.5,Matchweek 31
+70,Tottenham Hotspur,30-03-2024,H,Luton Town,Premier League,W,2,1,1,70,1,0,0,0,1.0,1.5,Matchweek 30
+71,Tottenham Hotspur,16-03-2024,A,Fulham,Premier League,L,0,3,-3,57,0,0,0,0,2.4,2.6,Matchweek 29
+72,Tottenham Hotspur,10-03-2024,A,Aston Villa,Premier League,W,4,0,4,70,4,0,0,0,1.5,0.8,Matchweek 28
+73,Tottenham Hotspur,02-03-2024,H,Crystal Palace,Premier League,W,3,1,2,78,3,0,0,0,1.9,0.3,Matchweek 27
+74,Tottenham Hotspur,17-02-2024,H,Wolves,Premier League,L,1,2,-1,71,1,0,0,0,1.6,1.8,Matchweek 25
+75,Tottenham Hotspur,10-02-2024,H,Brighton,Premier League,W,2,1,1,53,2,0,0,0,1.6,1.2,Matchweek 24
+76,Tottenham Hotspur,03-02-2024,A,Everton,Premier League,D,2,2,0,57,2,0,0,0,1.0,2.6,Matchweek 23
+77,Tottenham Hotspur,31-01-2024,H,Brentford,Premier League,W,3,2,1,68,3,0,0,0,2.9,1.6,Matchweek 22
+78,Tottenham Hotspur,26-01-2024,H,Manchester City,FA Cup,L,0,1,-1,43,0,0,0,0,,,4th Round
+79,Tottenham Hotspur,14-01-2024,A,Manchester Utd,Premier League,D,2,2,0,64,2,0,0,0,1.2,0.8,Matchweek 21
+80,Tottenham Hotspur,05-01-2024,H,Burnley,FA Cup,W,1,0,1,63,1,0,0,0,,,3rd Round
+81,Tottenham Hotspur,31-12-2023,H,Bournemouth,Premier League,W,3,1,2,51,3,0,0,0,2.3,1.7,Matchweek 20
+82,Tottenham Hotspur,28-12-2023,A,Brighton,Premier League,L,2,4,-2,54,2,0,0,0,2.3,3.2,Matchweek 19
+83,Tottenham Hotspur,23-12-2023,H,Everton,Premier League,W,2,1,1,61,2,0,0,0,1.5,1.8,Matchweek 18
+84,Tottenham Hotspur,15-12-2023,A,Nottingham Forest,Premier League,W,2,0,2,67,2,0,0,0,1.5,1.3,Matchweek 17
+85,Tottenham Hotspur,10-12-2023,H,Newcastle United,Premier League,W,4,1,3,57,3,1,1,0,3.8,1.7,Matchweek 16
+86,Tottenham Hotspur,07-12-2023,H,West Ham United,Premier League,L,1,2,-1,75,1,0,0,0,1.8,2.2,Matchweek 15
+87,Tottenham Hotspur,03-12-2023,A,Manchester City,Premier League,D,3,3,0,45,3,0,0,0,0.5,2.6,Matchweek 14
+88,Tottenham Hotspur,26-11-2023,H,Aston Villa,Premier League,L,1,2,-1,62,1,0,0,0,2.3,1.7,Matchweek 13
+89,Tottenham Hotspur,11-11-2023,A,Wolves,Premier League,L,1,2,-1,59,1,0,0,0,0.7,2.1,Matchweek 12
+90,Tottenham Hotspur,06-11-2023,H,Chelsea,Premier League,L,1,4,-3,39,1,0,0,0,0.9,4.1,Matchweek 11
+91,Tottenham Hotspur,27-10-2023,A,Crystal Palace,Premier League,W,2,1,1,76,1,0,0,0,1.1,0.6,Matchweek 10
+92,Tottenham Hotspur,23-10-2023,H,Fulham,Premier League,W,2,0,2,56,2,0,0,0,1.5,1.0,Matchweek 9
+93,Tottenham Hotspur,07-10-2023,A,Luton Town,Premier League,W,1,0,1,67,1,0,0,0,1.9,0.8,Matchweek 8
+94,Tottenham Hotspur,30-09-2023,H,Liverpool,Premier League,W,2,1,1,65,1,0,0,0,2.2,1.3,Matchweek 7
+95,Tottenham Hotspur,24-09-2023,A,Arsenal,Premier League,D,2,2,0,53,2,0,0,0,1.4,1.8,Matchweek 6
+96,Tottenham Hotspur,16-09-2023,H,Sheffield United,Premier League,W,2,1,1,70,2,0,0,0,2.1,0.7,Matchweek 5
+97,Tottenham Hotspur,02-09-2023,A,Burnley,Premier League,W,5,2,3,54,5,0,0,0,2.2,1.3,Matchweek 4
+98,Tottenham Hotspur,29-08-2023,A,Fulham,EFL Cup,D,1,1,0,60,1,0,0,0,,,Second Round
+99,Tottenham Hotspur,26-08-2023,A,Bournemouth,Premier League,W,2,0,2,57,2,0,0,0,2.1,0.7,Matchweek 3
+100,Tottenham Hotspur,19-08-2023,H,Manchester Utd,Premier League,W,2,0,2,56,1,0,0,0,1.7,2.1,Matchweek 2
+101,Tottenham Hotspur,13-08-2023,A,Brentford,Premier League,D,2,2,0,69,2,0,0,0,1.3,2.2,Matchweek 1
+102,Tottenham Hotspur,28-05-2023,A,Leeds United,Premier League,W,4,1,3,48,4,0,0,0,2.2,1.5,Matchweek 38
+103,Tottenham Hotspur,20-05-2023,H,Brentford,Premier League,L,1,3,-2,62,1,0,0,0,1.7,1.2,Matchweek 37
+104,Tottenham Hotspur,13-05-2023,A,Aston Villa,Premier League,L,1,2,-1,51,0,1,1,0,1.4,1.2,Matchweek 36
+105,Tottenham Hotspur,06-05-2023,H,Crystal Palace,Premier League,W,1,0,1,57,1,0,0,0,0.9,0.4,Matchweek 35
+106,Tottenham Hotspur,30-04-2023,A,Liverpool,Premier League,L,3,4,-1,32,3,0,0,0,2.0,2.2,Matchweek 34
+107,Tottenham Hotspur,27-04-2023,H,Manchester Utd,Premier League,D,2,2,0,40,2,0,0,0,2.5,2.0,Matchweek 33
+108,Tottenham Hotspur,23-04-2023,A,Newcastle United,Premier League,L,1,6,-5,43,1,0,0,0,1.0,3.7,Matchweek 32
+109,Tottenham Hotspur,15-04-2023,H,Bournemouth,Premier League,L,2,3,-1,57,2,0,0,0,2.2,1.3,Matchweek 31
+110,Tottenham Hotspur,08-04-2023,H,Brighton,Premier League,W,2,1,1,35,2,0,0,0,0.8,1.4,Matchweek 30
+111,Tottenham Hotspur,03-04-2023,A,Everton,Premier League,D,1,1,0,61,0,1,1,0,1.4,0.9,Matchweek 29
+112,Tottenham Hotspur,18-03-2023,A,Southampton,Premier League,D,3,3,0,50,3,0,0,0,2.3,2.4,Matchweek 28
+113,Tottenham Hotspur,11-03-2023,H,Nottingham Forest,Premier League,W,3,1,2,56,2,1,1,0,2.0,1.5,Matchweek 27
+114,Tottenham Hotspur,08-03-2023,H,Milan,Champions League,D,0,0,0,54,0,0,0,0,0.5,1.4,Round of 16
+115,Tottenham Hotspur,04-03-2023,A,Wolves,Premier League,L,0,1,-1,54,0,0,0,0,,,Matchweek 26
+116,Tottenham Hotspur,01-03-2023,A,Sheffield United,FA Cup,L,0,1,-1,53,0,0,0,0,,,5th Round
+117,Tottenham Hotspur,26-02-2023,H,Chelsea,Premier League,W,2,0,2,41,2,0,0,0,0.8,0.4,Matchweek 25
+118,Tottenham Hotspur,19-02-2023,H,West Ham United,Premier League,W,2,0,2,57,2,0,0,0,1.5,0.5,Matchweek 24
+119,Tottenham Hotspur,14-02-2023,A,Milan,Champions League,L,0,1,-1,53,0,0,0,0,0.4,1.7,Round of 16
+120,Tottenham Hotspur,11-02-2023,A,Leicester City,Premier League,L,1,4,-3,50,1,0,0,0,1.3,1.7,Matchweek 23
+121,Tottenham Hotspur,05-02-2023,H,Manchester City,Premier League,W,1,0,1,36,1,0,0,0,1.4,1.3,Matchweek 22
+122,Tottenham Hotspur,28-01-2023,A,Preston North End,FA Cup,W,3,0,3,69,3,0,0,0,,,4th Round
+123,Tottenham Hotspur,23-01-2023,A,Fulham,Premier League,W,1,0,1,47,1,0,0,0,0.9,1.0,Matchweek 21
+124,Tottenham Hotspur,19-01-2023,A,Manchester City,Premier League,L,2,4,-2,41,2,0,0,0,0.8,2.3,Matchweek 7
+125,Tottenham Hotspur,15-01-2023,H,Arsenal,Premier League,L,0,2,-2,51,0,0,0,0,1.6,1.8,Matchweek 20
+126,Tottenham Hotspur,07-01-2023,H,Portsmouth,FA Cup,W,1,0,1,72,1,0,0,0,,,3rd Round
+127,Tottenham Hotspur,04-01-2023,A,Crystal Palace,Premier League,W,4,0,4,53,4,0,0,0,,,Matchweek 19
+128,Tottenham Hotspur,01-01-2023,H,Aston Villa,Premier League,L,0,2,-2,59,0,0,0,0,0.7,1.0,Matchweek 18
+129,Tottenham Hotspur,26-12-2022,A,Brentford,Premier League,D,2,2,0,61,2,0,0,0,1.1,2.0,Matchweek 17
+130,Tottenham Hotspur,12-11-2022,H,Leeds United,Premier League,W,4,3,1,55,4,0,0,0,1.8,1.1,Matchweek 16
+131,Tottenham Hotspur,09-11-2022,A,Nottingham Forest,EFL Cup,L,0,2,-2,59,0,0,0,0,,,3rd Round
+132,Tottenham Hotspur,06-11-2022,H,Liverpool,Premier League,L,1,2,-1,47,1,0,0,0,1.2,1.2,Matchweek 15
+133,Tottenham Hotspur,01-11-2022,A,Marseille,Champions League,W,2,1,1,36,2,0,0,0,0.6,1.4,Group Stage
+134,Tottenham Hotspur,29-10-2022,A,Bournemouth,Premier League,W,3,2,1,69,3,0,0,0,2.0,0.5,Matchweek 14
+135,Tottenham Hotspur,26-10-2022,H,Sporting CP,Champions League,D,1,1,0,58,1,0,0,0,1.7,0.8,Group Stage
+136,Tottenham Hotspur,23-10-2022,H,Newcastle United,Premier League,L,1,2,-1,52,1,0,0,0,1.6,1.2,Matchweek 13
+137,Tottenham Hotspur,19-10-2022,A,Manchester Utd,Premier League,L,0,2,-2,48,0,0,0,0,0.6,1.5,Matchweek 12
+138,Tottenham Hotspur,15-10-2022,H,Everton,Premier League,W,2,0,2,62,1,1,1,0,2.2,0.4,Matchweek 11
+139,Tottenham Hotspur,12-10-2022,H,Eintracht Frankfurt,Champions League,W,3,2,1,51,2,1,2,1,3.0,1.2,Group Stage
+140,Tottenham Hotspur,08-10-2022,A,Brighton,Premier League,W,1,0,1,41,1,0,0,0,0.8,0.7,Matchweek 10
+141,Tottenham Hotspur,04-10-2022,A,Eintracht Frankfurt,Champions League,D,0,0,0,56,0,0,0,0,1.5,1.0,Group Stage
+142,Tottenham Hotspur,01-10-2022,A,Arsenal,Premier League,L,1,3,-2,35,0,1,1,0,1.6,2.4,Matchweek 9
+143,Tottenham Hotspur,17-09-2022,H,Leicester City,Premier League,W,6,2,4,44,6,0,0,0,2.2,1.8,Matchweek 8
+144,Tottenham Hotspur,13-09-2022,A,Sporting CP,Champions League,L,0,2,-2,45,0,0,0,0,0.9,0.9,Group Stage
+145,Tottenham Hotspur,07-09-2022,H,Marseille,Champions League,W,2,0,2,50,2,0,0,0,1.5,0.4,Group Stage
+146,Tottenham Hotspur,03-09-2022,H,Fulham,Premier League,W,2,1,1,52,2,0,0,0,2.9,0.7,Matchweek 6
+147,Tottenham Hotspur,31-08-2022,A,West Ham United,Premier League,D,1,1,0,62,0,0,0,0,0.6,1.2,Matchweek 5
+148,Tottenham Hotspur,28-08-2022,A,Nottingham Forest,Premier League,W,2,0,2,45,2,0,1,1,2.4,0.9,Matchweek 4
+149,Tottenham Hotspur,20-08-2022,H,Wolves,Premier League,W,1,0,1,50,1,0,0,0,1.7,0.7,Matchweek 3
+150,Tottenham Hotspur,14-08-2022,A,Chelsea,Premier League,D,2,2,0,36,2,0,0,0,1.0,1.6,Matchweek 2
+151,Tottenham Hotspur,06-08-2022,H,Southampton,Premier League,W,4,1,3,58,3,0,0,0,1.5,0.5,Matchweek 1
+152,Tottenham Hotspur,22-05-2022,A,Norwich City,Premier League,W,5,0,5,60,5,0,0,0,3.4,0.5,Matchweek 38
+153,Tottenham Hotspur,15-05-2022,H,Burnley,Premier League,W,1,0,1,69,0,1,1,0,2.2,0.7,Matchweek 37
+154,Tottenham Hotspur,12-05-2022,H,Arsenal,Premier League,W,3,0,3,58,2,1,1,0,2.7,0.5,Matchweek 22
+155,Tottenham Hotspur,07-05-2022,A,Liverpool,Premier League,D,1,1,0,35,1,0,0,0,0.9,1.3,Matchweek 36
+156,Tottenham Hotspur,01-05-2022,H,Leicester City,Premier League,W,3,1,2,39,3,0,0,0,1.2,0.5,Matchweek 35
+157,Tottenham Hotspur,23-04-2022,A,Brentford,Premier League,D,0,0,0,56,0,0,0,0,0.6,0.9,Matchweek 34
+158,Tottenham Hotspur,16-04-2022,H,Brighton,Premier League,L,0,1,-1,49,0,0,0,0,0.5,0.6,Matchweek 33
+159,Tottenham Hotspur,09-04-2022,A,Aston Villa,Premier League,W,4,0,4,49,4,0,0,0,1.1,1.6,Matchweek 32
+160,Tottenham Hotspur,03-04-2022,H,Newcastle United,Premier League,W,5,1,4,62,5,0,0,0,3.1,0.5,Matchweek 31
+161,Tottenham Hotspur,20-03-2022,H,West Ham United,Premier League,W,3,1,2,53,2,0,0,0,3.0,0.6,Matchweek 30
+162,Tottenham Hotspur,16-03-2022,A,Brighton,Premier League,W,2,0,2,52,2,0,0,0,2.2,0.7,Matchweek 16
+163,Tottenham Hotspur,12-03-2022,A,Manchester Utd,Premier League,L,2,3,-1,57,0,1,1,0,1.5,1.0,Matchweek 29
+164,Tottenham Hotspur,07-03-2022,H,Everton,Premier League,W,5,0,5,55,4,0,0,0,2.5,0.2,Matchweek 28
+165,Tottenham Hotspur,01-03-2022,A,Middlesbrough,FA Cup,L,0,1,-1,49,0,0,0,0,,,5th Round
+166,Tottenham Hotspur,26-02-2022,A,Leeds United,Premier League,W,4,0,4,51,4,0,0,0,1.9,1.5,Matchweek 27
+167,Tottenham Hotspur,23-02-2022,A,Burnley,Premier League,L,0,1,-1,66,0,0,0,0,0.7,0.9,Matchweek 13
+168,Tottenham Hotspur,19-02-2022,A,Manchester City,Premier League,W,3,2,1,29,3,0,0,0,1.4,2.1,Matchweek 26
+169,Tottenham Hotspur,13-02-2022,H,Wolves,Premier League,L,0,2,-2,59,0,0,0,0,1.2,1.3,Matchweek 25
+170,Tottenham Hotspur,09-02-2022,H,Southampton,Premier League,L,2,3,-1,48,1,0,0,0,1.4,2.2,Matchweek 24
+171,Tottenham Hotspur,05-02-2022,H,Brighton,FA Cup,W,3,1,2,43,2,0,0,0,,,4th Round
+172,Tottenham Hotspur,23-01-2022,A,Chelsea,Premier League,L,0,2,-2,35,0,0,0,0,0.5,1.2,Matchweek 23
+173,Tottenham Hotspur,19-01-2022,A,Leicester City,Premier League,W,3,2,1,51,3,0,0,0,3.1,1.2,Matchweek 17
+174,Tottenham Hotspur,12-01-2022,H,Chelsea,EFL Cup,L,0,1,-1,36,0,0,0,0,,,Semi-Finals
+175,Tottenham Hotspur,09-01-2022,H,Morecambe,FA Cup,W,3,1,2,79,3,0,0,0,,,3rd Round
+176,Tottenham Hotspur,05-01-2022,A,Chelsea,EFL Cup,L,0,2,-2,36,0,0,0,0,,,Semi-Finals
+177,Tottenham Hotspur,01-01-2022,A,Watford,Premier League,W,1,0,1,74,1,0,0,0,2.2,0.3,Matchweek 21
+178,Tottenham Hotspur,28-12-2021,A,Southampton,Premier League,D,1,1,0,65,0,1,1,0,2.3,0.4,Matchweek 20
+179,Tottenham Hotspur,26-12-2021,H,Crystal Palace,Premier League,W,3,0,3,60,3,0,0,0,2.3,0.2,Matchweek 19
+180,Tottenham Hotspur,22-12-2021,H,West Ham United,EFL Cup,W,2,1,1,43,2,0,0,0,,,Quarter-Finals
+181,Tottenham Hotspur,19-12-2021,H,Liverpool,Premier League,D,2,2,0,44,2,0,0,0,3.0,1.1,Matchweek 18
+182,Tottenham Hotspur,09-12-2021,H,Rennes,Conference League,L,0,3,-3,,,,,,,,Group Stage
+183,Tottenham Hotspur,05-12-2021,H,Norwich City,Premier League,W,3,0,3,41,3,0,0,0,1.6,1.2,Matchweek 15
+184,Tottenham Hotspur,02-12-2021,H,Brentford,Premier League,W,2,0,2,47,1,0,0,0,1.9,0.3,Matchweek 14
+185,Tottenham Hotspur,25-11-2021,A,NŠ Mura,Conference League,L,1,2,-1,,1,0,0,0,1.2,0.5,Group Stage
+186,Tottenham Hotspur,21-11-2021,H,Leeds United,Premier League,W,2,1,1,43,2,0,0,0,2.1,1.4,Matchweek 12
+187,Tottenham Hotspur,07-11-2021,A,Everton,Premier League,D,0,0,0,55,0,0,0,0,0.7,0.6,Matchweek 11
+188,Tottenham Hotspur,04-11-2021,H,Vitesse,Conference League,W,3,2,1,,2,0,0,0,2.3,1.0,Group Stage
+189,Tottenham Hotspur,30-10-2021,H,Manchester Utd,Premier League,L,0,3,-3,58,0,0,0,0,1.0,1.5,Matchweek 10
+190,Tottenham Hotspur,27-10-2021,A,Burnley,EFL Cup,W,1,0,1,62,1,0,0,0,,,4th Round
+191,Tottenham Hotspur,24-10-2021,A,West Ham United,Premier League,L,0,1,-1,62,0,0,0,0,0.7,1.3,Matchweek 9
+192,Tottenham Hotspur,21-10-2021,A,Vitesse,Conference League,L,0,1,-1,,0,0,0,0,0.4,0.6,Group Stage
+193,Tottenham Hotspur,17-10-2021,A,Newcastle United,Premier League,W,3,2,1,64,3,0,0,0,1.7,0.4,Matchweek 8
+194,Tottenham Hotspur,03-10-2021,H,Aston Villa,Premier League,W,2,1,1,57,1,0,0,0,1.3,1.2,Matchweek 7
+195,Tottenham Hotspur,30-09-2021,H,NŠ Mura,Conference League,W,5,1,4,,4,1,1,0,2.4,0.2,Group Stage
+196,Tottenham Hotspur,26-09-2021,A,Arsenal,Premier League,L,1,3,-2,53,1,0,0,0,1.0,1.1,Matchweek 6
+197,Tottenham Hotspur,22-09-2021,A,Wolves,EFL Cup,D,2,2,0,49,2,0,0,0,,,3rd Round
+198,Tottenham Hotspur,19-09-2021,H,Chelsea,Premier League,L,0,3,-3,47,0,0,0,0,0.5,2.1,Matchweek 5
+199,Tottenham Hotspur,16-09-2021,A,Rennes,Conference League,D,2,2,0,,1,0,0,0,1.3,2.0,Group Stage
+200,Tottenham Hotspur,11-09-2021,A,Crystal Palace,Premier League,L,0,3,-3,38,0,0,0,0,0.1,2.1,Matchweek 4
+201,Tottenham Hotspur,29-08-2021,H,Watford,Premier League,W,1,0,1,58,1,0,0,0,1.0,0.8,Matchweek 3
+202,Tottenham Hotspur,26-08-2021,H,Paços de Ferreira,Conference League,W,3,0,3,,3,0,0,0,,,Play-off round
+203,Tottenham Hotspur,22-08-2021,A,Wolves,Premier League,W,1,0,1,42,0,1,1,0,1.7,1.7,Matchweek 2
+204,Tottenham Hotspur,19-08-2021,A,Paços de Ferreira,Conference League,L,0,1,-1,,0,0,0,0,,,Play-off round
+205,Tottenham Hotspur,15-08-2021,H,Manchester City,Premier League,W,1,0,1,35,1,0,0,0,1.0,1.8,Matchweek 1
+206,Tottenham Hotspur,23-05-2021,A,Leicester City,Premier League,W,4,2,2,53,3,0,0,0,1.5,1.9,Matchweek 38
+207,Tottenham Hotspur,19-05-2021,H,Aston Villa,Premier League,L,1,2,-1,61,1,0,0,0,0.8,1.4,Matchweek 37
+208,Tottenham Hotspur,16-05-2021,H,Wolves,Premier League,W,2,0,2,62,2,0,0,0,3.2,0.9,Matchweek 36
+209,Tottenham Hotspur,08-05-2021,A,Leeds United,Premier League,L,1,3,-2,47,1,0,0,0,0.9,2.5,Matchweek 35
+210,Tottenham Hotspur,02-05-2021,H,Sheffield United,Premier League,W,4,0,4,67,4,0,0,0,2.2,0.5,Matchweek 34
+211,Tottenham Hotspur,25-04-2021,A,Manchester City,EFL Cup,L,0,1,-1,38,0,0,0,0,,,Final
+212,Tottenham Hotspur,21-04-2021,H,Southampton,Premier League,W,2,1,1,62,1,1,1,0,1.4,0.8,Matchweek 29
+213,Tottenham Hotspur,16-04-2021,A,Everton,Premier League,D,2,2,0,47,2,0,0,0,1.4,1.8,Matchweek 32
+214,Tottenham Hotspur,11-04-2021,H,Manchester Utd,Premier League,L,1,3,-2,47,1,0,0,0,0.9,2.1,Matchweek 31
+215,Tottenham Hotspur,04-04-2021,A,Newcastle United,Premier League,D,2,2,0,59,2,0,0,0,2.7,3.4,Matchweek 30
+216,Tottenham Hotspur,21-03-2021,A,Aston Villa,Premier League,W,2,0,2,51,1,1,1,0,1.8,0.4,Matchweek 18
+217,Tottenham Hotspur,18-03-2021,A,Dinamo Zagreb,Europa League,L,0,3,-3,57,0,0,0,0,1.9,1.3,Round of 16
+218,Tottenham Hotspur,14-03-2021,A,Arsenal,Premier League,L,1,2,-1,47,1,0,0,0,0.4,1.7,Matchweek 28
+219,Tottenham Hotspur,11-03-2021,H,Dinamo Zagreb,Europa League,W,2,0,2,68,2,0,0,0,1.5,0.3,Round of 16
+220,Tottenham Hotspur,07-03-2021,H,Crystal Palace,Premier League,W,4,1,3,64,4,0,0,0,2.7,0.5,Matchweek 27
+221,Tottenham Hotspur,04-03-2021,A,Fulham,Premier League,W,1,0,1,41,0,0,0,0,1.6,0.7,Matchweek 33
+222,Tottenham Hotspur,28-02-2021,H,Burnley,Premier League,W,4,0,4,59,4,0,0,0,2.1,0.7,Matchweek 26
+223,Tottenham Hotspur,24-02-2021,H,Wolfsberger AC,Europa League,W,4,0,4,55,4,0,0,0,2.2,0.3,Round of 32
+224,Tottenham Hotspur,21-02-2021,A,West Ham United,Premier League,L,1,2,-1,69,1,0,0,0,1.1,1.1,Matchweek 25
+225,Tottenham Hotspur,18-02-2021,N,Wolfsberger AC,Europa League,W,4,1,3,62,4,0,0,0,2.3,1.7,Round of 32
+226,Tottenham Hotspur,13-02-2021,A,Manchester City,Premier League,L,0,3,-3,39,0,0,0,0,0.3,2.2,Matchweek 24
+227,Tottenham Hotspur,10-02-2021,A,Everton,FA Cup,L,4,5,-1,57,4,0,0,0,,,5th Round
+228,Tottenham Hotspur,07-02-2021,H,West Brom,Premier League,W,2,0,2,66,2,0,0,0,1.5,0.6,Matchweek 23
+229,Tottenham Hotspur,04-02-2021,H,Chelsea,Premier League,L,0,1,-1,42,0,0,0,0,0.6,1.6,Matchweek 22
+230,Tottenham Hotspur,31-01-2021,A,Brighton,Premier League,L,0,1,-1,57,0,0,0,0,0.4,1.6,Matchweek 21
+231,Tottenham Hotspur,28-01-2021,H,Liverpool,Premier League,L,1,3,-2,50,1,0,0,0,0.1,2.5,Matchweek 20
+232,Tottenham Hotspur,25-01-2021,A,Wycombe Wanderers,FA Cup,W,4,1,3,73,4,0,0,0,,,4th Round
+233,Tottenham Hotspur,17-01-2021,A,Sheffield United,Premier League,W,3,1,2,58,3,0,0,0,1.0,0.9,Matchweek 19
+234,Tottenham Hotspur,13-01-2021,H,Fulham,Premier League,D,1,1,0,52,1,0,0,0,2.4,1.1,Matchweek 16
+235,Tottenham Hotspur,10-01-2021,A,Marine FC,FA Cup,W,5,0,5,75,5,0,0,0,,,3rd Round
+236,Tottenham Hotspur,05-01-2021,H,Brentford,EFL Cup,W,2,0,2,54,2,0,0,0,,,Semi-Finals
+237,Tottenham Hotspur,02-01-2021,H,Leeds United,Premier League,W,3,0,3,36,2,1,1,0,2.6,1.1,Matchweek 17
+238,Tottenham Hotspur,27-12-2020,A,Wolves,Premier League,D,1,1,0,45,1,0,0,0,0.4,0.9,Matchweek 15
+239,Tottenham Hotspur,23-12-2020,A,Stoke City,EFL Cup,W,3,1,2,66,3,0,0,0,,,Quarter-Finals
+240,Tottenham Hotspur,20-12-2020,H,Leicester City,Premier League,L,0,2,-2,56,0,0,0,0,0.7,1.7,Matchweek 14
+241,Tottenham Hotspur,16-12-2020,A,Liverpool,Premier League,L,1,2,-1,24,1,0,0,0,1.1,1.0,Matchweek 13
+242,Tottenham Hotspur,13-12-2020,A,Crystal Palace,Premier League,D,1,1,0,57,1,0,0,0,0.9,1.6,Matchweek 12
+243,Tottenham Hotspur,10-12-2020,H,Antwerp,Europa League,W,2,0,2,44,2,0,0,0,3.2,0.1,Group Stage
+244,Tottenham Hotspur,06-12-2020,H,Arsenal,Premier League,W,2,0,2,31,2,0,0,0,0.3,0.6,Matchweek 11
+245,Tottenham Hotspur,03-12-2020,A,LASK,Europa League,D,3,3,0,46,1,2,2,0,2.3,1.0,Group Stage
+246,Tottenham Hotspur,29-11-2020,A,Chelsea,Premier League,D,0,0,0,40,0,0,0,0,0.2,0.8,Matchweek 10
+247,Tottenham Hotspur,26-11-2020,H,Ludogorets Razgrad,Europa League,W,4,0,4,61,4,0,0,0,3.3,0.0,Group Stage
+248,Tottenham Hotspur,21-11-2020,H,Manchester City,Premier League,W,2,0,2,34,2,0,0,0,0.7,1.4,Matchweek 9
+249,Tottenham Hotspur,08-11-2020,A,West Brom,Premier League,W,1,0,1,59,1,0,0,0,1.9,0.8,Matchweek 8
+250,Tottenham Hotspur,05-11-2020,A,Ludogorets Razgrad,Europa League,W,3,1,2,56,3,0,0,0,4.1,0.8,Group Stage
+251,Tottenham Hotspur,01-11-2020,H,Brighton,Premier League,W,2,1,1,44,1,1,1,0,1.7,0.3,Matchweek 7
+252,Tottenham Hotspur,29-10-2020,A,Antwerp,Europa League,L,0,1,-1,57,0,0,0,0,0.7,1.8,Group Stage
+253,Tottenham Hotspur,26-10-2020,A,Burnley,Premier League,W,1,0,1,62,1,0,0,0,0.6,1.0,Matchweek 6
+254,Tottenham Hotspur,22-10-2020,H,LASK,Europa League,W,3,0,3,55,2,0,0,0,2.3,0.7,Group Stage
+255,Tottenham Hotspur,18-10-2020,H,West Ham United,Premier League,D,3,3,0,52,3,0,0,0,1.7,1.9,Matchweek 5
+256,Tottenham Hotspur,04-10-2020,A,Manchester Utd,Premier League,W,6,1,5,62,5,1,1,0,3.4,0.9,Matchweek 4
+257,Tottenham Hotspur,01-10-2020,H,Maccabi Haifa,Europa League,W,7,2,5,53,5,2,2,0,4.1,0.8,Play-off round
+258,Tottenham Hotspur,29-09-2020,H,Chelsea,EFL Cup,D,1,1,0,37,1,0,0,0,,,4th Round
+259,Tottenham Hotspur,27-09-2020,H,Newcastle United,Premier League,D,1,1,0,66,1,0,0,0,2.9,1.0,Matchweek 3
+260,Tottenham Hotspur,22-09-2020,A,Leyton Orient,EFL Cup,W,3,0,3,,,,,,,,3rd Round
+261,Tottenham Hotspur,20-09-2020,A,Southampton,Premier League,W,5,2,3,47,5,0,0,0,2.1,2.0,Matchweek 2
+262,Tottenham Hotspur,13-09-2020,H,Everton,Premier League,L,0,1,-1,51,0,0,0,0,1.1,1.2,Matchweek 1
+263,Tottenham Hotspur,26-07-2020,A,Crystal Palace,Premier League,D,1,1,0,53,1,0,0,0,0.3,0.8,Matchweek 38
+264,Tottenham Hotspur,19-07-2020,H,Leicester City,Premier League,W,3,0,3,30,2,0,0,0,0.8,1.7,Matchweek 37
+265,Tottenham Hotspur,15-07-2020,A,Newcastle United,Premier League,W,3,1,2,47,3,0,0,0,1.5,1.1,Matchweek 36
+266,Tottenham Hotspur,12-07-2020,H,Arsenal,Premier League,W,2,1,1,37,2,0,0,0,2.0,0.6,Matchweek 35
+267,Tottenham Hotspur,09-07-2020,A,Bournemouth,Premier League,D,0,0,0,64,0,0,0,0,0.5,1.4,Matchweek 34
+268,Tottenham Hotspur,06-07-2020,H,Everton,Premier League,W,1,0,1,51,0,0,0,0,0.5,0.5,Matchweek 33
+269,Tottenham Hotspur,02-07-2020,A,Sheffield United,Premier League,L,1,3,-2,67,1,0,0,0,1.1,1.6,Matchweek 32
+270,Tottenham Hotspur,23-06-2020,H,West Ham United,Premier League,W,2,0,2,65,1,0,0,0,2.3,1.2,Matchweek 31
+271,Tottenham Hotspur,19-06-2020,H,Manchester Utd,Premier League,D,1,1,0,39,1,0,0,0,0.4,1.7,Matchweek 30
+272,Tottenham Hotspur,10-03-2020,A,RB Leipzig,Champions League,L,0,3,-3,46,0,0,0,0,0.3,0.9,Round of 16
+273,Tottenham Hotspur,07-03-2020,A,Burnley,Premier League,D,1,1,0,55,0,1,1,0,1.2,3.0,Matchweek 29
+274,Tottenham Hotspur,04-03-2020,H,Norwich City,FA Cup,D,1,1,0,50,1,0,0,0,,,5th Round
+275,Tottenham Hotspur,01-03-2020,H,Wolves,Premier League,L,2,3,-1,65,2,0,0,0,1.7,2.6,Matchweek 28
+276,Tottenham Hotspur,22-02-2020,A,Chelsea,Premier League,L,1,2,-1,51,0,0,0,0,0.2,1.7,Matchweek 27
+277,Tottenham Hotspur,19-02-2020,H,RB Leipzig,Champions League,L,0,1,-1,44,0,0,0,0,1.1,2.1,Round of 16
+278,Tottenham Hotspur,16-02-2020,A,Aston Villa,Premier League,W,3,2,1,46,3,0,1,1,2.1,1.5,Matchweek 26
+279,Tottenham Hotspur,05-02-2020,H,Southampton,FA Cup,W,3,2,1,44,1,1,1,0,,,
+280,Tottenham Hotspur,02-02-2020,H,Manchester City,Premier League,W,2,0,2,33,2,0,0,0,0.3,2.4,Matchweek 25
+281,Tottenham Hotspur,25-01-2020,A,Southampton,FA Cup,D,1,1,0,41,1,0,0,0,,,4th Round
+282,Tottenham Hotspur,22-01-2020,H,Norwich City,Premier League,W,2,1,1,51,2,0,0,0,2.1,1.5,Matchweek 24
+283,Tottenham Hotspur,18-01-2020,A,Watford,Premier League,D,0,0,0,59,0,0,0,0,1.9,2.5,Matchweek 23
+284,Tottenham Hotspur,14-01-2020,H,Middlesbrough,FA Cup,W,2,1,1,68,2,0,0,0,,,3rd Round
+285,Tottenham Hotspur,11-01-2020,H,Liverpool,Premier League,L,0,1,-1,33,0,0,0,0,1.2,1.2,Matchweek 22
+286,Tottenham Hotspur,05-01-2020,A,Middlesbrough,FA Cup,D,1,1,0,71,1,0,0,0,,,3rd Round
+287,Tottenham Hotspur,01-01-2020,A,Southampton,Premier League,L,0,1,-1,59,0,0,0,0,0.9,1.3,Matchweek 21
+288,Tottenham Hotspur,28-12-2019,A,Norwich City,Premier League,D,2,2,0,59,1,1,1,0,1.9,0.2,Matchweek 20
+289,Tottenham Hotspur,26-12-2019,H,Brighton,Premier League,W,2,1,1,54,2,0,0,0,0.8,1.0,Matchweek 19
+290,Tottenham Hotspur,22-12-2019,H,Chelsea,Premier League,L,0,2,-2,45,0,0,0,0,0.3,1.3,Matchweek 18
+291,Tottenham Hotspur,15-12-2019,A,Wolves,Premier League,W,2,1,1,42,2,0,0,0,0.9,0.9,Matchweek 17
+292,Tottenham Hotspur,11-12-2019,A,Bayern Munich,Champions League,L,1,3,-2,30,1,0,0,0,1.0,2.9,Group Stage
+293,Tottenham Hotspur,07-12-2019,H,Burnley,Premier League,W,5,0,5,49,5,0,0,0,2.6,0.9,Matchweek 16
+294,Tottenham Hotspur,04-12-2019,A,Manchester Utd,Premier League,L,1,2,-1,54,1,0,0,0,0.9,1.4,Matchweek 15
+295,Tottenham Hotspur,30-11-2019,H,Bournemouth,Premier League,W,3,2,1,54,3,0,0,0,2.3,1.1,Matchweek 14
+296,Tottenham Hotspur,26-11-2019,H,Olympiacos,Champions League,W,4,2,2,58,4,0,0,0,2.2,1.2,Group Stage
+297,Tottenham Hotspur,23-11-2019,A,West Ham United,Premier League,W,3,2,1,53,3,0,0,0,2.1,0.7,Matchweek 13
+298,Tottenham Hotspur,09-11-2019,H,Sheffield United,Premier League,D,1,1,0,61,1,0,0,0,1.8,0.9,Matchweek 12
+299,Tottenham Hotspur,06-11-2019,A,Red Star,Champions League,W,4,0,4,67,4,0,0,0,2.5,0.5,Group Stage
+300,Tottenham Hotspur,03-11-2019,A,Everton,Premier League,D,1,1,0,52,1,0,0,0,0.6,1.1,Matchweek 11
+301,Tottenham Hotspur,27-10-2019,A,Liverpool,Premier League,L,1,2,-1,32,1,0,0,0,1.2,2.6,Matchweek 10
+302,Tottenham Hotspur,22-10-2019,H,Red Star,Champions League,W,5,0,5,59,5,0,0,0,3.7,0.6,Group Stage
+303,Tottenham Hotspur,19-10-2019,H,Watford,Premier League,D,1,1,0,70,1,0,0,0,1.0,0.7,Matchweek 9
+304,Tottenham Hotspur,05-10-2019,A,Brighton,Premier League,L,0,3,-3,52,0,0,0,0,0.4,2.4,Matchweek 8
+305,Tottenham Hotspur,01-10-2019,H,Bayern Munich,Champions League,L,2,7,-5,41,1,1,1,0,1.9,1.3,Group Stage
+306,Tottenham Hotspur,28-09-2019,H,Southampton,Premier League,W,2,1,1,41,2,0,0,0,1.0,1.5,Matchweek 7
+307,Tottenham Hotspur,24-09-2019,A,Colchester United,EFL Cup,D,0,0,0,75,0,0,0,0,,,3rd Round
+308,Tottenham Hotspur,21-09-2019,A,Leicester City,Premier League,L,1,2,-1,56,1,0,0,0,1.1,1.3,Matchweek 6
+309,Tottenham Hotspur,18-09-2019,A,Olympiacos,Champions League,D,2,2,0,56,1,1,1,0,1.7,1.7,Group Stage
+310,Tottenham Hotspur,14-09-2019,H,Crystal Palace,Premier League,W,4,0,4,64,3,0,0,0,1.0,0.6,Matchweek 5
+311,Tottenham Hotspur,01-09-2019,A,Arsenal,Premier League,D,2,2,0,45,1,1,1,0,2.0,2.4,Matchweek 4
+312,Tottenham Hotspur,25-08-2019,H,Newcastle United,Premier League,L,0,1,-1,80,0,0,0,0,1.1,0.8,Matchweek 3
+313,Tottenham Hotspur,17-08-2019,A,Manchester City,Premier League,D,2,2,0,44,2,0,0,0,0.1,2.9,Matchweek 2
+314,Tottenham Hotspur,10-08-2019,H,Aston Villa,Premier League,W,3,1,2,70,3,0,0,0,2.4,0.7,Matchweek 1
+315,Tottenham Hotspur,01-06-2019,N,Liverpool,Champions League,L,0,2,-2,65,0,0,0,0,0.8,1.3,Final
+316,Tottenham Hotspur,12-05-2019,H,Everton,Premier League,D,2,2,0,55,2,0,0,0,0.6,2.0,Matchweek 38
+317,Tottenham Hotspur,08-05-2019,A,Ajax,Champions League,W,3,2,1,60,3,0,0,0,4.2,1.6,Semi-Finals
+318,Tottenham Hotspur,04-05-2019,A,Bournemouth,Premier League,L,0,1,-1,47,0,0,0,0,0.7,1.7,Matchweek 37
+319,Tottenham Hotspur,30-04-2019,H,Ajax,Champions League,L,0,1,-1,51,0,0,0,0,0.6,1.3,Semi-Finals
+320,Tottenham Hotspur,27-04-2019,H,West Ham United,Premier League,L,0,1,-1,63,0,0,0,0,1.6,1.1,Matchweek 36
+321,Tottenham Hotspur,23-04-2019,H,Brighton,Premier League,W,1,0,1,78,1,0,0,0,1.3,0.3,Matchweek 33
+322,Tottenham Hotspur,20-04-2019,A,Manchester City,Premier League,L,0,1,-1,40,0,0,0,0,1.0,1.9,Matchweek 35
+323,Tottenham Hotspur,17-04-2019,A,Manchester City,Champions League,L,3,4,-1,34,3,0,0,0,0.7,2.5,Quarter-Finals
+324,Tottenham Hotspur,13-04-2019,H,Huddersfield Town,Premier League,W,4,0,4,70,4,0,0,0,2.5,0.8,Matchweek 34
+325,Tottenham Hotspur,09-04-2019,H,Manchester City,Champions League,W,1,0,1,41,1,0,0,0,0.9,1.3,Quarter-Finals
+326,Tottenham Hotspur,03-04-2019,H,Crystal Palace,Premier League,W,2,0,2,65,2,0,0,0,2.1,0.3,Matchweek 31
+327,Tottenham Hotspur,31-03-2019,A,Liverpool,Premier League,L,1,2,-1,51,1,0,0,0,0.7,1.0,Matchweek 32
+328,Tottenham Hotspur,09-03-2019,A,Southampton,Premier League,L,1,2,-1,63,1,0,0,0,1.3,2.1,Matchweek 30
+329,Tottenham Hotspur,05-03-2019,A,Dortmund,Champions League,W,1,0,1,36,1,0,0,0,1.0,1.4,Round of 16
+330,Tottenham Hotspur,02-03-2019,H,Arsenal,Premier League,D,1,1,0,60,0,1,1,0,1.6,2.6,Matchweek 29
+331,Tottenham Hotspur,27-02-2019,A,Chelsea,Premier League,L,0,2,-2,54,0,0,0,0,0.6,0.6,Matchweek 28
+332,Tottenham Hotspur,23-02-2019,A,Burnley,Premier League,L,1,2,-1,70,1,0,0,0,0.9,1.2,Matchweek 27
+333,Tottenham Hotspur,13-02-2019,H,Dortmund,Champions League,W,3,0,3,53,3,0,0,0,1.8,0.3,Round of 16
+334,Tottenham Hotspur,10-02-2019,H,Leicester City,Premier League,W,3,1,2,53,3,0,0,0,1.1,3.3,Matchweek 26
+335,Tottenham Hotspur,02-02-2019,H,Newcastle United,Premier League,W,1,0,1,72,1,0,0,0,2.2,0.4,Matchweek 25
+336,Tottenham Hotspur,30-01-2019,H,Watford,Premier League,W,2,1,1,69,2,0,0,0,1.7,0.5,Matchweek 24
+337,Tottenham Hotspur,27-01-2019,A,Crystal Palace,FA Cup,L,0,2,-2,72,0,0,1,1,,,4th Round
+338,Tottenham Hotspur,24-01-2019,A,Chelsea,EFL Cup,L,1,2,-1,46,1,0,0,0,,,Semi-Finals
+339,Tottenham Hotspur,20-01-2019,A,Fulham,Premier League,W,2,1,1,73,2,0,0,0,1.7,0.9,Matchweek 23
+340,Tottenham Hotspur,13-01-2019,H,Manchester Utd,Premier League,L,0,1,-1,61,0,0,0,0,1.8,0.8,Matchweek 22
+341,Tottenham Hotspur,08-01-2019,H,Chelsea,EFL Cup,W,1,0,1,42,0,1,1,0,,,Semi-Finals
+342,Tottenham Hotspur,04-01-2019,A,Tranmere Rovers,FA Cup,W,7,0,7,74,7,0,0,0,,,3rd Round
+343,Tottenham Hotspur,01-01-2019,A,Cardiff City,Premier League,W,3,0,3,73,3,0,0,0,1.1,0.9,Matchweek 21
+344,Tottenham Hotspur,29-12-2018,H,Wolves,Premier League,L,1,3,-2,61,1,0,0,0,0.3,0.9,Matchweek 20
+345,Tottenham Hotspur,26-12-2018,H,Bournemouth,Premier League,W,5,0,5,57,5,0,0,0,1.7,1.1,Matchweek 19
+346,Tottenham Hotspur,23-12-2018,A,Everton,Premier League,W,6,2,4,59,6,0,0,0,2.0,0.9,Matchweek 18
+347,Tottenham Hotspur,19-12-2018,A,Arsenal,EFL Cup,W,2,0,2,46,2,0,0,0,,,Quarter-Finals
+348,Tottenham Hotspur,15-12-2018,H,Burnley,Premier League,W,1,0,1,70,1,0,0,0,1.7,0.5,Matchweek 17
+349,Tottenham Hotspur,11-12-2018,A,Barcelona,Champions League,D,1,1,0,51,1,0,0,0,2.4,1.3,Group Stage
+350,Tottenham Hotspur,08-12-2018,A,Leicester City,Premier League,W,2,0,2,58,2,0,0,0,0.9,0.4,Matchweek 16
+351,Tottenham Hotspur,05-12-2018,H,Southampton,Premier League,W,3,1,2,52,3,0,0,0,1.6,1.7,Matchweek 15
+352,Tottenham Hotspur,02-12-2018,A,Arsenal,Premier League,L,2,4,-2,41,1,1,1,0,1.2,2.7,Matchweek 14
+353,Tottenham Hotspur,28-11-2018,H,Inter,Champions League,W,1,0,1,52,1,0,0,0,1.3,1.0,Group Stage
+354,Tottenham Hotspur,24-11-2018,H,Chelsea,Premier League,W,3,1,2,40,3,0,0,0,3.1,1.0,Matchweek 13
+355,Tottenham Hotspur,10-11-2018,A,Crystal Palace,Premier League,W,1,0,1,65,1,0,0,0,1.2,0.8,Matchweek 12
+356,Tottenham Hotspur,06-11-2018,H,PSV,Champions League,W,2,1,1,75,2,0,0,0,3.5,0.6,Group Stage
+357,Tottenham Hotspur,03-11-2018,A,Wolves,Premier League,W,3,2,1,51,3,0,0,0,1.4,2.7,Matchweek 11
+358,Tottenham Hotspur,31-10-2018,A,West Ham United,EFL Cup,W,3,1,2,50,3,0,0,0,,,4th Round
+359,Tottenham Hotspur,29-10-2018,H,Manchester City,Premier League,L,0,1,-1,48,0,0,0,0,0.4,1.6,Matchweek 10
+360,Tottenham Hotspur,24-10-2018,A,PSV,Champions League,D,2,2,0,71,2,0,0,0,2.0,0.9,Group Stage
+361,Tottenham Hotspur,20-10-2018,A,West Ham United,Premier League,W,1,0,1,56,1,0,0,0,0.9,0.8,Matchweek 9
+362,Tottenham Hotspur,06-10-2018,H,Cardiff City,Premier League,W,1,0,1,76,1,0,0,0,2.0,1.2,Matchweek 8
+363,Tottenham Hotspur,03-10-2018,H,Barcelona,Champions League,L,2,4,-2,39,2,0,0,0,0.5,1.4,Group Stage
+364,Tottenham Hotspur,29-09-2018,A,Huddersfield Town,Premier League,W,2,0,2,47,1,1,1,0,2.1,0.4,Matchweek 7
+365,Tottenham Hotspur,26-09-2018,H,Watford,EFL Cup,D,2,2,0,52,1,1,1,0,,,3rd Round
+366,Tottenham Hotspur,22-09-2018,A,Brighton,Premier League,W,2,1,1,71,1,1,1,0,1.9,0.8,Matchweek 6
+367,Tottenham Hotspur,18-09-2018,A,Inter,Champions League,L,1,2,-1,54,1,0,0,0,0.8,1.2,Group Stage
+368,Tottenham Hotspur,15-09-2018,H,Liverpool,Premier League,L,1,2,-1,60,1,0,0,0,1.0,2.6,Matchweek 5
+369,Tottenham Hotspur,02-09-2018,A,Watford,Premier League,L,1,2,-1,66,0,0,0,0,0.6,0.4,Matchweek 4
+370,Tottenham Hotspur,27-08-2018,A,Manchester Utd,Premier League,W,3,0,3,43,3,0,0,0,1.2,1.5,Matchweek 3
+371,Tottenham Hotspur,18-08-2018,H,Fulham,Premier League,W,3,1,2,60,3,0,0,0,2.9,1.6,Matchweek 2
+372,Tottenham Hotspur,11-08-2018,A,Newcastle United,Premier League,W,2,1,1,60,2,0,0,0,2.0,1.0,Matchweek 1
+373,Tottenham Hotspur,13-05-2018,H,Leicester City,Premier League,W,5,4,1,65,4,0,0,0,1.8,1.4,Matchweek 38
+374,Tottenham Hotspur,09-05-2018,H,Newcastle United,Premier League,W,1,0,1,63,1,0,0,0,0.8,1.0,Matchweek 31
+375,Tottenham Hotspur,05-05-2018,A,West Brom,Premier League,L,0,1,-1,74,0,0,0,0,1.2,1.6,Matchweek 37
+376,Tottenham Hotspur,30-04-2018,H,Watford,Premier League,W,2,0,2,61,2,0,0,0,1.4,1.3,Matchweek 36
+377,Tottenham Hotspur,21-04-2018,A,Manchester Utd,FA Cup,L,1,2,-1,64,1,0,0,0,,,Semi-Finals
+378,Tottenham Hotspur,17-04-2018,A,Brighton,Premier League,D,1,1,0,64,1,0,0,0,1.3,1.1,Matchweek 35
+379,Tottenham Hotspur,14-04-2018,H,Manchester City,Premier League,L,1,3,-2,48,1,0,0,0,0.4,2.9,Matchweek 34
+380,Tottenham Hotspur,07-04-2018,A,Stoke City,Premier League,W,2,1,1,67,2,0,0,0,1.7,1.4,Matchweek 33
+381,Tottenham Hotspur,01-04-2018,A,Chelsea,Premier League,W,3,1,2,51,3,0,0,0,1.4,1.0,Matchweek 32
+382,Tottenham Hotspur,17-03-2018,A,Swansea City,FA Cup,W,3,0,3,75,3,0,0,0,,,Quarter-Finals
+383,Tottenham Hotspur,11-03-2018,A,Bournemouth,Premier League,W,4,1,3,63,4,0,0,0,2.4,1.2,Matchweek 30
+384,Tottenham Hotspur,07-03-2018,H,Juventus,Champions League,L,1,2,-1,54,1,0,0,0,1.7,1.5,Round of 16
+385,Tottenham Hotspur,03-03-2018,H,Huddersfield Town,Premier League,W,2,0,2,75,2,0,0,0,1.6,0.1,Matchweek 29
+386,Tottenham Hotspur,28-02-2018,H,Rochdale,FA Cup,W,6,1,5,63,6,0,0,0,,,5th Round
+387,Tottenham Hotspur,25-02-2018,A,Crystal Palace,Premier League,W,1,0,1,76,1,0,0,0,1.7,0.2,Matchweek 28
+388,Tottenham Hotspur,18-02-2018,A,Rochdale,FA Cup,D,2,2,0,65,1,1,1,0,,,5th Round
+389,Tottenham Hotspur,13-02-2018,A,Juventus,Champions League,D,2,2,0,67,2,0,0,0,1.8,2.5,Round of 16
+390,Tottenham Hotspur,10-02-2018,H,Arsenal,Premier League,W,1,0,1,50,1,0,0,0,2.6,0.6,Matchweek 27
+391,Tottenham Hotspur,07-02-2018,H,Newport County,FA Cup,W,2,0,2,74,1,0,0,0,,,4th Round
+392,Tottenham Hotspur,04-02-2018,A,Liverpool,Premier League,D,2,2,0,66,1,1,2,1,2.6,1.2,Matchweek 26
+393,Tottenham Hotspur,31-01-2018,H,Manchester Utd,Premier League,W,2,0,2,53,1,0,0,0,1.5,1.0,Matchweek 25
+394,Tottenham Hotspur,27-01-2018,A,Newport County,FA Cup,D,1,1,0,71,1,0,0,0,,,4th Round
+395,Tottenham Hotspur,21-01-2018,A,Southampton,Premier League,D,1,1,0,59,1,0,0,0,1.2,0.8,Matchweek 24
+396,Tottenham Hotspur,13-01-2018,H,Everton,Premier League,W,4,0,4,61,4,0,0,0,3.8,0.3,Matchweek 23
+397,Tottenham Hotspur,07-01-2018,H,AFC Wimbledon,FA Cup,W,3,0,3,81,3,0,0,0,,,3rd Round
+398,Tottenham Hotspur,04-01-2018,H,West Ham United,Premier League,D,1,1,0,71,1,0,0,0,1.8,0.5,Matchweek 21
+399,Tottenham Hotspur,02-01-2018,A,Swansea City,Premier League,W,2,0,2,68,2,0,0,0,1.3,0.4,Matchweek 22
+400,Tottenham Hotspur,26-12-2017,H,Southampton,Premier League,W,5,2,3,57,5,0,0,0,3.0,0.8,Matchweek 20
+401,Tottenham Hotspur,23-12-2017,A,Burnley,Premier League,W,3,0,3,60,2,1,1,0,3.1,0.2,Matchweek 19
+402,Tottenham Hotspur,16-12-2017,A,Manchester City,Premier League,L,1,4,-3,47,1,0,0,0,0.2,3.4,Matchweek 18
+403,Tottenham Hotspur,13-12-2017,H,Brighton,Premier League,W,2,0,2,75,2,0,0,0,1.5,0.4,Matchweek 17
+404,Tottenham Hotspur,09-12-2017,H,Stoke City,Premier League,W,5,1,4,71,4,0,0,0,3.6,0.5,Matchweek 16
+405,Tottenham Hotspur,06-12-2017,H,APOEL FC,Champions League,W,3,0,3,66,3,0,0,0,2.3,0.6,Group Stage
+406,Tottenham Hotspur,02-12-2017,A,Watford,Premier League,D,1,1,0,50,1,0,0,0,0.8,0.4,Matchweek 15
+407,Tottenham Hotspur,28-11-2017,A,Leicester City,Premier League,L,1,2,-1,63,1,0,0,0,2.4,0.6,Matchweek 14
+408,Tottenham Hotspur,25-11-2017,H,West Brom,Premier League,D,1,1,0,73,1,0,0,0,1.8,0.7,Matchweek 13
+409,Tottenham Hotspur,21-11-2017,A,Dortmund,Champions League,W,2,1,1,50,2,0,0,0,1.1,1.1,Group Stage
+410,Tottenham Hotspur,18-11-2017,A,Arsenal,Premier League,L,0,2,-2,58,0,0,0,0,0.7,2.1,Matchweek 12
+411,Tottenham Hotspur,05-11-2017,H,Crystal Palace,Premier League,W,1,0,1,68,1,0,0,0,0.9,0.8,Matchweek 11
+412,Tottenham Hotspur,01-11-2017,H,Real Madrid,Champions League,W,3,1,2,37,3,0,0,0,2.3,2.2,Group Stage
+413,Tottenham Hotspur,28-10-2017,A,Manchester Utd,Premier League,L,0,1,-1,55,0,0,0,0,1.2,0.8,Matchweek 10
+414,Tottenham Hotspur,25-10-2017,H,West Ham United,EFL Cup,L,2,3,-1,61,2,0,0,0,,,4th Round
+415,Tottenham Hotspur,22-10-2017,H,Liverpool,Premier League,W,4,1,3,36,4,0,0,0,2.0,0.6,Matchweek 9
+416,Tottenham Hotspur,17-10-2017,A,Real Madrid,Champions League,D,1,1,0,34,0,0,0,0,0.9,2.9,Group Stage
+417,Tottenham Hotspur,14-10-2017,H,Bournemouth,Premier League,W,1,0,1,73,1,0,0,0,1.8,0.2,Matchweek 8
+418,Tottenham Hotspur,30-09-2017,A,Huddersfield Town,Premier League,W,4,0,4,60,4,0,0,0,1.5,0.2,Matchweek 7
+419,Tottenham Hotspur,26-09-2017,A,APOEL FC,Champions League,W,3,0,3,59,3,0,0,0,1.8,1.0,Group Stage
+420,Tottenham Hotspur,23-09-2017,A,West Ham United,Premier League,W,3,2,1,51,3,0,0,0,1.2,0.6,Matchweek 6
+421,Tottenham Hotspur,19-09-2017,H,Barnsley,EFL Cup,W,1,0,1,73,1,0,0,0,,,3rd Round
+422,Tottenham Hotspur,16-09-2017,H,Swansea City,Premier League,D,0,0,0,75,0,0,0,0,1.1,0.2,Matchweek 5
+423,Tottenham Hotspur,13-09-2017,H,Dortmund,Champions League,W,3,1,2,32,3,0,0,0,1.2,0.8,Group Stage
+424,Tottenham Hotspur,09-09-2017,A,Everton,Premier League,W,3,0,3,49,3,0,0,0,1.8,0.9,Matchweek 4
+425,Tottenham Hotspur,27-08-2017,H,Burnley,Premier League,D,1,1,0,67,1,0,0,0,2.3,0.9,Matchweek 3
+426,Tottenham Hotspur,20-08-2017,H,Chelsea,Premier League,L,1,2,-1,68,0,0,0,0,0.7,0.7,Matchweek 2
+427,Tottenham Hotspur,13-08-2017,A,Newcastle United,Premier League,W,2,0,2,73,2,0,0,0,2.5,0.8,Matchweek 1
