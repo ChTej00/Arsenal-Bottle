@@ -17,7 +17,7 @@ calc_pdi <- function(df) {
       season_avg_poss = mean(poss),
       .groups = "drop"
     )
-  
+
   df %>%
     left_join(season_avgs, by = "season") %>%
     mutate(
@@ -37,8 +37,10 @@ spurs     <- calc_pdi(spurs)
 
 all_clubs <- bind_rows(arsenal, liverpool, spurs)
 
-arsenal <- arsenal |>
-  mutate(date = as.Date(date,format = "%Y-%m-%d"))
+head(arsenal)
+
+arsenal <- arsenal %>%
+  mutate(date = as.Date(date, format = "%d-%m-%Y"))
 
 liverpool <- liverpool %>%
   mutate(date = as.Date(date, format = "%Y-%m-%d"))
@@ -54,7 +56,7 @@ all_clubs %>%
   summarise(
     total     = n(),
     high_stake = sum(high_stake),
-    normal     = sum(high_stake == 0)
+    normal     = total - high_stake
   ) %>%
   as.data.frame()
 
