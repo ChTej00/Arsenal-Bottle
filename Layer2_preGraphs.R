@@ -28,12 +28,17 @@ calc_pdi <- function(df) {
     )
 }
 
+colnames(arsenal) <- tolower(colnames(arsenal))
+head(arsenal)
 
 arsenal   <- calc_pdi(arsenal)
 liverpool <- calc_pdi(liverpool)
 spurs     <- calc_pdi(spurs)
 
 all_clubs <- bind_rows(arsenal, liverpool, spurs)
+
+arsenal <- arsenal |>
+  mutate(date = as.Date(date,format = "%Y-%m-%d"))
 
 liverpool <- liverpool %>%
   mutate(date = as.Date(date, format = "%Y-%m-%d"))

@@ -108,7 +108,6 @@ ggplot(win_rate_all, aes(x = season, y = win_rate, color = stake_label, group = 
   theme_minimal(base_size = 13) +
   theme(
     legend.position = "top",
-    panel.grid      = element_blank(),
     axis.text.x     = element_text(angle = 45, hjust = 1),
     strip.text      = element_text(size = 13, face = "bold")
   )
@@ -143,7 +142,7 @@ ggplot(gap_data, aes(x = team, y = gap, fill = team)) +
   geom_text(aes(label = round(gap, 2)), vjust = -0.5, size = 3.5) +
   scale_fill_manual(values = c(
     "Arsenal"   = "#EF0107",
-    "Liverpool" = "#C8102E",
+    "Liverpool" = "#00B2A9",
     "Tottenham" = "#132257"
   )) +
   facet_wrap(~ metric, scales = "free_y", nrow = 1) +
@@ -156,7 +155,5 @@ ggplot(gap_data, aes(x = team, y = gap, fill = team)) +
   ) +
   theme_minimal(base_size = 13) +
   theme(
-    legend.position = "top",
-    panel.grid      = element_blank(),
     strip.text      = element_text(size = 12, face = "bold")
   )
