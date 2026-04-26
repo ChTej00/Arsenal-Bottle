@@ -1,447 +1,443 @@
-Rk,Team,Date,Venue,Opp,Comp,Result,GF,GA,GD,Poss,G-PK,PK,PKatt,PKm,xG,xGA,Round
-1,Liverpool,25-05-2025,,Crystal Palace,Premier League,D,1,1,0,69,1,0,0,0,2.1,1.8,Matchweek 38
-2,Liverpool,19-05-2025,@,Brighton,Premier League,L,2,3,-1,51,2,0,0,0,2.2,2.2,Matchweek 37
-3,Liverpool,11-05-2025,,Arsenal,Premier League,D,2,2,0,44,2,0,0,0,2.4,2.6,Matchweek 36
-4,Liverpool,04-05-2025,@,Chelsea,Premier League,L,1,3,-2,65,1,0,0,0,1.0,3.1,Matchweek 35
-5,Liverpool,27-04-2025,,Tottenham Hotspur,Premier League,W,5,1,4,63,4,0,0,0,2.2,0.5,Matchweek 34
-6,Liverpool,20-04-2025,@,Leicester City,Premier League,W,1,0,1,58,1,0,0,0,2.5,0.3,Matchweek 33
-7,Liverpool,13-04-2025,,West Ham United,Premier League,W,2,1,1,55,2,0,0,0,1.8,1.4,Matchweek 32
-8,Liverpool,06-04-2025,@,Fulham,Premier League,L,2,3,-1,62,2,0,0,0,1.5,0.7,Matchweek 31
-9,Liverpool,02-04-2025,,Everton,Premier League,W,1,0,1,74,1,0,0,0,1.5,0.9,Matchweek 30
-10,Liverpool,16-03-2025,N,Newcastle United,EFL Cup,L,1,2,-1,66,1,0,0,0,,,Final
-11,Liverpool,11-03-2025,,Paris Saint-Germain,Champions League,L,0,1,-1,46,0,0,0,0,1.5,2.6,Round of 16
-12,Liverpool,08-03-2025,,Southampton,Premier League,W,3,1,2,71,1,2,2,0,3.9,0.4,Matchweek 28
-13,Liverpool,05-03-2025,@,Paris Saint-Germain,Champions League,W,1,0,1,30,1,0,0,0,0.3,1.6,Round of 16
-14,Liverpool,26-02-2025,,Newcastle United,Premier League,W,2,0,2,62,2,0,0,0,1.7,0.2,Matchweek 27
-15,Liverpool,23-02-2025,@,Manchester City,Premier League,W,2,0,2,34,2,0,0,0,0.7,0.6,Matchweek 26
-16,Liverpool,19-02-2025,@,Aston Villa,Premier League,D,2,2,0,48,2,0,0,0,2.5,0.6,Matchweek 29
-17,Liverpool,16-02-2025,,Wolves,Premier League,W,2,1,1,50,1,1,1,0,1.7,1.5,Matchweek 25
-18,Liverpool,12-02-2025,@,Everton,Premier League,D,2,2,0,63,2,0,0,0,0.6,1.0,Matchweek 15
-19,Liverpool,09-02-2025,@,Plymouth Argyle,FA Cup,L,0,1,-1,75,0,0,0,0,,,4th Round
-20,Liverpool,06-02-2025,,Tottenham Hotspur,EFL Cup,W,4,0,4,64,3,1,1,0,,,Semi-Finals
-21,Liverpool,01-02-2025,@,Bournemouth,Premier League,W,2,0,2,51,1,1,1,0,2.5,1.6,Matchweek 24
-22,Liverpool,29-01-2025,@,PSV,Champions League,L,2,3,-1,47,1,1,1,0,1.6,1.3,Group Stage
-23,Liverpool,25-01-2025,,Ipswich Town,Premier League,W,4,1,3,71,4,0,0,0,2.0,0.5,Matchweek 23
-24,Liverpool,21-01-2025,,Lille,Champions League,W,2,1,1,56,2,0,0,0,2.5,0.5,Group Stage
-25,Liverpool,18-01-2025,@,Brentford,Premier League,W,2,0,2,61,2,0,0,0,3.4,0.7,Matchweek 22
-26,Liverpool,14-01-2025,@,Nottingham Forest,Premier League,D,1,1,0,71,1,0,0,0,2.0,0.3,Matchweek 21
-27,Liverpool,11-01-2025,,Accrington Stanley,FA Cup,W,4,0,4,,4,0,0,0,,,3rd Round
-28,Liverpool,08-01-2025,@,Tottenham Hotspur,EFL Cup,L,0,1,-1,60,0,0,0,0,,,Semi-Finals
-29,Liverpool,05-01-2025,,Manchester Utd,Premier League,D,2,2,0,52,1,1,1,0,2.7,1.0,Matchweek 20
-30,Liverpool,29-12-2024,@,West Ham United,Premier League,W,5,0,5,55,5,0,0,0,3.1,0.4,Matchweek 19
-31,Liverpool,26-12-2024,,Leicester City,Premier League,W,3,1,2,69,3,0,0,0,2.0,0.3,Matchweek 18
-32,Liverpool,22-12-2024,@,Tottenham Hotspur,Premier League,W,6,3,3,49,6,0,0,0,5.6,1.3,Matchweek 17
-33,Liverpool,18-12-2024,@,Southampton,EFL Cup,W,2,1,1,69,2,0,0,0,,,Quarter-Finals
-34,Liverpool,14-12-2024,,Fulham,Premier League,D,2,2,0,61,2,0,0,0,2.1,1.2,Matchweek 16
-35,Liverpool,10-12-2024,@,Girona,Champions League,W,1,0,1,62,0,1,1,0,1.8,1.2,Group Stage
-36,Liverpool,04-12-2024,@,Newcastle United,Premier League,D,3,3,0,59,3,0,0,0,1.9,2.1,Matchweek 14
-37,Liverpool,01-12-2024,,Manchester City,Premier League,W,2,0,2,44,1,1,1,0,3.4,0.8,Matchweek 13
-38,Liverpool,27-11-2024,,Real Madrid,Champions League,W,2,0,2,63,2,0,1,1,2.7,1.2,Group Stage
-39,Liverpool,24-11-2024,@,Southampton,Premier League,W,3,2,1,62,2,1,1,0,3.1,1.3,Matchweek 12
-40,Liverpool,09-11-2024,,Aston Villa,Premier League,W,2,0,2,63,2,0,0,0,2.0,1.2,Matchweek 11
-41,Liverpool,05-11-2024,,Leverkusen,Champions League,W,4,0,4,47,4,0,0,0,3.7,0.9,Group Stage
-42,Liverpool,02-11-2024,,Brighton,Premier League,W,2,1,1,49,2,0,0,0,1.6,1.0,Matchweek 10
-43,Liverpool,30-10-2024,@,Brighton,EFL Cup,W,3,2,1,55,3,0,0,0,,,4th Round
-44,Liverpool,27-10-2024,@,Arsenal,Premier League,D,2,2,0,55,2,0,0,0,0.8,0.9,Matchweek 9
-45,Liverpool,23-10-2024,@,RB Leipzig,Champions League,W,1,0,1,58,1,0,0,0,2.3,0.8,Group Stage
-46,Liverpool,20-10-2024,,Chelsea,Premier League,W,2,1,1,43,1,1,1,0,1.9,1.0,Matchweek 8
-47,Liverpool,05-10-2024,@,Crystal Palace,Premier League,W,1,0,1,68,1,0,0,0,1.4,0.6,Matchweek 7
-48,Liverpool,02-10-2024,,Bologna,Champions League,W,2,0,2,51,2,0,0,0,1.2,0.6,Group Stage
-49,Liverpool,28-09-2024,@,Wolves,Premier League,W,2,1,1,55,1,1,1,0,2.5,0.6,Matchweek 6
-50,Liverpool,25-09-2024,,West Ham United,EFL Cup,W,5,1,4,61,5,0,0,0,,,3rd Round
-51,Liverpool,21-09-2024,,Bournemouth,Premier League,W,3,0,3,59,3,0,0,0,2.0,1.1,Matchweek 5
-52,Liverpool,17-09-2024,@,Milan,Champions League,W,3,1,2,51,3,0,0,0,3.1,0.6,Group Stage
-53,Liverpool,14-09-2024,,Nottingham Forest,Premier League,L,0,1,-1,69,0,0,0,0,0.9,0.4,Matchweek 4
-54,Liverpool,01-09-2024,@,Manchester Utd,Premier League,W,3,0,3,47,3,0,0,0,1.8,1.4,Matchweek 3
-55,Liverpool,25-08-2024,,Brentford,Premier League,W,2,0,2,63,2,0,0,0,2.5,0.5,Matchweek 2
-56,Liverpool,17-08-2024,@,Ipswich Town,Premier League,W,2,0,2,62,2,0,0,0,2.6,0.5,Matchweek 1
-57,Liverpool,19-05-2024,,Wolves,Premier League,W,2,0,2,68,2,0,0,0,4.5,0.5,Matchweek 38
-58,Liverpool,13-05-2024,@,Aston Villa,Premier League,D,3,3,0,59,2,0,0,0,1.7,3.1,Matchweek 37
-59,Liverpool,05-05-2024,,Tottenham Hotspur,Premier League,W,4,2,2,44,4,0,0,0,3.3,1.2,Matchweek 36
-60,Liverpool,27-04-2024,@,West Ham United,Premier League,D,2,2,0,71,1,0,0,0,1.7,0.7,Matchweek 35
-61,Liverpool,24-04-2024,@,Everton,Premier League,L,0,2,-2,77,0,0,0,0,2.1,1.2,Matchweek 29
-62,Liverpool,21-04-2024,@,Fulham,Premier League,W,3,1,2,61,3,0,0,0,1.0,0.8,Matchweek 34
-63,Liverpool,18-04-2024,@,Atalanta,Europa League,W,1,0,1,70,0,1,1,0,1.6,0.6,Quarter-Finals
-64,Liverpool,14-04-2024,,Crystal Palace,Premier League,L,0,1,-1,70,0,0,0,0,2.7,2.0,Matchweek 33
-65,Liverpool,11-04-2024,,Atalanta,Europa League,L,0,3,-3,70,0,0,0,0,2.6,3.2,Quarter-Finals
-66,Liverpool,07-04-2024,@,Manchester Utd,Premier League,D,2,2,0,62,1,1,1,0,3.6,0.7,Matchweek 32
-67,Liverpool,04-04-2024,,Sheffield United,Premier League,W,3,1,2,83,3,0,0,0,1.8,0.6,Matchweek 31
-68,Liverpool,31-03-2024,,Brighton,Premier League,W,2,1,1,55,2,0,0,0,2.8,0.5,Matchweek 30
-69,Liverpool,17-03-2024,@,Manchester Utd,FA Cup,L,3,4,-1,58,3,0,0,0,,,Quarter-Finals
-70,Liverpool,14-03-2024,,Sparta Prague,Europa League,W,6,1,5,77,6,0,0,0,3.6,0.4,Round of 16
-71,Liverpool,10-03-2024,,Manchester City,Premier League,D,1,1,0,53,0,1,1,0,2.7,1.6,Matchweek 28
-72,Liverpool,07-03-2024,@,Sparta Prague,Europa League,W,5,1,4,63,4,1,1,0,2.8,0.9,Round of 16
-73,Liverpool,02-03-2024,@,Nottingham Forest,Premier League,W,1,0,1,70,1,0,0,0,2.0,1.0,Matchweek 27
-74,Liverpool,28-02-2024,,Southampton,FA Cup,W,3,0,3,52,3,0,0,0,,,5th Round
-75,Liverpool,25-02-2024,@,Chelsea,EFL Cup,W,1,0,1,54,1,0,0,0,,,Final
-76,Liverpool,21-02-2024,,Luton Town,Premier League,W,4,1,3,61,4,0,0,0,3.3,0.9,Matchweek 26
-77,Liverpool,17-02-2024,@,Brentford,Premier League,W,4,1,3,63,4,0,0,0,2.8,1.6,Matchweek 25
-78,Liverpool,10-02-2024,,Burnley,Premier League,W,3,1,2,71,3,0,0,0,2.8,1.3,Matchweek 24
-79,Liverpool,04-02-2024,@,Arsenal,Premier League,L,1,3,-2,57,0,0,0,0,0.4,3.5,Matchweek 23
-80,Liverpool,31-01-2024,,Chelsea,Premier League,W,4,1,3,51,4,0,1,1,2.9,0.6,Matchweek 22
-81,Liverpool,28-01-2024,,Norwich City,FA Cup,W,5,2,3,73,5,0,0,0,,,4th Round
-82,Liverpool,24-01-2024,@,Fulham,EFL Cup,D,1,1,0,51,1,0,0,0,,,Semi-Finals
-83,Liverpool,21-01-2024,@,Bournemouth,Premier League,W,4,0,4,61,4,0,0,0,1.5,1.4,Matchweek 21
-84,Liverpool,10-01-2024,,Fulham,EFL Cup,W,2,1,1,67,2,0,0,0,,,Semi-Finals
-85,Liverpool,07-01-2024,@,Arsenal,FA Cup,W,2,0,2,46,1,0,0,0,,,3rd Round
-86,Liverpool,01-01-2024,,Newcastle United,Premier League,W,4,2,2,63,3,1,2,1,7.0,0.6,Matchweek 20
-87,Liverpool,26-12-2023,@,Burnley,Premier League,W,2,0,2,69,2,0,0,0,1.8,0.8,Matchweek 19
-88,Liverpool,23-12-2023,,Arsenal,Premier League,D,1,1,0,51,1,0,0,0,1.0,0.7,Matchweek 18
-89,Liverpool,20-12-2023,,West Ham United,EFL Cup,W,5,1,4,67,5,0,0,0,,,Quarter-Finals
-90,Liverpool,17-12-2023,,Manchester Utd,Premier League,D,0,0,0,69,0,0,0,0,2.3,0.8,Matchweek 17
-91,Liverpool,14-12-2023,@,Union SG,Europa League,L,1,2,-1,69,1,0,0,0,0.3,2.3,Group Stage
-92,Liverpool,09-12-2023,@,Crystal Palace,Premier League,W,2,1,1,76,2,0,0,0,1.2,1.7,Matchweek 16
-93,Liverpool,06-12-2023,@,Sheffield United,Premier League,W,2,0,2,76,2,0,0,0,1.7,1.0,Matchweek 15
-94,Liverpool,03-12-2023,,Fulham,Premier League,W,4,3,1,62,3,0,0,0,2.1,1.2,Matchweek 14
-95,Liverpool,30-11-2023,,LASK,Europa League,W,4,0,4,66,4,0,0,0,3.3,0.7,Group Stage
-96,Liverpool,25-11-2023,@,Manchester City,Premier League,D,1,1,0,40,1,0,0,0,0.6,1.3,Matchweek 13
-97,Liverpool,12-11-2023,,Brentford,Premier League,W,3,0,3,59,3,0,0,0,1.7,1.6,Matchweek 12
-98,Liverpool,09-11-2023,@,Toulouse,Europa League,L,2,3,-1,72,1,0,0,0,1.1,1.0,Group Stage
-99,Liverpool,05-11-2023,@,Luton Town,Premier League,D,1,1,0,74,1,0,0,0,2.6,0.8,Matchweek 11
-100,Liverpool,01-11-2023,@,Bournemouth,EFL Cup,W,2,1,1,67,2,0,0,0,,,4th Round
-101,Liverpool,29-10-2023,,Nottingham Forest,Premier League,W,3,0,3,73,3,0,0,0,3.2,0.4,Matchweek 10
-102,Liverpool,26-10-2023,,Toulouse,Europa League,W,5,1,4,63,5,0,0,0,2.9,1.1,Group Stage
-103,Liverpool,21-10-2023,,Everton,Premier League,W,2,0,2,77,1,1,1,0,2.2,0.1,Matchweek 9
-104,Liverpool,08-10-2023,@,Brighton,Premier League,D,2,2,0,54,1,1,1,0,2.3,2.3,Matchweek 8
-105,Liverpool,05-10-2023,,Union SG,Europa League,W,2,0,2,73,2,0,0,0,2.9,1.1,Group Stage
-106,Liverpool,30-09-2023,@,Tottenham Hotspur,Premier League,L,1,2,-1,35,1,0,0,0,1.3,2.2,Matchweek 7
-107,Liverpool,27-09-2023,,Leicester City,EFL Cup,W,3,1,2,57,3,0,0,0,,,3rd Round
-108,Liverpool,24-09-2023,,West Ham United,Premier League,W,3,1,2,64,2,1,1,0,3.0,1.1,Matchweek 6
-109,Liverpool,21-09-2023,@,LASK,Europa League,W,3,1,2,67,2,1,1,0,2.2,0.3,Group Stage
-110,Liverpool,16-09-2023,@,Wolves,Premier League,W,3,1,2,66,2,0,0,0,2.5,0.6,Matchweek 5
-111,Liverpool,03-09-2023,,Aston Villa,Premier League,W,3,0,3,64,2,0,0,0,2.5,0.7,Matchweek 4
-112,Liverpool,27-08-2023,@,Newcastle United,Premier League,W,2,1,1,40,2,0,0,0,0.9,2.0,Matchweek 3
-113,Liverpool,19-08-2023,,Bournemouth,Premier League,W,3,1,2,64,3,0,1,1,3.0,1.3,Matchweek 2
-114,Liverpool,13-08-2023,@,Chelsea,Premier League,D,1,1,0,35,1,0,0,0,1.3,1.4,Matchweek 1
-115,Liverpool,28-05-2023,@,Southampton,Premier League,D,4,4,0,69,4,0,0,0,4.0,1.8,Matchweek 40
-116,Liverpool,20-05-2023,,Aston Villa,Premier League,D,1,1,0,66,1,0,0,0,0.7,1.3,Matchweek 39
-117,Liverpool,15-05-2023,@,Leicester City,Premier League,W,3,0,3,67,3,0,0,0,2.2,0.4,Matchweek 38
-118,Liverpool,06-05-2023,,Brentford,Premier League,W,1,0,1,54,1,0,0,0,2.2,0.2,Matchweek 37
-119,Liverpool,03-05-2023,,Fulham,Premier League,W,1,0,1,58,0,1,1,0,1.8,0.9,Matchweek 36
-120,Liverpool,30-04-2023,,Tottenham Hotspur,Premier League,W,4,3,1,68,3,1,1,0,2.2,2.0,Matchweek 35
-121,Liverpool,26-04-2023,@,West Ham United,Premier League,W,2,1,1,73,2,0,0,0,1.9,0.8,Matchweek 34
-122,Liverpool,22-04-2023,,Nottingham Forest,Premier League,W,3,2,1,81,3,0,0,0,2.8,0.9,Matchweek 33
-123,Liverpool,17-04-2023,@,Leeds United,Premier League,W,6,1,5,74,6,0,0,0,2.7,1.4,Matchweek 32
-124,Liverpool,09-04-2023,,Arsenal,Premier League,D,2,2,0,59,2,0,1,1,3.9,1.4,Matchweek 31
-125,Liverpool,04-04-2023,@,Chelsea,Premier League,D,0,0,0,51,0,0,0,0,0.3,2.2,Matchweek 30
-126,Liverpool,01-04-2023,@,Manchester City,Premier League,L,1,4,-3,31,1,0,0,0,0.3,2.9,Matchweek 29
-127,Liverpool,15-03-2023,@,Real Madrid,Champions League,L,0,1,-1,47,0,0,0,0,0.6,2.2,Round of 16
-128,Liverpool,11-03-2023,@,Bournemouth,Premier League,L,0,1,-1,69,0,0,1,1,1.7,0.9,Matchweek 28
-129,Liverpool,05-03-2023,,Manchester Utd,Premier League,W,7,0,7,60,7,0,0,0,2.8,0.8,Matchweek 27
-130,Liverpool,01-03-2023,,Wolves,Premier League,W,2,0,2,57,2,0,0,0,2.6,0.8,Matchweek 26
-131,Liverpool,25-02-2023,@,Crystal Palace,Premier League,D,0,0,0,64,0,0,0,0,0.9,0.7,Matchweek 25
-132,Liverpool,21-02-2023,,Real Madrid,Champions League,L,2,5,-3,52,2,0,0,0,1.8,1.6,Round of 16
-133,Liverpool,18-02-2023,@,Newcastle United,Premier League,W,2,0,2,63,2,0,0,0,1.9,2.0,Matchweek 24
-134,Liverpool,13-02-2023,,Everton,Premier League,W,2,0,2,59,2,0,0,0,2.3,0.4,Matchweek 23
-135,Liverpool,04-02-2023,@,Wolves,Premier League,L,0,3,-3,58,0,0,0,0,1.8,2.0,Matchweek 22
-136,Liverpool,29-01-2023,@,Brighton,FA Cup,L,1,2,-1,44,1,0,0,0,,,4th Round
-137,Liverpool,21-01-2023,,Chelsea,Premier League,D,0,0,0,48,0,0,0,0,1.4,1.6,Matchweek 21
-138,Liverpool,17-01-2023,@,Wolves,FA Cup,W,1,0,1,42,1,0,0,0,,,3rd Round
-139,Liverpool,14-01-2023,@,Brighton,Premier League,L,0,3,-3,38,0,0,0,0,1.0,1.9,Matchweek 20
-140,Liverpool,07-01-2023,,Wolves,FA Cup,D,2,2,0,64,2,0,0,0,,,3rd Round
-141,Liverpool,02-01-2023,@,Brentford,Premier League,L,1,3,-2,73,1,0,0,0,0.9,1.6,Matchweek 19
-142,Liverpool,30-12-2022,,Leicester City,Premier League,W,2,1,1,57,0,0,0,0,2.2,1.0,Matchweek 18
-143,Liverpool,26-12-2022,@,Aston Villa,Premier League,W,3,1,2,53,3,0,0,0,2.7,1.4,Matchweek 17
-144,Liverpool,22-12-2022,@,Manchester City,EFL Cup,L,2,3,-1,44,2,0,0,0,,,4th Round
-145,Liverpool,12-11-2022,,Southampton,Premier League,W,3,1,2,60,3,0,0,0,1.9,1.1,Matchweek 16
-146,Liverpool,09-11-2022,,Derby County,EFL Cup,D,0,0,0,74,0,0,0,0,,,3rd Round
-147,Liverpool,06-11-2022,@,Tottenham Hotspur,Premier League,W,2,1,1,53,2,0,0,0,1.2,1.2,Matchweek 15
-148,Liverpool,01-11-2022,,Napoli,Champions League,W,2,0,2,52,2,0,0,0,2.4,0.4,Group Stage
-149,Liverpool,29-10-2022,,Leeds United,Premier League,L,1,2,-1,69,1,0,0,0,1.7,1.8,Matchweek 14
-150,Liverpool,26-10-2022,@,Ajax,Champions League,W,3,0,3,51,3,0,0,0,1.6,1.2,Group Stage
-151,Liverpool,22-10-2022,@,Nottingham Forest,Premier League,L,0,1,-1,75,0,0,0,0,1.6,1.9,Matchweek 13
-152,Liverpool,19-10-2022,,West Ham United,Premier League,W,1,0,1,54,1,0,0,0,1.7,1.7,Matchweek 12
-153,Liverpool,16-10-2022,,Manchester City,Premier League,W,1,0,1,37,1,0,0,0,2.1,1.0,Matchweek 11
-154,Liverpool,12-10-2022,@,Rangers,Champions League,W,7,1,6,57,7,0,0,0,2.2,0.5,Group Stage
-155,Liverpool,09-10-2022,@,Arsenal,Premier League,L,2,3,-1,56,2,0,0,0,1.1,2.7,Matchweek 10
-156,Liverpool,04-10-2022,,Rangers,Champions League,W,2,0,2,64,1,1,1,0,2.9,0.4,Group Stage
-157,Liverpool,01-10-2022,,Brighton,Premier League,D,3,3,0,54,2,0,0,0,1.5,1.4,Matchweek 9
-158,Liverpool,13-09-2022,,Ajax,Champions League,W,2,1,1,57,2,0,0,0,2.2,0.3,Group Stage
-159,Liverpool,07-09-2022,@,Napoli,Champions League,L,1,4,-3,61,1,0,0,0,1.0,4.0,Group Stage
-160,Liverpool,03-09-2022,@,Everton,Premier League,D,0,0,0,61,0,0,0,0,2.1,1.7,Matchweek 6
-161,Liverpool,31-08-2022,,Newcastle United,Premier League,W,2,1,1,72,2,0,0,0,1.5,0.7,Matchweek 5
-162,Liverpool,27-08-2022,,Bournemouth,Premier League,W,9,0,9,71,8,0,0,0,3.3,0.3,Matchweek 4
-163,Liverpool,22-08-2022,@,Manchester Utd,Premier League,L,1,2,-1,70,1,0,0,0,1.3,1.8,Matchweek 3
-164,Liverpool,15-08-2022,,Crystal Palace,Premier League,D,1,1,0,73,1,0,0,0,2.0,1.0,Matchweek 2
-165,Liverpool,06-08-2022,@,Fulham,Premier League,D,2,2,0,67,2,0,0,0,1.2,1.2,Matchweek 1
-166,Liverpool,30-07-2022,N,Manchester City,FA Community Shield,W,3,1,2,43,2,1,1,0,,,Community Shield
-167,Liverpool,28-05-2022,N,Real Madrid,Champions League,L,0,1,-1,54,0,0,0,0,2.2,0.9,Final
-168,Liverpool,22-05-2022,,Wolves,Premier League,W,3,1,2,63,3,0,0,0,2.7,1.3,Matchweek 38
-169,Liverpool,17-05-2022,@,Southampton,Premier League,W,2,1,1,72,2,0,0,0,1.3,0.1,Matchweek 37
-170,Liverpool,14-05-2022,@,Chelsea,FA Cup,D,0,0,0,53,0,0,0,0,,,Final
-171,Liverpool,10-05-2022,@,Aston Villa,Premier League,W,2,1,1,60,2,0,0,0,1.8,1.4,Matchweek 33
-172,Liverpool,07-05-2022,,Tottenham Hotspur,Premier League,D,1,1,0,66,1,0,0,0,1.3,0.9,Matchweek 36
-173,Liverpool,03-05-2022,@,Villarreal,Champions League,W,3,2,1,56,3,0,0,0,2.5,1.2,Semi-Finals
-174,Liverpool,30-04-2022,@,Newcastle United,Premier League,W,1,0,1,66,1,0,0,0,2.3,0.2,Matchweek 35
-175,Liverpool,27-04-2022,,Villarreal,Champions League,W,2,0,2,73,1,0,0,0,1.6,0.1,Semi-Finals
-176,Liverpool,24-04-2022,,Everton,Premier League,W,2,0,2,83,2,0,0,0,1.7,0.4,Matchweek 34
-177,Liverpool,19-04-2022,,Manchester Utd,Premier League,W,4,0,4,72,4,0,0,0,2.0,0.1,Matchweek 30
-178,Liverpool,16-04-2022,@,Manchester City,FA Cup,W,3,2,1,51,3,0,0,0,,,Semi-Finals
-179,Liverpool,13-04-2022,,Benfica,Champions League,D,3,3,0,67,3,0,0,0,1.8,1.2,Quarter-Finals
-180,Liverpool,10-04-2022,@,Manchester City,Premier League,D,2,2,0,45,2,0,0,0,1.3,1.3,Matchweek 32
-181,Liverpool,05-04-2022,@,Benfica,Champions League,W,3,1,2,66,3,0,0,0,3.9,1.2,Quarter-Finals
-182,Liverpool,02-04-2022,,Watford,Premier League,W,2,0,2,73,1,1,1,0,2.2,0.6,Matchweek 31
-183,Liverpool,20-03-2022,@,Nottingham Forest,FA Cup,W,1,0,1,65,1,0,0,0,,,Quarter-Finals
-184,Liverpool,16-03-2022,@,Arsenal,Premier League,W,2,0,2,51,2,0,0,0,0.8,0.5,Matchweek 27
-185,Liverpool,12-03-2022,@,Brighton,Premier League,W,2,0,2,48,1,1,1,0,2.2,0.5,Matchweek 29
-186,Liverpool,08-03-2022,,Inter,Champions League,L,0,1,-1,63,0,0,0,0,1.8,0.5,Round of 16
-187,Liverpool,05-03-2022,,West Ham United,Premier League,W,1,0,1,69,1,0,0,0,2.4,1.3,Matchweek 28
-188,Liverpool,02-03-2022,,Norwich City,FA Cup,W,2,1,1,65,2,0,0,0,,,5th Round
-189,Liverpool,27-02-2022,@,Chelsea,EFL Cup,D,0,0,0,55,0,0,0,0,,,Final
-190,Liverpool,23-02-2022,,Leeds United,Premier League,W,6,0,6,64,4,2,2,0,5.9,0.2,Matchweek 19
-191,Liverpool,19-02-2022,,Norwich City,Premier League,W,3,1,2,70,3,0,0,0,3.6,0.6,Matchweek 26
-192,Liverpool,16-02-2022,@,Inter,Champions League,W,2,0,2,54,2,0,0,0,1.0,0.6,Round of 16
-193,Liverpool,13-02-2022,@,Burnley,Premier League,W,1,0,1,67,1,0,0,0,1.7,1.5,Matchweek 25
-194,Liverpool,10-02-2022,,Leicester City,Premier League,W,2,0,2,65,2,0,0,0,1.8,0.5,Matchweek 24
-195,Liverpool,06-02-2022,,Cardiff City,FA Cup,W,3,1,2,80,3,0,0,0,,,4th Round
-196,Liverpool,23-01-2022,@,Crystal Palace,Premier League,W,3,1,2,57,2,1,1,0,1.9,2.2,Matchweek 23
-197,Liverpool,20-01-2022,@,Arsenal,EFL Cup,W,2,0,2,54,2,0,0,0,,,Semi-Finals
-198,Liverpool,16-01-2022,,Brentford,Premier League,W,3,0,3,68,3,0,0,0,2.7,0.7,Matchweek 22
-199,Liverpool,13-01-2022,,Arsenal,EFL Cup,D,0,0,0,78,0,0,0,0,,,Semi-Finals
-200,Liverpool,09-01-2022,,Shrewsbury Town,FA Cup,W,4,1,3,83,3,1,1,0,,,3rd Round
-201,Liverpool,02-01-2022,@,Chelsea,Premier League,D,2,2,0,44,2,0,0,0,1.3,1.2,Matchweek 21
-202,Liverpool,28-12-2021,@,Leicester City,Premier League,L,0,1,-1,64,0,0,1,1,2.3,0.4,Matchweek 20
-203,Liverpool,22-12-2021,,Leicester City,EFL Cup,D,3,3,0,66,3,0,0,0,,,Quarter-Finals
-204,Liverpool,19-12-2021,@,Tottenham Hotspur,Premier League,D,2,2,0,57,2,0,0,0,1.1,3.0,Matchweek 18
-205,Liverpool,16-12-2021,,Newcastle United,Premier League,W,3,1,2,74,3,0,0,0,2.7,0.3,Matchweek 17
-206,Liverpool,11-12-2021,,Aston Villa,Premier League,W,1,0,1,63,0,1,1,0,2.2,0.2,Matchweek 16
-207,Liverpool,07-12-2021,@,Milan,Champions League,W,2,1,1,51,2,0,0,0,1.9,1.4,Group Stage
-208,Liverpool,04-12-2021,@,Wolves,Premier League,W,1,0,1,67,1,0,0,0,2.7,0.1,Matchweek 15
-209,Liverpool,01-12-2021,@,Everton,Premier League,W,4,1,3,69,4,0,0,0,2.4,0.7,Matchweek 14
-210,Liverpool,27-11-2021,,Southampton,Premier League,W,4,0,4,64,4,0,0,0,2.9,1.0,Matchweek 13
-211,Liverpool,24-11-2021,,Porto,Champions League,W,2,0,2,59,2,0,0,0,0.6,1.1,Group Stage
-212,Liverpool,20-11-2021,,Arsenal,Premier League,W,4,0,4,63,4,0,0,0,1.2,1.0,Matchweek 12
-213,Liverpool,07-11-2021,@,West Ham United,Premier League,L,2,3,-1,69,2,0,0,0,4.3,0.4,Matchweek 11
-214,Liverpool,03-11-2021,,Atletico Madrid,Champions League,W,2,0,2,73,2,0,0,0,3.0,0.2,Group Stage
-215,Liverpool,30-10-2021,,Brighton,Premier League,D,2,2,0,59,2,0,0,0,1.5,1.0,Matchweek 10
-216,Liverpool,27-10-2021,@,Preston North End,EFL Cup,W,2,0,2,73,2,0,0,0,,,4th Round
-217,Liverpool,24-10-2021,@,Manchester Utd,Premier League,W,5,0,5,64,5,0,0,0,3.4,1.6,Matchweek 9
-218,Liverpool,19-10-2021,@,Atletico Madrid,Champions League,W,3,2,1,68,2,1,1,0,1.3,2.2,Group Stage
-219,Liverpool,16-10-2021,@,Watford,Premier League,W,5,0,5,77,5,0,0,0,3.3,0.5,Matchweek 8
-220,Liverpool,03-10-2021,,Manchester City,Premier League,D,2,2,0,48,2,0,0,0,0.9,1.2,Matchweek 7
-221,Liverpool,28-09-2021,@,Porto,Champions League,W,5,1,4,67,5,0,0,0,3.4,0.9,Group Stage
-222,Liverpool,25-09-2021,@,Brentford,Premier League,D,3,3,0,67,3,0,0,0,2.8,2.1,Matchweek 6
-223,Liverpool,21-09-2021,@,Norwich City,EFL Cup,W,3,0,3,53,3,0,0,0,,,3rd Round
-224,Liverpool,18-09-2021,,Crystal Palace,Premier League,W,3,0,3,61,3,0,0,0,3.1,0.6,Matchweek 5
-225,Liverpool,15-09-2021,,Milan,Champions League,W,3,2,1,61,2,0,1,1,2.5,1.6,Group Stage
-226,Liverpool,12-09-2021,@,Leeds United,Premier League,W,3,0,3,56,3,0,0,0,4.3,1.2,Matchweek 4
-227,Liverpool,28-08-2021,,Chelsea,Premier League,D,1,1,0,65,0,1,1,0,2.5,0.6,Matchweek 3
-228,Liverpool,21-08-2021,,Burnley,Premier League,W,2,0,2,67,2,0,0,0,2.7,0.9,Matchweek 2
-229,Liverpool,14-08-2021,@,Norwich City,Premier League,W,3,0,3,50,3,0,0,0,1.6,1.4,Matchweek 1
-230,Liverpool,23-05-2021,,Crystal Palace,Premier League,W,2,0,2,70,2,0,0,0,1.6,0.6,Matchweek 38
-231,Liverpool,19-05-2021,@,Burnley,Premier League,W,3,0,3,59,3,0,0,0,2.6,0.8,Matchweek 37
-232,Liverpool,16-05-2021,@,West Brom,Premier League,W,2,1,1,76,2,0,0,0,1.9,1.0,Matchweek 36
-233,Liverpool,13-05-2021,@,Manchester Utd,Premier League,W,4,2,2,47,4,0,0,0,2.7,1.9,Matchweek 34
-234,Liverpool,08-05-2021,,Southampton,Premier League,W,2,0,2,54,2,0,0,0,1.7,1.1,Matchweek 35
-235,Liverpool,24-04-2021,,Newcastle United,Premier League,D,1,1,0,69,1,0,0,0,2.4,1.0,Matchweek 33
-236,Liverpool,19-04-2021,@,Leeds United,Premier League,D,1,1,0,39,1,0,0,0,1.4,2.3,Matchweek 32
-237,Liverpool,14-04-2021,,Real Madrid,Champions League,D,0,0,0,56,0,0,0,0,1.2,0.8,Quarter-Finals
-238,Liverpool,10-04-2021,,Aston Villa,Premier League,W,2,1,1,67,2,0,0,0,2.3,0.5,Matchweek 31
-239,Liverpool,06-04-2021,@,Real Madrid,Champions League,L,1,3,-2,54,1,0,0,0,0.7,2.1,Quarter-Finals
-240,Liverpool,03-04-2021,@,Arsenal,Premier League,W,3,0,3,64,3,0,0,0,2.4,0.1,Matchweek 30
-241,Liverpool,15-03-2021,@,Wolves,Premier League,W,1,0,1,47,1,0,0,0,0.9,1.1,Matchweek 28
-242,Liverpool,10-03-2021,N,RB Leipzig,Champions League,W,2,0,2,41,2,0,0,0,2.4,0.9,Round of 16
-243,Liverpool,07-03-2021,,Fulham,Premier League,L,0,1,-1,63,0,0,0,0,0.9,1.3,Matchweek 27
-244,Liverpool,04-03-2021,,Chelsea,Premier League,L,0,1,-1,54,0,0,0,0,0.3,1.0,Matchweek 29
-245,Liverpool,28-02-2021,@,Sheffield United,Premier League,W,2,0,2,60,1,0,0,0,2.7,0.7,Matchweek 26
-246,Liverpool,20-02-2021,,Everton,Premier League,L,0,2,-2,72,0,0,0,0,1.4,1.6,Matchweek 25
-247,Liverpool,16-02-2021,N,RB Leipzig,Champions League,W,2,0,2,52,2,0,0,0,1.4,1.3,Round of 16
-248,Liverpool,13-02-2021,@,Leicester City,Premier League,L,1,3,-2,62,1,0,0,0,1.7,1.9,Matchweek 24
-249,Liverpool,07-02-2021,,Manchester City,Premier League,L,1,4,-3,56,0,1,1,0,1.2,3.5,Matchweek 23
-250,Liverpool,03-02-2021,,Brighton,Premier League,L,0,1,-1,64,0,0,0,0,1.0,1.3,Matchweek 22
-251,Liverpool,31-01-2021,@,West Ham United,Premier League,W,3,1,2,67,3,0,0,0,2.0,0.8,Matchweek 21
-252,Liverpool,28-01-2021,@,Tottenham Hotspur,Premier League,W,3,1,2,50,3,0,0,0,2.5,0.1,Matchweek 20
-253,Liverpool,24-01-2021,@,Manchester Utd,FA Cup,L,2,3,-1,58,2,0,0,0,,,4th Round
-254,Liverpool,21-01-2021,,Burnley,Premier League,L,0,1,-1,72,0,0,0,0,1.6,1.1,Matchweek 18
-255,Liverpool,17-01-2021,,Manchester Utd,Premier League,D,0,0,0,66,0,0,0,0,1.2,1.1,Matchweek 19
-256,Liverpool,08-01-2021,@,Aston Villa,FA Cup,W,4,1,3,83,4,0,0,0,,,3rd Round
-257,Liverpool,04-01-2021,@,Southampton,Premier League,L,0,1,-1,67,0,0,0,0,1.5,0.4,Matchweek 17
-258,Liverpool,30-12-2020,@,Newcastle United,Premier League,D,0,0,0,73,0,0,0,0,1.4,0.5,Matchweek 16
-259,Liverpool,27-12-2020,,West Brom,Premier League,D,1,1,0,78,1,0,0,0,1.5,0.6,Matchweek 15
-260,Liverpool,19-12-2020,@,Crystal Palace,Premier League,W,7,0,7,65,7,0,0,0,2.5,0.3,Matchweek 14
-261,Liverpool,16-12-2020,,Tottenham Hotspur,Premier League,W,2,1,1,76,2,0,0,0,1.0,1.1,Matchweek 13
-262,Liverpool,13-12-2020,@,Fulham,Premier League,D,1,1,0,75,0,1,1,0,1.8,1.5,Matchweek 12
-263,Liverpool,09-12-2020,@,Midtjylland,Champions League,D,1,1,0,51,1,0,0,0,1.1,2.3,Group Stage
-264,Liverpool,06-12-2020,,Wolves,Premier League,W,4,0,4,61,3,0,0,0,1.2,0.4,Matchweek 11
-265,Liverpool,01-12-2020,,Ajax,Champions League,W,1,0,1,44,1,0,0,0,2.0,1.5,Group Stage
-266,Liverpool,28-11-2020,@,Brighton,Premier League,D,1,1,0,60,1,0,0,0,0.2,2.3,Matchweek 10
-267,Liverpool,25-11-2020,,Atalanta,Champions League,L,0,2,-2,54,0,0,0,0,0.2,1.2,Group Stage
-268,Liverpool,22-11-2020,,Leicester City,Premier League,W,3,0,3,57,2,0,0,0,3.1,1.6,Matchweek 9
-269,Liverpool,08-11-2020,@,Manchester City,Premier League,D,1,1,0,45,0,1,1,0,1.2,1.4,Matchweek 8
-270,Liverpool,03-11-2020,@,Atalanta,Champions League,W,5,0,5,56,5,0,0,0,2.5,1.2,Group Stage
-271,Liverpool,31-10-2020,,West Ham United,Premier League,W,2,1,1,72,1,1,1,0,1.7,0.3,Matchweek 7
-272,Liverpool,27-10-2020,,Midtjylland,Champions League,W,2,0,2,63,1,1,1,0,2.2,1.2,Group Stage
-273,Liverpool,24-10-2020,,Sheffield United,Premier League,W,2,1,1,62,2,0,0,0,2.3,1.6,Matchweek 6
-274,Liverpool,21-10-2020,@,Ajax,Champions League,W,1,0,1,51,0,0,0,0,1.1,1.4,Group Stage
-275,Liverpool,17-10-2020,@,Everton,Premier League,D,2,2,0,58,2,0,0,0,2.6,1.2,Matchweek 5
-276,Liverpool,04-10-2020,@,Aston Villa,Premier League,L,2,7,-5,69,2,0,0,0,1.8,2.7,Matchweek 4
-277,Liverpool,01-10-2020,,Arsenal,EFL Cup,D,0,0,0,57,0,0,0,0,,,4th Round
-278,Liverpool,28-09-2020,,Arsenal,Premier League,W,3,1,2,66,3,0,0,0,2.7,1.3,Matchweek 3
-279,Liverpool,24-09-2020,@,Lincoln City,EFL Cup,W,7,2,5,72,7,0,0,0,,,3rd Round
-280,Liverpool,20-09-2020,@,Chelsea,Premier League,W,2,0,2,61,2,0,0,0,2.1,0.9,Matchweek 2
-281,Liverpool,12-09-2020,,Leeds United,Premier League,W,4,3,1,48,2,2,2,0,2.7,0.3,Matchweek 1
-282,Liverpool,29-08-2020,N,Arsenal,FA Community Shield,D,1,1,0,60,1,0,0,0,,,Community Shield
-283,Liverpool,26-07-2020,@,Newcastle United,Premier League,W,3,1,2,75,3,0,0,0,0.6,0.1,Matchweek 38
-284,Liverpool,22-07-2020,,Chelsea,Premier League,W,5,3,2,50,5,0,0,0,1.7,2.4,Matchweek 37
-285,Liverpool,15-07-2020,@,Arsenal,Premier League,L,1,2,-1,69,1,0,0,0,2.1,0.8,Matchweek 36
-286,Liverpool,11-07-2020,,Burnley,Premier League,D,1,1,0,71,1,0,0,0,1.7,0.4,Matchweek 35
-287,Liverpool,08-07-2020,@,Brighton,Premier League,W,3,1,2,56,3,0,0,0,2.5,2.4,Matchweek 34
-288,Liverpool,05-07-2020,,Aston Villa,Premier League,W,2,0,2,72,2,0,0,0,0.7,0.7,Matchweek 33
-289,Liverpool,02-07-2020,@,Manchester City,Premier League,L,0,4,-4,52,0,0,0,0,1.1,2.4,Matchweek 32
-290,Liverpool,24-06-2020,,Crystal Palace,Premier League,W,4,0,4,74,4,0,0,0,2.4,0.1,Matchweek 31
-291,Liverpool,21-06-2020,@,Everton,Premier League,D,0,0,0,70,0,0,0,0,0.7,0.9,Matchweek 30
-292,Liverpool,11-03-2020,,Atletico Madrid,Champions League,L,2,3,-1,71,2,0,0,0,3.4,1.1,Round of 16
-293,Liverpool,07-03-2020,,Bournemouth,Premier League,W,2,1,1,75,2,0,0,0,1.8,1.4,Matchweek 29
-294,Liverpool,03-03-2020,@,Chelsea,FA Cup,L,0,2,-2,58,0,0,0,0,,,5th Round
-295,Liverpool,29-02-2020,@,Watford,Premier League,L,0,3,-3,71,0,0,0,0,0.3,2.3,Matchweek 28
-296,Liverpool,24-02-2020,,West Ham United,Premier League,W,3,2,1,70,3,0,0,0,2.4,0.7,Matchweek 27
-297,Liverpool,18-02-2020,@,Atletico Madrid,Champions League,L,0,1,-1,73,0,0,0,0,0.5,1.2,Round of 16
-298,Liverpool,15-02-2020,@,Norwich City,Premier League,W,1,0,1,64,1,0,0,0,2.0,0.3,Matchweek 26
-299,Liverpool,04-02-2020,,Shrewsbury Town,FA Cup,W,1,0,1,58,0,0,0,0,,,4th Round
-300,Liverpool,01-02-2020,,Southampton,Premier League,W,4,0,4,62,4,0,0,0,3.2,0.8,Matchweek 25
-301,Liverpool,29-01-2020,@,West Ham United,Premier League,W,2,0,2,71,1,1,1,0,2.8,0.7,Matchweek 18
-302,Liverpool,26-01-2020,@,Shrewsbury Town,FA Cup,D,2,2,0,70,1,0,0,0,,,4th Round
-303,Liverpool,23-01-2020,@,Wolves,Premier League,W,2,1,1,53,2,0,0,0,1.1,1.8,Matchweek 24
-304,Liverpool,19-01-2020,,Manchester Utd,Premier League,W,2,0,2,53,2,0,0,0,1.9,1.3,Matchweek 23
-305,Liverpool,11-01-2020,@,Tottenham Hotspur,Premier League,W,1,0,1,67,1,0,0,0,1.2,1.2,Matchweek 22
-306,Liverpool,05-01-2020,,Everton,FA Cup,W,1,0,1,57,1,0,0,0,,,3rd Round
-307,Liverpool,02-01-2020,,Sheffield United,Premier League,W,2,0,2,75,2,0,0,0,2.8,0.6,Matchweek 21
-308,Liverpool,29-12-2019,,Wolves,Premier League,W,1,0,1,63,1,0,0,0,1.2,0.5,Matchweek 20
-309,Liverpool,26-12-2019,@,Leicester City,Premier League,W,4,0,4,59,3,1,1,0,3.2,0.1,Matchweek 19
-310,Liverpool,21-12-2019,,Flamengo,FIFA Club World Cup,W,1,0,1,47,1,0,0,0,,,
-311,Liverpool,18-12-2019,@,Monterrey,FIFA Club World Cup,W,2,1,1,69,2,0,0,0,,,
-312,Liverpool,17-12-2019,@,Aston Villa,EFL Cup,L,0,5,-5,57,0,0,0,0,,,Quarter-Finals
-313,Liverpool,14-12-2019,,Watford,Premier League,W,2,0,2,68,2,0,0,0,1.4,1.0,Matchweek 17
-314,Liverpool,10-12-2019,@,RB Salzburg,Champions League,W,2,0,2,57,2,0,0,0,3.4,0.7,Group Stage
-315,Liverpool,07-12-2019,@,Bournemouth,Premier League,W,3,0,3,74,3,0,0,0,2.4,0.1,Matchweek 16
-316,Liverpool,04-12-2019,,Everton,Premier League,W,5,2,3,59,5,0,0,0,2.0,1.5,Matchweek 15
-317,Liverpool,30-11-2019,,Brighton,Premier League,W,2,1,1,45,2,0,0,0,1.3,0.8,Matchweek 14
-318,Liverpool,27-11-2019,,Napoli,Champions League,D,1,1,0,72,1,0,0,0,0.8,0.5,Group Stage
-319,Liverpool,23-11-2019,@,Crystal Palace,Premier League,W,2,1,1,59,2,0,0,0,1.4,1.0,Matchweek 13
-320,Liverpool,10-11-2019,,Manchester City,Premier League,W,3,1,2,45,3,0,0,0,1.1,1.3,Matchweek 12
-321,Liverpool,05-11-2019,,Genk,Champions League,W,2,1,1,72,2,0,0,0,2.3,0.7,Group Stage
-322,Liverpool,02-11-2019,@,Aston Villa,Premier League,W,2,1,1,74,2,0,0,0,2.4,0.4,Matchweek 11
-323,Liverpool,30-10-2019,,Arsenal,EFL Cup,D,5,5,0,66,3,1,1,0,,,4th Round
-324,Liverpool,27-10-2019,,Tottenham Hotspur,Premier League,W,2,1,1,68,1,1,1,0,2.6,1.2,Matchweek 10
-325,Liverpool,23-10-2019,@,Genk,Champions League,W,4,1,3,74,4,0,0,0,2.5,1.3,Group Stage
-326,Liverpool,20-10-2019,@,Manchester Utd,Premier League,D,1,1,0,68,1,0,0,0,1.2,0.7,Matchweek 9
-327,Liverpool,05-10-2019,,Leicester City,Premier League,W,2,1,1,51,1,1,1,0,3.5,0.1,Matchweek 8
-328,Liverpool,02-10-2019,,RB Salzburg,Champions League,W,4,3,1,70,4,0,0,0,2.5,1.6,Group Stage
-329,Liverpool,28-09-2019,@,Sheffield United,Premier League,W,1,0,1,70,1,0,0,0,1.9,1.3,Matchweek 7
-330,Liverpool,25-09-2019,@,Milton Keynes Dons,EFL Cup,W,2,0,2,78,2,0,0,0,,,3rd Round
-331,Liverpool,22-09-2019,@,Chelsea,Premier League,W,2,1,1,45,2,0,0,0,0.6,1.3,Matchweek 6
-332,Liverpool,17-09-2019,@,Napoli,Champions League,L,0,2,-2,52,0,0,0,0,0.7,1.8,Group Stage
-333,Liverpool,14-09-2019,,Newcastle United,Premier League,W,3,1,2,76,3,0,0,0,3.0,0.3,Matchweek 5
-334,Liverpool,31-08-2019,@,Burnley,Premier League,W,3,0,3,63,2,0,0,0,1.0,0.9,Matchweek 4
-335,Liverpool,24-08-2019,,Arsenal,Premier League,W,3,1,2,53,2,1,1,0,2.5,1.0,Matchweek 3
-336,Liverpool,17-08-2019,@,Southampton,Premier League,W,2,1,1,63,2,0,0,0,1.3,1.9,Matchweek 2
-337,Liverpool,14-08-2019,,Chelsea,UEFA Super Cup,D,2,2,0,53,2,0,0,0,,,UEFA Super Cup
-338,Liverpool,09-08-2019,,Norwich City,Premier League,W,4,1,3,58,3,0,0,0,1.8,0.9,Matchweek 1
-339,Liverpool,04-08-2019,N,Manchester City,FA Community Shield,D,1,1,0,53,1,0,0,0,,,Community Shield
-340,Liverpool,01-06-2019,N,Tottenham Hotspur,Champions League,W,2,0,2,35,1,1,1,0,1.3,0.8,Final
-341,Liverpool,12-05-2019,,Wolves,Premier League,W,2,0,2,59,2,0,0,0,1.6,1.3,Matchweek 38
-342,Liverpool,07-05-2019,,Barcelona,Champions League,W,4,0,4,43,4,0,0,0,2.3,1.4,Semi-Finals
-343,Liverpool,04-05-2019,@,Newcastle United,Premier League,W,3,2,1,69,3,0,0,0,1.2,1.4,Matchweek 37
-344,Liverpool,01-05-2019,@,Barcelona,Champions League,L,0,3,-3,52,0,0,0,0,1.8,2.4,Semi-Finals
-345,Liverpool,26-04-2019,,Huddersfield Town,Premier League,W,5,0,5,70,5,0,0,0,3.1,0.2,Matchweek 36
-346,Liverpool,21-04-2019,@,Cardiff City,Premier League,W,2,0,2,76,1,1,1,0,3.0,1.1,Matchweek 35
-347,Liverpool,17-04-2019,@,Porto,Champions League,W,4,1,3,49,4,0,0,0,3.5,1.0,Quarter-Finals
-348,Liverpool,14-04-2019,,Chelsea,Premier League,W,2,0,2,62,2,0,0,0,1.2,0.7,Matchweek 34
-349,Liverpool,09-04-2019,,Porto,Champions League,W,2,0,2,64,2,0,0,0,2.3,0.8,Quarter-Finals
-350,Liverpool,05-04-2019,@,Southampton,Premier League,W,3,1,2,67,3,0,0,0,1.9,0.9,Matchweek 33
-351,Liverpool,31-03-2019,,Tottenham Hotspur,Premier League,W,2,1,1,49,1,0,0,0,1.0,0.7,Matchweek 32
-352,Liverpool,17-03-2019,@,Fulham,Premier League,W,2,1,1,63,1,1,1,0,2.6,1.1,Matchweek 31
-353,Liverpool,13-03-2019,@,Bayern Munich,Champions League,W,3,1,2,42,3,0,0,0,1.1,0.3,Round of 16
-354,Liverpool,10-03-2019,,Burnley,Premier League,W,4,2,2,69,4,0,0,0,4.0,0.4,Matchweek 30
-355,Liverpool,03-03-2019,@,Everton,Premier League,D,0,0,0,58,0,0,0,0,1.1,0.3,Matchweek 29
-356,Liverpool,27-02-2019,,Watford,Premier League,W,5,0,5,62,5,0,0,0,1.9,0.3,Matchweek 28
-357,Liverpool,24-02-2019,@,Manchester Utd,Premier League,D,0,0,0,65,0,0,0,0,0.5,0.3,Matchweek 27
-358,Liverpool,19-02-2019,,Bayern Munich,Champions League,D,0,0,0,49,0,0,0,0,2.1,0.4,Round of 16
-359,Liverpool,09-02-2019,,Bournemouth,Premier League,W,3,0,3,66,3,0,0,0,2.0,0.4,Matchweek 26
-360,Liverpool,04-02-2019,@,West Ham United,Premier League,D,1,1,0,73,1,0,0,0,1.1,0.8,Matchweek 25
-361,Liverpool,30-01-2019,,Leicester City,Premier League,D,1,1,0,72,1,0,0,0,0.6,1.1,Matchweek 24
-362,Liverpool,19-01-2019,,Crystal Palace,Premier League,W,4,3,1,71,4,0,0,0,2.6,0.7,Matchweek 23
-363,Liverpool,12-01-2019,@,Brighton,Premier League,W,1,0,1,71,0,1,1,0,2.0,0.4,Matchweek 22
-364,Liverpool,07-01-2019,@,Wolves,FA Cup,L,1,2,-1,61,1,0,0,0,,,3rd Round
-365,Liverpool,03-01-2019,@,Manchester City,Premier League,L,1,2,-1,50,1,0,0,0,1.5,1.1,Matchweek 21
-366,Liverpool,29-12-2018,,Arsenal,Premier League,W,5,1,4,48,3,2,2,0,3.8,1.0,Matchweek 20
-367,Liverpool,26-12-2018,,Newcastle United,Premier League,W,4,0,4,75,3,1,1,0,2.9,0.5,Matchweek 19
-368,Liverpool,21-12-2018,@,Wolves,Premier League,W,2,0,2,62,2,0,0,0,1.9,0.9,Matchweek 18
-369,Liverpool,16-12-2018,,Manchester Utd,Premier League,W,3,1,2,65,3,0,0,0,2.5,0.7,Matchweek 17
-370,Liverpool,11-12-2018,,Napoli,Champions League,W,1,0,1,48,1,0,0,0,3.0,1.2,Group Stage
-371,Liverpool,08-12-2018,@,Bournemouth,Premier League,W,4,0,4,60,3,0,0,0,1.6,0.3,Matchweek 16
-372,Liverpool,05-12-2018,@,Burnley,Premier League,W,3,1,2,74,3,0,0,0,2.4,0.9,Matchweek 15
-373,Liverpool,02-12-2018,,Everton,Premier League,W,1,0,1,58,1,0,0,0,2.9,1.1,Matchweek 14
-374,Liverpool,28-11-2018,@,Paris Saint-Germain,Champions League,L,1,2,-1,56,0,1,1,0,1.3,1.5,Group Stage
-375,Liverpool,24-11-2018,@,Watford,Premier League,W,3,0,3,64,3,0,0,0,1.2,0.4,Matchweek 13
-376,Liverpool,11-11-2018,,Fulham,Premier League,W,2,0,2,73,2,0,0,0,1.8,0.5,Matchweek 12
-377,Liverpool,06-11-2018,@,Red Star,Champions League,L,0,2,-2,72,0,0,0,0,2.2,0.7,Group Stage
-378,Liverpool,03-11-2018,@,Arsenal,Premier League,D,1,1,0,38,1,0,0,0,1.3,1.4,Matchweek 11
-379,Liverpool,27-10-2018,,Cardiff City,Premier League,W,4,1,3,80,4,0,0,0,2.4,0.8,Matchweek 10
-380,Liverpool,24-10-2018,,Red Star,Champions League,W,4,0,4,66,3,1,2,1,5.0,0.5,Group Stage
-381,Liverpool,20-10-2018,@,Huddersfield Town,Premier League,W,1,0,1,52,1,0,0,0,0.6,0.7,Matchweek 9
-382,Liverpool,07-10-2018,,Manchester City,Premier League,D,0,0,0,49,0,0,0,0,0.4,1.0,Matchweek 8
-383,Liverpool,03-10-2018,@,Napoli,Champions League,L,0,1,-1,43,0,0,0,0,0.1,1.9,Group Stage
-384,Liverpool,29-09-2018,@,Chelsea,Premier League,D,1,1,0,53,1,0,0,0,1.6,1.1,Matchweek 7
-385,Liverpool,26-09-2018,,Chelsea,EFL Cup,L,1,2,-1,46,1,0,0,0,,,3rd Round
-386,Liverpool,22-09-2018,,Southampton,Premier League,W,3,0,3,61,2,0,0,0,1.7,0.3,Matchweek 6
-387,Liverpool,18-09-2018,,Paris Saint-Germain,Champions League,W,3,2,1,52,2,1,1,0,2.3,0.8,Group Stage
-388,Liverpool,15-09-2018,@,Tottenham Hotspur,Premier League,W,2,1,1,40,2,0,0,0,2.6,1.0,Matchweek 5
-389,Liverpool,01-09-2018,@,Leicester City,Premier League,W,2,1,1,49,2,0,0,0,1.0,1.0,Matchweek 4
-390,Liverpool,25-08-2018,,Brighton,Premier League,W,1,0,1,70,1,0,0,0,1.6,0.6,Matchweek 3
-391,Liverpool,20-08-2018,@,Crystal Palace,Premier League,W,2,0,2,63,1,1,1,0,2.6,0.4,Matchweek 2
-392,Liverpool,12-08-2018,,West Ham United,Premier League,W,4,0,4,65,4,0,0,0,4.0,0.7,Matchweek 1
-393,Liverpool,26-05-2018,N,Real Madrid,Champions League,L,1,3,-2,35,1,0,0,0,1.9,1.5,Final
-394,Liverpool,13-05-2018,,Brighton,Premier League,W,4,0,4,72,4,0,0,0,2.8,0.1,Matchweek 38
-395,Liverpool,06-05-2018,@,Chelsea,Premier League,L,0,1,-1,68,0,0,0,0,0.5,0.6,Matchweek 37
-396,Liverpool,02-05-2018,@,Roma,Champions League,L,2,4,-2,40,2,0,0,0,1.6,2.4,Semi-Finals
-397,Liverpool,28-04-2018,,Stoke City,Premier League,D,0,0,0,72,0,0,0,0,1.9,0.6,Matchweek 36
-398,Liverpool,24-04-2018,,Roma,Champions League,W,5,2,3,49,5,0,0,0,3.7,1.9,Semi-Finals
-399,Liverpool,21-04-2018,@,West Brom,Premier League,D,2,2,0,62,2,0,0,0,1.3,1.3,Matchweek 35
-400,Liverpool,14-04-2018,,Bournemouth,Premier League,W,3,0,3,62,3,0,0,0,2.0,0.3,Matchweek 34
-401,Liverpool,10-04-2018,@,Manchester City,Champions League,W,2,1,1,32,2,0,0,0,0.8,1.2,Quarter-Finals
-402,Liverpool,07-04-2018,@,Everton,Premier League,D,0,0,0,62,0,0,0,0,0.9,0.6,Matchweek 33
-403,Liverpool,04-04-2018,,Manchester City,Champions League,W,3,0,3,34,3,0,0,0,1.6,0.6,Quarter-Finals
-404,Liverpool,31-03-2018,@,Crystal Palace,Premier League,W,2,1,1,68,2,0,0,0,1.8,1.9,Matchweek 32
-405,Liverpool,17-03-2018,,Watford,Premier League,W,5,0,5,58,5,0,0,0,2.3,0.4,Matchweek 31
-406,Liverpool,10-03-2018,@,Manchester Utd,Premier League,L,1,2,-1,68,0,0,0,0,0.7,0.7,Matchweek 30
-407,Liverpool,06-03-2018,,Porto,Champions League,D,0,0,0,65,0,0,0,0,1.6,0.6,Round of 16
-408,Liverpool,03-03-2018,,Newcastle United,Premier League,W,2,0,2,71,2,0,0,0,1.5,0.3,Matchweek 29
-409,Liverpool,24-02-2018,,West Ham United,Premier League,W,4,1,3,68,4,0,0,0,4.0,0.4,Matchweek 28
-410,Liverpool,14-02-2018,@,Porto,Champions League,W,5,0,5,55,5,0,0,0,2.6,0.5,Round of 16
-411,Liverpool,11-02-2018,@,Southampton,Premier League,W,2,0,2,48,2,0,0,0,1.9,0.9,Matchweek 27
-412,Liverpool,04-02-2018,,Tottenham Hotspur,Premier League,D,2,2,0,34,2,0,0,0,1.2,2.6,Matchweek 26
-413,Liverpool,30-01-2018,@,Huddersfield Town,Premier League,W,3,0,3,75,2,1,1,0,1.8,0.3,Matchweek 25
-414,Liverpool,27-01-2018,,West Brom,FA Cup,L,2,3,-1,69,2,0,1,1,,,4th Round
-415,Liverpool,22-01-2018,@,Swansea City,Premier League,L,0,1,-1,72,0,0,0,0,2.5,0.2,Matchweek 24
-416,Liverpool,14-01-2018,,Manchester City,Premier League,W,4,3,1,36,4,0,0,0,0.8,0.8,Matchweek 23
-417,Liverpool,05-01-2018,,Everton,FA Cup,W,2,1,1,61,1,1,1,0,,,3rd Round
-418,Liverpool,01-01-2018,@,Burnley,Premier League,W,2,1,1,58,2,0,0,0,1.7,1.3,Matchweek 22
-419,Liverpool,30-12-2017,,Leicester City,Premier League,W,2,1,1,60,2,0,0,0,2.9,0.7,Matchweek 21
-420,Liverpool,26-12-2017,,Swansea City,Premier League,W,5,0,5,55,5,0,0,0,3.1,0.4,Matchweek 20
-421,Liverpool,22-12-2017,@,Arsenal,Premier League,D,3,3,0,46,3,0,0,0,2.0,1.2,Matchweek 19
-422,Liverpool,17-12-2017,@,Bournemouth,Premier League,W,4,0,4,56,4,0,0,0,2.5,0.6,Matchweek 18
-423,Liverpool,13-12-2017,,West Brom,Premier League,D,0,0,0,71,0,0,0,0,2.1,0.4,Matchweek 17
-424,Liverpool,10-12-2017,,Everton,Premier League,D,1,1,0,79,1,0,0,0,1.6,0.9,Matchweek 16
-425,Liverpool,06-12-2017,,Spartak Moscow,Champions League,W,7,0,7,53,6,1,1,0,4.2,0.6,Group Stage
-426,Liverpool,02-12-2017,@,Brighton,Premier League,W,5,1,4,57,4,0,0,0,1.8,1.7,Matchweek 15
-427,Liverpool,29-11-2017,@,Stoke City,Premier League,W,3,0,3,61,3,0,0,0,2.9,0.9,Matchweek 14
-428,Liverpool,25-11-2017,,Chelsea,Premier League,D,1,1,0,53,1,0,0,0,1.2,0.8,Matchweek 13
-429,Liverpool,21-11-2017,@,Sevilla,Champions League,D,3,3,0,30,3,0,0,0,2.3,1.9,Group Stage
-430,Liverpool,18-11-2017,,Southampton,Premier League,W,3,0,3,61,3,0,0,0,2.0,0.4,Matchweek 12
-431,Liverpool,04-11-2017,@,West Ham United,Premier League,W,4,1,3,52,4,0,0,0,2.7,1.2,Matchweek 11
-432,Liverpool,01-11-2017,,NK Maribor,Champions League,W,3,0,3,75,3,0,1,1,2.7,0.3,Group Stage
-433,Liverpool,28-10-2017,,Huddersfield Town,Premier League,W,3,0,3,73,3,0,1,1,2.1,0.1,Matchweek 10
-434,Liverpool,22-10-2017,@,Tottenham Hotspur,Premier League,L,1,4,-3,64,1,0,0,0,0.6,2.0,Matchweek 9
-435,Liverpool,17-10-2017,@,NK Maribor,Champions League,W,7,0,7,70,7,0,0,0,4.6,0.4,Group Stage
-436,Liverpool,14-10-2017,,Manchester Utd,Premier League,D,0,0,0,62,0,0,0,0,1.5,0.2,Matchweek 8
-437,Liverpool,01-10-2017,@,Newcastle United,Premier League,D,1,1,0,68,1,0,0,0,1.3,0.3,Matchweek 7
-438,Liverpool,26-09-2017,@,Spartak Moscow,Champions League,D,1,1,0,64,1,0,0,0,2.8,0.2,Group Stage
-439,Liverpool,23-09-2017,@,Leicester City,Premier League,W,3,2,1,57,3,0,0,0,1.7,2.8,Matchweek 6
-440,Liverpool,19-09-2017,@,Leicester City,EFL Cup,L,0,2,-2,70,0,0,0,0,,,3rd Round
-441,Liverpool,16-09-2017,,Burnley,Premier League,D,1,1,0,71,1,0,0,0,2.2,0.2,Matchweek 5
-442,Liverpool,13-09-2017,,Sevilla,Champions League,D,2,2,0,49,2,0,1,1,2.4,1.2,Group Stage
-443,Liverpool,09-09-2017,@,Manchester City,Premier League,L,0,5,-5,34,0,0,0,0,0.7,2.4,Matchweek 4
-444,Liverpool,27-08-2017,,Arsenal,Premier League,W,4,0,4,49,4,0,0,0,3.1,0.6,Matchweek 3
-445,Liverpool,19-08-2017,,Crystal Palace,Premier League,W,1,0,1,72,1,0,0,0,2.5,0.7,Matchweek 2
-446,Liverpool,12-08-2017,@,Watford,Premier League,D,3,3,0,54,2,1,1,0,2.6,2.1,Matchweek 1
+"","rk","team","date","venue","opp","comp","result","gf","ga","gd","poss","g.pk","pk","pkatt","pkm","xg","xga","round","season","points","xg_diff","home","matchweek_num","high_stake"
+"1",1,"Liverpool",2025-05-25,"","Crystal Palace","Premier League","D",1,1,0,69,1,0,0,0,2.1,1.8,"Matchweek 38","2024-25",1,0.3,1,38,1
+"2",2,"Liverpool",2025-05-19,"@","Brighton","Premier League","L",2,3,-1,51,2,0,0,0,2.2,2.2,"Matchweek 37","2024-25",0,0,0,37,1
+"3",3,"Liverpool",2025-05-11,"","Arsenal","Premier League","D",2,2,0,44,2,0,0,0,2.4,2.6,"Matchweek 36","2024-25",1,-0.2,1,36,1
+"4",4,"Liverpool",2025-05-04,"@","Chelsea","Premier League","L",1,3,-2,65,1,0,0,0,1,3.1,"Matchweek 35","2024-25",0,-2.1,0,35,1
+"5",5,"Liverpool",2025-04-27,"","Tottenham Hotspur","Premier League","W",5,1,4,63,4,0,0,0,2.2,0.5,"Matchweek 34","2024-25",3,1.7,1,34,1
+"6",6,"Liverpool",2025-04-20,"@","Leicester City","Premier League","W",1,0,1,58,1,0,0,0,2.5,0.3,"Matchweek 33","2024-25",3,2.2,0,33,1
+"7",7,"Liverpool",2025-04-13,"","West Ham United","Premier League","W",2,1,1,55,2,0,0,0,1.8,1.4,"Matchweek 32","2024-25",3,0.4,1,32,0
+"8",8,"Liverpool",2025-04-06,"@","Fulham","Premier League","L",2,3,-1,62,2,0,0,0,1.5,0.7,"Matchweek 31","2024-25",0,0.8,0,31,0
+"9",9,"Liverpool",2025-04-02,"","Everton","Premier League","W",1,0,1,74,1,0,0,0,1.5,0.9,"Matchweek 30","2024-25",3,0.6,1,30,1
+"10",10,"Liverpool",2025-03-16,"N","Newcastle United","EFL Cup","L",1,2,-1,66,1,0,0,0,1.1,1.9,"Final","2024-25",0,-0.8,0,NA,1
+"11",11,"Liverpool",2025-03-11,"","Paris Saint-Germain","Champions League","L",0,1,-1,46,0,0,0,0,1.5,2.6,"Round of 16","2024-25",0,-1.1,1,16,1
+"12",12,"Liverpool",2025-03-08,"","Southampton","Premier League","W",3,1,2,71,1,2,2,0,3.9,0.4,"Matchweek 28","2024-25",3,3.5,1,28,0
+"13",13,"Liverpool",2025-03-05,"@","Paris Saint-Germain","Champions League","W",1,0,1,30,1,0,0,0,0.3,1.6,"Round of 16","2024-25",3,-1.3,0,16,1
+"14",14,"Liverpool",2025-02-26,"","Newcastle United","Premier League","W",2,0,2,62,2,0,0,0,1.7,0.2,"Matchweek 27","2024-25",3,1.5,1,27,0
+"15",15,"Liverpool",2025-02-23,"@","Manchester City","Premier League","W",2,0,2,34,2,0,0,0,0.7,0.6,"Matchweek 26","2024-25",3,0.1,0,26,1
+"16",16,"Liverpool",2025-02-19,"@","Aston Villa","Premier League","D",2,2,0,48,2,0,0,0,2.5,0.6,"Matchweek 29","2024-25",1,1.9,0,29,0
+"17",17,"Liverpool",2025-02-16,"","Wolves","Premier League","W",2,1,1,50,1,1,1,0,1.7,1.5,"Matchweek 25","2024-25",3,0.2,1,25,0
+"18",18,"Liverpool",2025-02-12,"@","Everton","Premier League","D",2,2,0,63,2,0,0,0,0.6,1,"Matchweek 15","2024-25",1,-0.4,0,15,1
+"19",19,"Liverpool",2025-02-09,"@","Plymouth Argyle","FA Cup","L",0,1,-1,75,0,0,0,0,1,1.3,"4th Round","2024-25",0,-0.3,0,4,0
+"20",20,"Liverpool",2025-02-06,"","Tottenham Hotspur","EFL Cup","W",4,0,4,64,3,1,1,0,1.7,1.2,"Semi-Finals","2024-25",3,0.5,1,NA,1
+"21",21,"Liverpool",2025-02-01,"@","Bournemouth","Premier League","W",2,0,2,51,1,1,1,0,2.5,1.6,"Matchweek 24","2024-25",3,0.9,0,24,0
+"22",22,"Liverpool",2025-01-29,"@","PSV","Champions League","L",2,3,-1,47,1,1,1,0,1.6,1.3,"Group Stage","2024-25",0,0.3,0,NA,0
+"23",23,"Liverpool",2025-01-25,"","Ipswich Town","Premier League","W",4,1,3,71,4,0,0,0,2,0.5,"Matchweek 23","2024-25",3,1.5,1,23,0
+"24",24,"Liverpool",2025-01-21,"","Lille","Champions League","W",2,1,1,56,2,0,0,0,2.5,0.5,"Group Stage","2024-25",3,2,1,NA,0
+"25",25,"Liverpool",2025-01-18,"@","Brentford","Premier League","W",2,0,2,61,2,0,0,0,3.4,0.7,"Matchweek 22","2024-25",3,2.7,0,22,0
+"26",26,"Liverpool",2025-01-14,"@","Nottingham Forest","Premier League","D",1,1,0,71,1,0,0,0,2,0.3,"Matchweek 21","2024-25",1,1.7,0,21,0
+"27",27,"Liverpool",2025-01-11,"","Accrington Stanley","FA Cup","W",4,0,4,NA,4,0,0,0,2.9,0.2,"3rd Round","2024-25",3,2.7,1,3,0
+"28",28,"Liverpool",2025-01-08,"@","Tottenham Hotspur","EFL Cup","L",0,1,-1,60,0,0,0,0,1.1,0.9,"Semi-Finals","2024-25",0,0.2,0,NA,1
+"29",29,"Liverpool",2025-01-05,"","Manchester Utd","Premier League","D",2,2,0,52,1,1,1,0,2.7,1,"Matchweek 20","2024-25",1,1.7,1,20,1
+"30",30,"Liverpool",2024-12-29,"@","West Ham United","Premier League","W",5,0,5,55,5,0,0,0,3.1,0.4,"Matchweek 19","2024-25",3,2.7,0,19,0
+"31",31,"Liverpool",2024-12-26,"","Leicester City","Premier League","W",3,1,2,69,3,0,0,0,2,0.3,"Matchweek 18","2024-25",3,1.7,1,18,0
+"32",32,"Liverpool",2024-12-22,"@","Tottenham Hotspur","Premier League","W",6,3,3,49,6,0,0,0,5.6,1.3,"Matchweek 17","2024-25",3,4.3,0,17,1
+"33",33,"Liverpool",2024-12-18,"@","Southampton","EFL Cup","W",2,1,1,69,2,0,0,0,1.7,0.7,"Quarter-Finals","2024-25",3,1,0,NA,1
+"34",34,"Liverpool",2024-12-14,"","Fulham","Premier League","D",2,2,0,61,2,0,0,0,2.1,1.2,"Matchweek 16","2024-25",1,0.9,1,16,0
+"35",35,"Liverpool",2024-12-10,"@","Girona","Champions League","W",1,0,1,62,0,1,1,0,1.8,1.2,"Group Stage","2024-25",3,0.6,0,NA,0
+"36",36,"Liverpool",2024-12-04,"@","Newcastle United","Premier League","D",3,3,0,59,3,0,0,0,1.9,2.1,"Matchweek 14","2024-25",1,-0.2,0,14,0
+"37",37,"Liverpool",2024-12-01,"","Manchester City","Premier League","W",2,0,2,44,1,1,1,0,3.4,0.8,"Matchweek 13","2024-25",3,2.6,1,13,1
+"38",38,"Liverpool",2024-11-27,"","Real Madrid","Champions League","W",2,0,2,63,2,0,1,1,2.7,1.2,"Group Stage","2024-25",3,1.5,1,NA,0
+"39",39,"Liverpool",2024-11-24,"@","Southampton","Premier League","W",3,2,1,62,2,1,1,0,3.1,1.3,"Matchweek 12","2024-25",3,1.8,0,12,0
+"40",40,"Liverpool",2024-11-09,"","Aston Villa","Premier League","W",2,0,2,63,2,0,0,0,2,1.2,"Matchweek 11","2024-25",3,0.8,1,11,0
+"41",41,"Liverpool",2024-11-05,"","Leverkusen","Champions League","W",4,0,4,47,4,0,0,0,3.7,0.9,"Group Stage","2024-25",3,2.8,1,NA,0
+"42",42,"Liverpool",2024-11-02,"","Brighton","Premier League","W",2,1,1,49,2,0,0,0,1.6,1,"Matchweek 10","2024-25",3,0.6,1,10,0
+"43",43,"Liverpool",2024-10-30,"@","Brighton","EFL Cup","W",3,2,1,55,3,0,0,0,1.2,1.3,"4th Round","2024-25",3,-0.1,0,4,0
+"44",44,"Liverpool",2024-10-27,"@","Arsenal","Premier League","D",2,2,0,55,2,0,0,0,0.8,0.9,"Matchweek 9","2024-25",1,-0.1,0,9,1
+"45",45,"Liverpool",2024-10-23,"@","RB Leipzig","Champions League","W",1,0,1,58,1,0,0,0,2.3,0.8,"Group Stage","2024-25",3,1.5,0,NA,0
+"46",46,"Liverpool",2024-10-20,"","Chelsea","Premier League","W",2,1,1,43,1,1,1,0,1.9,1,"Matchweek 8","2024-25",3,0.9,1,8,1
+"47",47,"Liverpool",2024-10-05,"@","Crystal Palace","Premier League","W",1,0,1,68,1,0,0,0,1.4,0.6,"Matchweek 7","2024-25",3,0.8,0,7,0
+"48",48,"Liverpool",2024-10-02,"","Bologna","Champions League","W",2,0,2,51,2,0,0,0,1.2,0.6,"Group Stage","2024-25",3,0.6,1,NA,0
+"49",49,"Liverpool",2024-09-28,"@","Wolves","Premier League","W",2,1,1,55,1,1,1,0,2.5,0.6,"Matchweek 6","2024-25",3,1.9,0,6,0
+"50",50,"Liverpool",2024-09-25,"","West Ham United","EFL Cup","W",5,1,4,61,5,0,0,0,2.6,0.6,"3rd Round","2024-25",3,2,1,3,0
+"51",51,"Liverpool",2024-09-21,"","Bournemouth","Premier League","W",3,0,3,59,3,0,0,0,2,1.1,"Matchweek 5","2024-25",3,0.9,1,5,0
+"52",52,"Liverpool",2024-09-17,"@","Milan","Champions League","W",3,1,2,51,3,0,0,0,3.1,0.6,"Group Stage","2024-25",3,2.5,0,NA,0
+"53",53,"Liverpool",2024-09-14,"","Nottingham Forest","Premier League","L",0,1,-1,69,0,0,0,0,0.9,0.4,"Matchweek 4","2024-25",0,0.5,1,4,0
+"54",54,"Liverpool",2024-09-01,"@","Manchester Utd","Premier League","W",3,0,3,47,3,0,0,0,1.8,1.4,"Matchweek 3","2024-25",3,0.4,0,3,1
+"55",55,"Liverpool",2024-08-25,"","Brentford","Premier League","W",2,0,2,63,2,0,0,0,2.5,0.5,"Matchweek 2","2024-25",3,2,1,2,0
+"56",56,"Liverpool",2024-08-17,"@","Ipswich Town","Premier League","W",2,0,2,62,2,0,0,0,2.6,0.5,"Matchweek 1","2024-25",3,2.1,0,1,0
+"57",57,"Liverpool",2024-05-19,"","Wolves","Premier League","W",2,0,2,68,2,0,0,0,4.5,0.5,"Matchweek 38","2023-24",3,4,1,38,1
+"58",58,"Liverpool",2024-05-13,"@","Aston Villa","Premier League","D",3,3,0,59,2,0,0,0,1.7,3.1,"Matchweek 37","2023-24",1,-1.4,0,37,1
+"59",59,"Liverpool",2024-05-05,"","Tottenham Hotspur","Premier League","W",4,2,2,44,4,0,0,0,3.3,1.2,"Matchweek 36","2023-24",3,2.1,1,36,1
+"60",60,"Liverpool",2024-04-27,"@","West Ham United","Premier League","D",2,2,0,71,1,0,0,0,1.7,0.7,"Matchweek 35","2023-24",1,1,0,35,1
+"61",61,"Liverpool",2024-04-24,"@","Everton","Premier League","L",0,2,-2,77,0,0,0,0,2.1,1.2,"Matchweek 29","2023-24",0,0.9,0,29,1
+"62",62,"Liverpool",2024-04-21,"@","Fulham","Premier League","W",3,1,2,61,3,0,0,0,1,0.8,"Matchweek 34","2023-24",3,0.2,0,34,1
+"63",63,"Liverpool",2024-04-18,"@","Atalanta","Europa League","W",1,0,1,70,0,1,1,0,1.6,0.6,"Quarter-Finals","2023-24",3,1,0,NA,1
+"64",64,"Liverpool",2024-04-14,"","Crystal Palace","Premier League","L",0,1,-1,70,0,0,0,0,2.7,2,"Matchweek 33","2023-24",0,0.7,1,33,1
+"65",65,"Liverpool",2024-04-11,"","Atalanta","Europa League","L",0,3,-3,70,0,0,0,0,2.6,3.2,"Quarter-Finals","2023-24",0,-0.6,1,NA,1
+"66",66,"Liverpool",2024-04-07,"@","Manchester Utd","Premier League","D",2,2,0,62,1,1,1,0,3.6,0.7,"Matchweek 32","2023-24",1,2.9,0,32,1
+"67",67,"Liverpool",2024-04-04,"","Sheffield United","Premier League","W",3,1,2,83,3,0,0,0,1.8,0.6,"Matchweek 31","2023-24",3,1.2,1,31,0
+"68",68,"Liverpool",2024-03-31,"","Brighton","Premier League","W",2,1,1,55,2,0,0,0,2.8,0.5,"Matchweek 30","2023-24",3,2.3,1,30,0
+"69",69,"Liverpool",2024-03-17,"@","Manchester Utd","FA Cup","L",3,4,-1,58,3,0,0,0,2.3,3.9,"Quarter-Finals","2023-24",0,-1.6,0,NA,1
+"70",70,"Liverpool",2024-03-14,"","Sparta Prague","Europa League","W",6,1,5,77,6,0,0,0,3.6,0.4,"Round of 16","2023-24",3,3.2,1,16,1
+"71",71,"Liverpool",2024-03-10,"","Manchester City","Premier League","D",1,1,0,53,0,1,1,0,2.7,1.6,"Matchweek 28","2023-24",1,1.1,1,28,1
+"72",72,"Liverpool",2024-03-07,"@","Sparta Prague","Europa League","W",5,1,4,63,4,1,1,0,2.8,0.9,"Round of 16","2023-24",3,1.9,0,16,1
+"73",73,"Liverpool",2024-03-02,"@","Nottingham Forest","Premier League","W",1,0,1,70,1,0,0,0,2,1,"Matchweek 27","2023-24",3,1,0,27,0
+"74",74,"Liverpool",2024-02-28,"","Southampton","FA Cup","W",3,0,3,52,3,0,0,0,1.6,1.8,"5th Round","2023-24",3,-0.2,1,5,0
+"75",75,"Liverpool",2024-02-25,"@","Chelsea","EFL Cup","W",1,0,1,54,1,0,0,0,1.8,2.3,"Final","2023-24",3,-0.5,0,NA,1
+"76",76,"Liverpool",2024-02-21,"","Luton Town","Premier League","W",4,1,3,61,4,0,0,0,3.3,0.9,"Matchweek 26","2023-24",3,2.4,1,26,0
+"77",77,"Liverpool",2024-02-17,"@","Brentford","Premier League","W",4,1,3,63,4,0,0,0,2.8,1.6,"Matchweek 25","2023-24",3,1.2,0,25,0
+"78",78,"Liverpool",2024-02-10,"","Burnley","Premier League","W",3,1,2,71,3,0,0,0,2.8,1.3,"Matchweek 24","2023-24",3,1.5,1,24,0
+"79",79,"Liverpool",2024-02-04,"@","Arsenal","Premier League","L",1,3,-2,57,0,0,0,0,0.4,3.5,"Matchweek 23","2023-24",0,-3.1,0,23,1
+"80",80,"Liverpool",2024-01-31,"","Chelsea","Premier League","W",4,1,3,51,4,0,1,1,2.9,0.6,"Matchweek 22","2023-24",3,2.3,1,22,1
+"81",81,"Liverpool",2024-01-28,"","Norwich City","FA Cup","W",5,2,3,73,5,0,0,0,3.6,0.1,"4th Round","2023-24",3,3.5,1,4,0
+"82",82,"Liverpool",2024-01-24,"@","Fulham","EFL Cup","D",1,1,0,51,1,0,0,0,1.6,1,"Semi-Finals","2023-24",1,0.6,0,NA,1
+"83",83,"Liverpool",2024-01-21,"@","Bournemouth","Premier League","W",4,0,4,61,4,0,0,0,1.5,1.4,"Matchweek 21","2023-24",3,0.1,0,21,0
+"84",84,"Liverpool",2024-01-10,"","Fulham","EFL Cup","W",2,1,1,67,2,0,0,0,1.8,0.3,"Semi-Finals","2023-24",3,1.5,1,NA,1
+"85",85,"Liverpool",2024-01-07,"@","Arsenal","FA Cup","W",2,0,2,46,1,0,0,0,0.6,1.8,"3rd Round","2023-24",3,-1.2,0,3,1
+"86",86,"Liverpool",2024-01-01,"","Newcastle United","Premier League","W",4,2,2,63,3,1,2,1,7,0.6,"Matchweek 20","2023-24",3,6.4,1,20,0
+"87",87,"Liverpool",2023-12-26,"@","Burnley","Premier League","W",2,0,2,69,2,0,0,0,1.8,0.8,"Matchweek 19","2023-24",3,1,0,19,0
+"88",88,"Liverpool",2023-12-23,"","Arsenal","Premier League","D",1,1,0,51,1,0,0,0,1,0.7,"Matchweek 18","2023-24",1,0.3,1,18,1
+"89",89,"Liverpool",2023-12-20,"","West Ham United","EFL Cup","W",5,1,4,67,5,0,0,0,3,0.1,"Quarter-Finals","2023-24",3,2.9,1,NA,1
+"90",90,"Liverpool",2023-12-17,"","Manchester Utd","Premier League","D",0,0,0,69,0,0,0,0,2.3,0.8,"Matchweek 17","2023-24",1,1.5,1,17,1
+"91",91,"Liverpool",2023-12-14,"@","Union SG","Europa League","L",1,2,-1,69,1,0,0,0,0.3,2.3,"Group Stage","2023-24",0,-2,0,NA,0
+"92",92,"Liverpool",2023-12-09,"@","Crystal Palace","Premier League","W",2,1,1,76,2,0,0,0,1.2,1.7,"Matchweek 16","2023-24",3,-0.5,0,16,0
+"93",93,"Liverpool",2023-12-06,"@","Sheffield United","Premier League","W",2,0,2,76,2,0,0,0,1.7,1,"Matchweek 15","2023-24",3,0.7,0,15,0
+"94",94,"Liverpool",2023-12-03,"","Fulham","Premier League","W",4,3,1,62,3,0,0,0,2.1,1.2,"Matchweek 14","2023-24",3,0.9,1,14,0
+"95",95,"Liverpool",2023-11-30,"","LASK","Europa League","W",4,0,4,66,4,0,0,0,3.3,0.7,"Group Stage","2023-24",3,2.6,1,NA,0
+"96",96,"Liverpool",2023-11-25,"@","Manchester City","Premier League","D",1,1,0,40,1,0,0,0,0.6,1.3,"Matchweek 13","2023-24",1,-0.7,0,13,1
+"97",97,"Liverpool",2023-11-12,"","Brentford","Premier League","W",3,0,3,59,3,0,0,0,1.7,1.6,"Matchweek 12","2023-24",3,0.0999999999999999,1,12,0
+"98",98,"Liverpool",2023-11-09,"@","Toulouse","Europa League","L",2,3,-1,72,1,0,0,0,1.1,1,"Group Stage","2023-24",0,0.1,0,NA,0
+"99",99,"Liverpool",2023-11-05,"@","Luton Town","Premier League","D",1,1,0,74,1,0,0,0,2.6,0.8,"Matchweek 11","2023-24",1,1.8,0,11,0
+"100",100,"Liverpool",2023-11-01,"@","Bournemouth","EFL Cup","W",2,1,1,67,2,0,0,0,NA,NA,"4th Round","2023-24",3,NA,0,4,0
+"101",101,"Liverpool",2023-10-29,"","Nottingham Forest","Premier League","W",3,0,3,73,3,0,0,0,3.2,0.4,"Matchweek 10","2023-24",3,2.8,1,10,0
+"102",102,"Liverpool",2023-10-26,"","Toulouse","Europa League","W",5,1,4,63,5,0,0,0,2.9,1.1,"Group Stage","2023-24",3,1.8,1,NA,0
+"103",103,"Liverpool",2023-10-21,"","Everton","Premier League","W",2,0,2,77,1,1,1,0,2.2,0.1,"Matchweek 9","2023-24",3,2.1,1,9,1
+"104",104,"Liverpool",2023-10-08,"@","Brighton","Premier League","D",2,2,0,54,1,1,1,0,2.3,2.3,"Matchweek 8","2023-24",1,0,0,8,0
+"105",105,"Liverpool",2023-10-05,"","Union SG","Europa League","W",2,0,2,73,2,0,0,0,2.9,1.1,"Group Stage","2023-24",3,1.8,1,NA,0
+"106",106,"Liverpool",2023-09-30,"@","Tottenham Hotspur","Premier League","L",1,2,-1,35,1,0,0,0,1.3,2.2,"Matchweek 7","2023-24",0,-0.9,0,7,1
+"107",107,"Liverpool",2023-09-27,"","Leicester City","EFL Cup","W",3,1,2,57,3,0,0,0,1.5,1,"3rd Round","2023-24",3,0.5,1,3,0
+"108",108,"Liverpool",2023-09-24,"","West Ham United","Premier League","W",3,1,2,64,2,1,1,0,3,1.1,"Matchweek 6","2023-24",3,1.9,1,6,0
+"109",109,"Liverpool",2023-09-21,"@","LASK","Europa League","W",3,1,2,67,2,1,1,0,2.2,0.3,"Group Stage","2023-24",3,1.9,0,NA,0
+"110",110,"Liverpool",2023-09-16,"@","Wolves","Premier League","W",3,1,2,66,2,0,0,0,2.5,0.6,"Matchweek 5","2023-24",3,1.9,0,5,0
+"111",111,"Liverpool",2023-09-03,"","Aston Villa","Premier League","W",3,0,3,64,2,0,0,0,2.5,0.7,"Matchweek 4","2023-24",3,1.8,1,4,0
+"112",112,"Liverpool",2023-08-27,"@","Newcastle United","Premier League","W",2,1,1,40,2,0,0,0,0.9,2,"Matchweek 3","2023-24",3,-1.1,0,3,0
+"113",113,"Liverpool",2023-08-19,"","Bournemouth","Premier League","W",3,1,2,64,3,0,1,1,3,1.3,"Matchweek 2","2023-24",3,1.7,1,2,0
+"114",114,"Liverpool",2023-08-13,"@","Chelsea","Premier League","D",1,1,0,35,1,0,0,0,1.3,1.4,"Matchweek 1","2023-24",1,-0.0999999999999999,0,1,1
+"115",115,"Liverpool",2023-05-28,"@","Southampton","Premier League","D",4,4,0,69,4,0,0,0,4,1.8,"Matchweek 40","2022-23",1,2.2,0,40,1
+"116",116,"Liverpool",2023-05-20,"","Aston Villa","Premier League","D",1,1,0,66,1,0,0,0,0.7,1.3,"Matchweek 39","2022-23",1,-0.6,1,39,1
+"117",117,"Liverpool",2023-05-15,"@","Leicester City","Premier League","W",3,0,3,67,3,0,0,0,2.2,0.4,"Matchweek 38","2022-23",3,1.8,0,38,1
+"118",118,"Liverpool",2023-05-06,"","Brentford","Premier League","W",1,0,1,54,1,0,0,0,2.2,0.2,"Matchweek 37","2022-23",3,2,1,37,1
+"119",119,"Liverpool",2023-05-03,"","Fulham","Premier League","W",1,0,1,58,0,1,1,0,1.8,0.9,"Matchweek 36","2022-23",3,0.9,1,36,1
+"120",120,"Liverpool",2023-04-30,"","Tottenham Hotspur","Premier League","W",4,3,1,68,3,1,1,0,2.2,2,"Matchweek 35","2022-23",3,0.2,1,35,1
+"121",121,"Liverpool",2023-04-26,"@","West Ham United","Premier League","W",2,1,1,73,2,0,0,0,1.9,0.8,"Matchweek 34","2022-23",3,1.1,0,34,1
+"122",122,"Liverpool",2023-04-22,"","Nottingham Forest","Premier League","W",3,2,1,81,3,0,0,0,2.8,0.9,"Matchweek 33","2022-23",3,1.9,1,33,1
+"123",123,"Liverpool",2023-04-17,"@","Leeds United","Premier League","W",6,1,5,74,6,0,0,0,2.7,1.4,"Matchweek 32","2022-23",3,1.3,0,32,0
+"124",124,"Liverpool",2023-04-09,"","Arsenal","Premier League","D",2,2,0,59,2,0,1,1,3.9,1.4,"Matchweek 31","2022-23",1,2.5,1,31,1
+"125",125,"Liverpool",2023-04-04,"@","Chelsea","Premier League","D",0,0,0,51,0,0,0,0,0.3,2.2,"Matchweek 30","2022-23",1,-1.9,0,30,1
+"126",126,"Liverpool",2023-04-01,"@","Manchester City","Premier League","L",1,4,-3,31,1,0,0,0,0.3,2.9,"Matchweek 29","2022-23",0,-2.6,0,29,1
+"127",127,"Liverpool",2023-03-15,"@","Real Madrid","Champions League","L",0,1,-1,47,0,0,0,0,0.6,2.2,"Round of 16","2022-23",0,-1.6,0,16,1
+"128",128,"Liverpool",2023-03-11,"@","Bournemouth","Premier League","L",0,1,-1,69,0,0,1,1,1.7,0.9,"Matchweek 28","2022-23",0,0.8,0,28,0
+"129",129,"Liverpool",2023-03-05,"","Manchester Utd","Premier League","W",7,0,7,60,7,0,0,0,2.8,0.8,"Matchweek 27","2022-23",3,2,1,27,1
+"130",130,"Liverpool",2023-03-01,"","Wolves","Premier League","W",2,0,2,57,2,0,0,0,2.6,0.8,"Matchweek 26","2022-23",3,1.8,1,26,0
+"131",131,"Liverpool",2023-02-25,"@","Crystal Palace","Premier League","D",0,0,0,64,0,0,0,0,0.9,0.7,"Matchweek 25","2022-23",1,0.2,0,25,0
+"132",132,"Liverpool",2023-02-21,"","Real Madrid","Champions League","L",2,5,-3,52,2,0,0,0,1.8,1.6,"Round of 16","2022-23",0,0.2,1,16,1
+"133",133,"Liverpool",2023-02-18,"@","Newcastle United","Premier League","W",2,0,2,63,2,0,0,0,1.9,2,"Matchweek 24","2022-23",3,-0.1,0,24,0
+"134",134,"Liverpool",2023-02-13,"","Everton","Premier League","W",2,0,2,59,2,0,0,0,2.3,0.4,"Matchweek 23","2022-23",3,1.9,1,23,1
+"135",135,"Liverpool",2023-02-04,"@","Wolves","Premier League","L",0,3,-3,58,0,0,0,0,1.8,2,"Matchweek 22","2022-23",0,-0.2,0,22,0
+"136",136,"Liverpool",2023-01-29,"@","Brighton","FA Cup","L",1,2,-1,44,1,0,0,0,1,1.5,"4th Round","2022-23",0,-0.5,0,4,0
+"137",137,"Liverpool",2023-01-21,"","Chelsea","Premier League","D",0,0,0,48,0,0,0,0,1.4,1.6,"Matchweek 21","2022-23",1,-0.2,1,21,1
+"138",138,"Liverpool",2023-01-17,"@","Wolves","FA Cup","W",1,0,1,42,1,0,0,0,0.2,1.5,"3rd Round","2022-23",3,-1.3,0,3,0
+"139",139,"Liverpool",2023-01-14,"@","Brighton","Premier League","L",0,3,-3,38,0,0,0,0,1,1.9,"Matchweek 20","2022-23",0,-0.9,0,20,0
+"140",140,"Liverpool",2023-01-07,"","Wolves","FA Cup","D",2,2,0,64,2,0,0,0,1.1,1.1,"3rd Round","2022-23",1,0,1,3,0
+"141",141,"Liverpool",2023-01-02,"@","Brentford","Premier League","L",1,3,-2,73,1,0,0,0,0.9,1.6,"Matchweek 19","2022-23",0,-0.7,0,19,0
+"142",142,"Liverpool",2022-12-30,"","Leicester City","Premier League","W",2,1,1,57,0,0,0,0,2.2,1,"Matchweek 18","2022-23",3,1.2,1,18,0
+"143",143,"Liverpool",2022-12-26,"@","Aston Villa","Premier League","W",3,1,2,53,3,0,0,0,2.7,1.4,"Matchweek 17","2022-23",3,1.3,0,17,0
+"144",144,"Liverpool",2022-12-22,"@","Manchester City","EFL Cup","L",2,3,-1,44,2,0,0,0,0.8,2.2,"4th Round","2022-23",0,-1.4,0,4,0
+"145",145,"Liverpool",2022-11-12,"","Southampton","Premier League","W",3,1,2,60,3,0,0,0,1.9,1.1,"Matchweek 16","2022-23",3,0.8,1,16,0
+"146",146,"Liverpool",2022-11-09,"","Derby County","EFL Cup","D",0,0,0,74,0,0,0,0,2,0.5,"3rd Round","2022-23",1,1.5,1,3,0
+"147",147,"Liverpool",2022-11-06,"@","Tottenham Hotspur","Premier League","W",2,1,1,53,2,0,0,0,1.2,1.2,"Matchweek 15","2022-23",3,0,0,15,1
+"148",148,"Liverpool",2022-11-01,"","Napoli","Champions League","W",2,0,2,52,2,0,0,0,2.4,0.4,"Group Stage","2022-23",3,2,1,NA,0
+"149",149,"Liverpool",2022-10-29,"","Leeds United","Premier League","L",1,2,-1,69,1,0,0,0,1.7,1.8,"Matchweek 14","2022-23",0,-0.1,1,14,0
+"150",150,"Liverpool",2022-10-26,"@","Ajax","Champions League","W",3,0,3,51,3,0,0,0,1.6,1.2,"Group Stage","2022-23",3,0.4,0,NA,0
+"151",151,"Liverpool",2022-10-22,"@","Nottingham Forest","Premier League","L",0,1,-1,75,0,0,0,0,1.6,1.9,"Matchweek 13","2022-23",0,-0.3,0,13,0
+"152",152,"Liverpool",2022-10-19,"","West Ham United","Premier League","W",1,0,1,54,1,0,0,0,1.7,1.7,"Matchweek 12","2022-23",3,0,1,12,0
+"153",153,"Liverpool",2022-10-16,"","Manchester City","Premier League","W",1,0,1,37,1,0,0,0,2.1,1,"Matchweek 11","2022-23",3,1.1,1,11,1
+"154",154,"Liverpool",2022-10-12,"@","Rangers","Champions League","W",7,1,6,57,7,0,0,0,2.2,0.5,"Group Stage","2022-23",3,1.7,0,NA,0
+"155",155,"Liverpool",2022-10-09,"@","Arsenal","Premier League","L",2,3,-1,56,2,0,0,0,1.1,2.7,"Matchweek 10","2022-23",0,-1.6,0,10,1
+"156",156,"Liverpool",2022-10-04,"","Rangers","Champions League","W",2,0,2,64,1,1,1,0,2.9,0.4,"Group Stage","2022-23",3,2.5,1,NA,0
+"157",157,"Liverpool",2022-10-01,"","Brighton","Premier League","D",3,3,0,54,2,0,0,0,1.5,1.4,"Matchweek 9","2022-23",1,0.1,1,9,0
+"158",158,"Liverpool",2022-09-13,"","Ajax","Champions League","W",2,1,1,57,2,0,0,0,2.2,0.3,"Group Stage","2022-23",3,1.9,1,NA,0
+"159",159,"Liverpool",2022-09-07,"@","Napoli","Champions League","L",1,4,-3,61,1,0,0,0,1,4,"Group Stage","2022-23",0,-3,0,NA,0
+"160",160,"Liverpool",2022-09-03,"@","Everton","Premier League","D",0,0,0,61,0,0,0,0,2.1,1.7,"Matchweek 6","2022-23",1,0.4,0,6,1
+"161",161,"Liverpool",2022-08-31,"","Newcastle United","Premier League","W",2,1,1,72,2,0,0,0,1.5,0.7,"Matchweek 5","2022-23",3,0.8,1,5,0
+"162",162,"Liverpool",2022-08-27,"","Bournemouth","Premier League","W",9,0,9,71,8,0,0,0,3.3,0.3,"Matchweek 4","2022-23",3,3,1,4,0
+"163",163,"Liverpool",2022-08-22,"@","Manchester Utd","Premier League","L",1,2,-1,70,1,0,0,0,1.3,1.8,"Matchweek 3","2022-23",0,-0.5,0,3,1
+"164",164,"Liverpool",2022-08-15,"","Crystal Palace","Premier League","D",1,1,0,73,1,0,0,0,2,1,"Matchweek 2","2022-23",1,1,1,2,0
+"165",165,"Liverpool",2022-08-06,"@","Fulham","Premier League","D",2,2,0,67,2,0,0,0,1.2,1.2,"Matchweek 1","2022-23",1,0,0,1,0
+"166",167,"Liverpool",2022-05-28,"N","Real Madrid","Champions League","L",0,1,-1,54,0,0,0,0,2.2,0.9,"Final","2021-22",0,1.3,0,NA,1
+"167",168,"Liverpool",2022-05-22,"","Wolves","Premier League","W",3,1,2,63,3,0,0,0,2.7,1.3,"Matchweek 38","2021-22",3,1.4,1,38,1
+"168",169,"Liverpool",2022-05-17,"@","Southampton","Premier League","W",2,1,1,72,2,0,0,0,1.3,0.1,"Matchweek 37","2021-22",3,1.2,0,37,1
+"169",170,"Liverpool",2022-05-14,"@","Chelsea","FA Cup","D",0,0,0,53,0,0,0,0,NA,NA,"Final","2021-22",1,NA,0,NA,1
+"170",171,"Liverpool",2022-05-10,"@","Aston Villa","Premier League","W",2,1,1,60,2,0,0,0,1.8,1.4,"Matchweek 33","2021-22",3,0.4,0,33,1
+"171",172,"Liverpool",2022-05-07,"","Tottenham Hotspur","Premier League","D",1,1,0,66,1,0,0,0,1.3,0.9,"Matchweek 36","2021-22",1,0.4,1,36,1
+"172",173,"Liverpool",2022-05-03,"@","Villarreal","Champions League","W",3,2,1,56,3,0,0,0,2.5,1.2,"Semi-Finals","2021-22",3,1.3,0,NA,1
+"173",174,"Liverpool",2022-04-30,"@","Newcastle United","Premier League","W",1,0,1,66,1,0,0,0,2.3,0.2,"Matchweek 35","2021-22",3,2.1,0,35,1
+"174",175,"Liverpool",2022-04-27,"","Villarreal","Champions League","W",2,0,2,73,1,0,0,0,1.6,0.1,"Semi-Finals","2021-22",3,1.5,1,NA,1
+"175",176,"Liverpool",2022-04-24,"","Everton","Premier League","W",2,0,2,83,2,0,0,0,1.7,0.4,"Matchweek 34","2021-22",3,1.3,1,34,1
+"176",177,"Liverpool",2022-04-19,"","Manchester Utd","Premier League","W",4,0,4,72,4,0,0,0,2,0.1,"Matchweek 30","2021-22",3,1.9,1,30,1
+"177",178,"Liverpool",2022-04-16,"@","Manchester City","FA Cup","W",3,2,1,51,3,0,0,0,1.5,2.4,"Semi-Finals","2021-22",3,-0.9,0,NA,1
+"178",179,"Liverpool",2022-04-13,"","Benfica","Champions League","D",3,3,0,67,3,0,0,0,1.8,1.2,"Quarter-Finals","2021-22",1,0.6,1,NA,1
+"179",180,"Liverpool",2022-04-10,"@","Manchester City","Premier League","D",2,2,0,45,2,0,0,0,1.3,1.3,"Matchweek 32","2021-22",1,0,0,32,1
+"180",181,"Liverpool",2022-04-05,"@","Benfica","Champions League","W",3,1,2,66,3,0,0,0,3.9,1.2,"Quarter-Finals","2021-22",3,2.7,0,NA,1
+"181",182,"Liverpool",2022-04-02,"","Watford","Premier League","W",2,0,2,73,1,1,1,0,2.2,0.6,"Matchweek 31","2021-22",3,1.6,1,31,0
+"182",183,"Liverpool",2022-03-20,"@","Nottingham Forest","FA Cup","W",1,0,1,65,1,0,0,0,NA,NA,"Quarter-Finals","2021-22",3,NA,0,NA,1
+"183",184,"Liverpool",2022-03-16,"@","Arsenal","Premier League","W",2,0,2,51,2,0,0,0,0.8,0.5,"Matchweek 27","2021-22",3,0.3,0,27,1
+"184",185,"Liverpool",2022-03-12,"@","Brighton","Premier League","W",2,0,2,48,1,1,1,0,2.2,0.5,"Matchweek 29","2021-22",3,1.7,0,29,0
+"185",186,"Liverpool",2022-03-08,"","Inter","Champions League","L",0,1,-1,63,0,0,0,0,1.8,0.5,"Round of 16","2021-22",0,1.3,1,16,1
+"186",187,"Liverpool",2022-03-05,"","West Ham United","Premier League","W",1,0,1,69,1,0,0,0,2.4,1.3,"Matchweek 28","2021-22",3,1.1,1,28,0
+"187",188,"Liverpool",2022-03-02,"","Norwich City","FA Cup","W",2,1,1,65,2,0,0,0,3.6,0.2,"5th Round","2021-22",3,3.4,1,5,0
+"188",189,"Liverpool",2022-02-27,"@","Chelsea","EFL Cup","D",0,0,0,55,0,0,0,0,NA,NA,"Final","2021-22",1,NA,0,NA,1
+"189",190,"Liverpool",2022-02-23,"","Leeds United","Premier League","W",6,0,6,64,4,2,2,0,5.9,0.2,"Matchweek 19","2021-22",3,5.7,1,19,0
+"190",191,"Liverpool",2022-02-19,"","Norwich City","Premier League","W",3,1,2,70,3,0,0,0,3.6,0.6,"Matchweek 26","2021-22",3,3,1,26,0
+"191",192,"Liverpool",2022-02-16,"@","Inter","Champions League","W",2,0,2,54,2,0,0,0,1,0.6,"Round of 16","2021-22",3,0.4,0,16,1
+"192",193,"Liverpool",2022-02-13,"@","Burnley","Premier League","W",1,0,1,67,1,0,0,0,1.7,1.5,"Matchweek 25","2021-22",3,0.2,0,25,0
+"193",194,"Liverpool",2022-02-10,"","Leicester City","Premier League","W",2,0,2,65,2,0,0,0,1.8,0.5,"Matchweek 24","2021-22",3,1.3,1,24,0
+"194",195,"Liverpool",2022-02-06,"","Cardiff City","FA Cup","W",3,1,2,80,3,0,0,0,NA,NA,"4th Round","2021-22",3,NA,1,4,0
+"195",196,"Liverpool",2022-01-23,"@","Crystal Palace","Premier League","W",3,1,2,57,2,1,1,0,1.9,2.2,"Matchweek 23","2021-22",3,-0.3,0,23,0
+"196",197,"Liverpool",2022-01-20,"@","Arsenal","EFL Cup","W",2,0,2,54,2,0,0,0,NA,NA,"Semi-Finals","2021-22",3,NA,0,NA,1
+"197",198,"Liverpool",2022-01-16,"","Brentford","Premier League","W",3,0,3,68,3,0,0,0,2.7,0.7,"Matchweek 22","2021-22",3,2,1,22,0
+"198",199,"Liverpool",2022-01-13,"","Arsenal","EFL Cup","D",0,0,0,78,0,0,0,0,NA,NA,"Semi-Finals","2021-22",1,NA,1,NA,1
+"199",200,"Liverpool",2022-01-09,"","Shrewsbury Town","FA Cup","W",4,1,3,83,3,1,1,0,NA,NA,"3rd Round","2021-22",3,NA,1,3,0
+"200",201,"Liverpool",2022-01-02,"@","Chelsea","Premier League","D",2,2,0,44,2,0,0,0,1.3,1.2,"Matchweek 21","2021-22",1,0.1,0,21,1
+"201",202,"Liverpool",2021-12-28,"@","Leicester City","Premier League","L",0,1,-1,64,0,0,1,1,2.3,0.4,"Matchweek 20","2021-22",0,1.9,0,20,0
+"202",203,"Liverpool",2021-12-22,"","Leicester City","EFL Cup","D",3,3,0,66,3,0,0,0,NA,NA,"Quarter-Finals","2021-22",1,NA,1,NA,1
+"203",204,"Liverpool",2021-12-19,"@","Tottenham Hotspur","Premier League","D",2,2,0,57,2,0,0,0,1.1,3,"Matchweek 18","2021-22",1,-1.9,0,18,1
+"204",205,"Liverpool",2021-12-16,"","Newcastle United","Premier League","W",3,1,2,74,3,0,0,0,2.7,0.3,"Matchweek 17","2021-22",3,2.4,1,17,0
+"205",206,"Liverpool",2021-12-11,"","Aston Villa","Premier League","W",1,0,1,63,0,1,1,0,2.2,0.2,"Matchweek 16","2021-22",3,2,1,16,0
+"206",207,"Liverpool",2021-12-07,"@","Milan","Champions League","W",2,1,1,51,2,0,0,0,1.9,1.4,"Group Stage","2021-22",3,0.5,0,NA,0
+"207",208,"Liverpool",2021-12-04,"@","Wolves","Premier League","W",1,0,1,67,1,0,0,0,2.7,0.1,"Matchweek 15","2021-22",3,2.6,0,15,0
+"208",209,"Liverpool",2021-12-01,"@","Everton","Premier League","W",4,1,3,69,4,0,0,0,2.4,0.7,"Matchweek 14","2021-22",3,1.7,0,14,1
+"209",210,"Liverpool",2021-11-27,"","Southampton","Premier League","W",4,0,4,64,4,0,0,0,2.9,1,"Matchweek 13","2021-22",3,1.9,1,13,0
+"210",211,"Liverpool",2021-11-24,"","Porto","Champions League","W",2,0,2,59,2,0,0,0,0.6,1.1,"Group Stage","2021-22",3,-0.5,1,NA,0
+"211",212,"Liverpool",2021-11-20,"","Arsenal","Premier League","W",4,0,4,63,4,0,0,0,1.2,1,"Matchweek 12","2021-22",3,0.2,1,12,1
+"212",213,"Liverpool",2021-11-07,"@","West Ham United","Premier League","L",2,3,-1,69,2,0,0,0,4.3,0.4,"Matchweek 11","2021-22",0,3.9,0,11,0
+"213",214,"Liverpool",2021-11-03,"","Atletico Madrid","Champions League","W",2,0,2,73,2,0,0,0,3,0.2,"Group Stage","2021-22",3,2.8,1,NA,0
+"214",215,"Liverpool",2021-10-30,"","Brighton","Premier League","D",2,2,0,59,2,0,0,0,1.5,1,"Matchweek 10","2021-22",1,0.5,1,10,0
+"215",216,"Liverpool",2021-10-27,"@","Preston North End","EFL Cup","W",2,0,2,73,2,0,0,0,NA,NA,"4th Round","2021-22",3,NA,0,4,0
+"216",217,"Liverpool",2021-10-24,"@","Manchester Utd","Premier League","W",5,0,5,64,5,0,0,0,3.4,1.6,"Matchweek 9","2021-22",3,1.8,0,9,1
+"217",218,"Liverpool",2021-10-19,"@","Atletico Madrid","Champions League","W",3,2,1,68,2,1,1,0,1.3,2.2,"Group Stage","2021-22",3,-0.9,0,NA,0
+"218",219,"Liverpool",2021-10-16,"@","Watford","Premier League","W",5,0,5,77,5,0,0,0,3.3,0.5,"Matchweek 8","2021-22",3,2.8,0,8,0
+"219",220,"Liverpool",2021-10-03,"","Manchester City","Premier League","D",2,2,0,48,2,0,0,0,0.9,1.2,"Matchweek 7","2021-22",1,-0.3,1,7,1
+"220",221,"Liverpool",2021-09-28,"@","Porto","Champions League","W",5,1,4,67,5,0,0,0,3.4,0.9,"Group Stage","2021-22",3,2.5,0,NA,0
+"221",222,"Liverpool",2021-09-25,"@","Brentford","Premier League","D",3,3,0,67,3,0,0,0,2.8,2.1,"Matchweek 6","2021-22",1,0.7,0,6,0
+"222",223,"Liverpool",2021-09-21,"@","Norwich City","EFL Cup","W",3,0,3,53,3,0,0,0,NA,NA,"3rd Round","2021-22",3,NA,0,3,0
+"223",224,"Liverpool",2021-09-18,"","Crystal Palace","Premier League","W",3,0,3,61,3,0,0,0,3.1,0.6,"Matchweek 5","2021-22",3,2.5,1,5,0
+"224",225,"Liverpool",2021-09-15,"","Milan","Champions League","W",3,2,1,61,2,0,1,1,2.5,1.6,"Group Stage","2021-22",3,0.9,1,NA,0
+"225",226,"Liverpool",2021-09-12,"@","Leeds United","Premier League","W",3,0,3,56,3,0,0,0,4.3,1.2,"Matchweek 4","2021-22",3,3.1,0,4,0
+"226",227,"Liverpool",2021-08-28,"","Chelsea","Premier League","D",1,1,0,65,0,1,1,0,2.5,0.6,"Matchweek 3","2021-22",1,1.9,1,3,1
+"227",228,"Liverpool",2021-08-21,"","Burnley","Premier League","W",2,0,2,67,2,0,0,0,2.7,0.9,"Matchweek 2","2021-22",3,1.8,1,2,0
+"228",229,"Liverpool",2021-08-14,"@","Norwich City","Premier League","W",3,0,3,50,3,0,0,0,1.6,1.4,"Matchweek 1","2021-22",3,0.2,0,1,0
+"229",230,"Liverpool",2021-05-23,"","Crystal Palace","Premier League","W",2,0,2,70,2,0,0,0,1.6,0.6,"Matchweek 38","2020-21",3,1,1,38,1
+"230",231,"Liverpool",2021-05-19,"@","Burnley","Premier League","W",3,0,3,59,3,0,0,0,2.6,0.8,"Matchweek 37","2020-21",3,1.8,0,37,1
+"231",232,"Liverpool",2021-05-16,"@","West Brom","Premier League","W",2,1,1,76,2,0,0,0,1.9,1,"Matchweek 36","2020-21",3,0.9,0,36,1
+"232",233,"Liverpool",2021-05-13,"@","Manchester Utd","Premier League","W",4,2,2,47,4,0,0,0,2.7,1.9,"Matchweek 34","2020-21",3,0.8,0,34,1
+"233",234,"Liverpool",2021-05-08,"","Southampton","Premier League","W",2,0,2,54,2,0,0,0,1.7,1.1,"Matchweek 35","2020-21",3,0.6,1,35,1
+"234",235,"Liverpool",2021-04-24,"","Newcastle United","Premier League","D",1,1,0,69,1,0,0,0,2.4,1,"Matchweek 33","2020-21",1,1.4,1,33,1
+"235",236,"Liverpool",2021-04-19,"@","Leeds United","Premier League","D",1,1,0,39,1,0,0,0,1.4,2.3,"Matchweek 32","2020-21",1,-0.9,0,32,0
+"236",237,"Liverpool",2021-04-14,"","Real Madrid","Champions League","D",0,0,0,56,0,0,0,0,1.2,0.8,"Quarter-Finals","2020-21",1,0.4,1,NA,1
+"237",238,"Liverpool",2021-04-10,"","Aston Villa","Premier League","W",2,1,1,67,2,0,0,0,2.3,0.5,"Matchweek 31","2020-21",3,1.8,1,31,0
+"238",239,"Liverpool",2021-04-06,"@","Real Madrid","Champions League","L",1,3,-2,54,1,0,0,0,0.7,2.1,"Quarter-Finals","2020-21",0,-1.4,0,NA,1
+"239",240,"Liverpool",2021-04-03,"@","Arsenal","Premier League","W",3,0,3,64,3,0,0,0,2.4,0.1,"Matchweek 30","2020-21",3,2.3,0,30,1
+"240",241,"Liverpool",2021-03-15,"@","Wolves","Premier League","W",1,0,1,47,1,0,0,0,0.9,1.1,"Matchweek 28","2020-21",3,-0.2,0,28,0
+"241",242,"Liverpool",2021-03-10,"N","RB Leipzig","Champions League","W",2,0,2,41,2,0,0,0,2.4,0.9,"Round of 16","2020-21",3,1.5,0,16,1
+"242",243,"Liverpool",2021-03-07,"","Fulham","Premier League","L",0,1,-1,63,0,0,0,0,0.9,1.3,"Matchweek 27","2020-21",0,-0.4,1,27,0
+"243",244,"Liverpool",2021-03-04,"","Chelsea","Premier League","L",0,1,-1,54,0,0,0,0,0.3,1,"Matchweek 29","2020-21",0,-0.7,1,29,1
+"244",245,"Liverpool",2021-02-28,"@","Sheffield United","Premier League","W",2,0,2,60,1,0,0,0,2.7,0.7,"Matchweek 26","2020-21",3,2,0,26,0
+"245",246,"Liverpool",2021-02-20,"","Everton","Premier League","L",0,2,-2,72,0,0,0,0,1.4,1.6,"Matchweek 25","2020-21",0,-0.2,1,25,1
+"246",247,"Liverpool",2021-02-16,"N","RB Leipzig","Champions League","W",2,0,2,52,2,0,0,0,1.4,1.3,"Round of 16","2020-21",3,0.0999999999999999,0,16,1
+"247",248,"Liverpool",2021-02-13,"@","Leicester City","Premier League","L",1,3,-2,62,1,0,0,0,1.7,1.9,"Matchweek 24","2020-21",0,-0.2,0,24,0
+"248",249,"Liverpool",2021-02-07,"","Manchester City","Premier League","L",1,4,-3,56,0,1,1,0,1.2,3.5,"Matchweek 23","2020-21",0,-2.3,1,23,1
+"249",250,"Liverpool",2021-02-03,"","Brighton","Premier League","L",0,1,-1,64,0,0,0,0,1,1.3,"Matchweek 22","2020-21",0,-0.3,1,22,0
+"250",251,"Liverpool",2021-01-31,"@","West Ham United","Premier League","W",3,1,2,67,3,0,0,0,2,0.8,"Matchweek 21","2020-21",3,1.2,0,21,0
+"251",252,"Liverpool",2021-01-28,"@","Tottenham Hotspur","Premier League","W",3,1,2,50,3,0,0,0,2.5,0.1,"Matchweek 20","2020-21",3,2.4,0,20,1
+"252",253,"Liverpool",2021-01-24,"@","Manchester Utd","FA Cup","L",2,3,-1,58,2,0,0,0,NA,NA,"4th Round","2020-21",0,NA,0,4,1
+"253",254,"Liverpool",2021-01-21,"","Burnley","Premier League","L",0,1,-1,72,0,0,0,0,1.6,1.1,"Matchweek 18","2020-21",0,0.5,1,18,0
+"254",255,"Liverpool",2021-01-17,"","Manchester Utd","Premier League","D",0,0,0,66,0,0,0,0,1.2,1.1,"Matchweek 19","2020-21",1,0.0999999999999999,1,19,1
+"255",256,"Liverpool",2021-01-08,"@","Aston Villa","FA Cup","W",4,1,3,83,4,0,0,0,NA,NA,"3rd Round","2020-21",3,NA,0,3,0
+"256",257,"Liverpool",2021-01-04,"@","Southampton","Premier League","L",0,1,-1,67,0,0,0,0,1.5,0.4,"Matchweek 17","2020-21",0,1.1,0,17,0
+"257",258,"Liverpool",2020-12-30,"@","Newcastle United","Premier League","D",0,0,0,73,0,0,0,0,1.4,0.5,"Matchweek 16","2020-21",1,0.9,0,16,0
+"258",259,"Liverpool",2020-12-27,"","West Brom","Premier League","D",1,1,0,78,1,0,0,0,1.5,0.6,"Matchweek 15","2020-21",1,0.9,1,15,0
+"259",260,"Liverpool",2020-12-19,"@","Crystal Palace","Premier League","W",7,0,7,65,7,0,0,0,2.5,0.3,"Matchweek 14","2020-21",3,2.2,0,14,0
+"260",261,"Liverpool",2020-12-16,"","Tottenham Hotspur","Premier League","W",2,1,1,76,2,0,0,0,1,1.1,"Matchweek 13","2020-21",3,-0.1,1,13,1
+"261",262,"Liverpool",2020-12-13,"@","Fulham","Premier League","D",1,1,0,75,0,1,1,0,1.8,1.5,"Matchweek 12","2020-21",1,0.3,0,12,0
+"262",263,"Liverpool",2020-12-09,"@","Midtjylland","Champions League","D",1,1,0,51,1,0,0,0,1.1,2.3,"Group Stage","2020-21",1,-1.2,0,NA,0
+"263",264,"Liverpool",2020-12-06,"","Wolves","Premier League","W",4,0,4,61,3,0,0,0,1.2,0.4,"Matchweek 11","2020-21",3,0.8,1,11,0
+"264",265,"Liverpool",2020-12-01,"","Ajax","Champions League","W",1,0,1,44,1,0,0,0,2,1.5,"Group Stage","2020-21",3,0.5,1,NA,0
+"265",266,"Liverpool",2020-11-28,"@","Brighton","Premier League","D",1,1,0,60,1,0,0,0,0.2,2.3,"Matchweek 10","2020-21",1,-2.1,0,10,0
+"266",267,"Liverpool",2020-11-25,"","Atalanta","Champions League","L",0,2,-2,54,0,0,0,0,0.2,1.2,"Group Stage","2020-21",0,-1,1,NA,0
+"267",268,"Liverpool",2020-11-22,"","Leicester City","Premier League","W",3,0,3,57,2,0,0,0,3.1,1.6,"Matchweek 9","2020-21",3,1.5,1,9,0
+"268",269,"Liverpool",2020-11-08,"@","Manchester City","Premier League","D",1,1,0,45,0,1,1,0,1.2,1.4,"Matchweek 8","2020-21",1,-0.2,0,8,1
+"269",270,"Liverpool",2020-11-03,"@","Atalanta","Champions League","W",5,0,5,56,5,0,0,0,2.5,1.2,"Group Stage","2020-21",3,1.3,0,NA,0
+"270",271,"Liverpool",2020-10-31,"","West Ham United","Premier League","W",2,1,1,72,1,1,1,0,1.7,0.3,"Matchweek 7","2020-21",3,1.4,1,7,0
+"271",272,"Liverpool",2020-10-27,"","Midtjylland","Champions League","W",2,0,2,63,1,1,1,0,2.2,1.2,"Group Stage","2020-21",3,1,1,NA,0
+"272",273,"Liverpool",2020-10-24,"","Sheffield United","Premier League","W",2,1,1,62,2,0,0,0,2.3,1.6,"Matchweek 6","2020-21",3,0.7,1,6,0
+"273",274,"Liverpool",2020-10-21,"@","Ajax","Champions League","W",1,0,1,51,0,0,0,0,1.1,1.4,"Group Stage","2020-21",3,-0.3,0,NA,0
+"274",275,"Liverpool",2020-10-17,"@","Everton","Premier League","D",2,2,0,58,2,0,0,0,2.6,1.2,"Matchweek 5","2020-21",1,1.4,0,5,1
+"275",276,"Liverpool",2020-10-04,"@","Aston Villa","Premier League","L",2,7,-5,69,2,0,0,0,1.8,2.7,"Matchweek 4","2020-21",0,-0.9,0,4,0
+"276",277,"Liverpool",2020-10-01,"","Arsenal","EFL Cup","D",0,0,0,57,0,0,0,0,NA,NA,"4th Round","2020-21",1,NA,1,4,1
+"277",278,"Liverpool",2020-09-28,"","Arsenal","Premier League","W",3,1,2,66,3,0,0,0,2.7,1.3,"Matchweek 3","2020-21",3,1.4,1,3,1
+"278",279,"Liverpool",2020-09-24,"@","Lincoln City","EFL Cup","W",7,2,5,72,7,0,0,0,NA,NA,"3rd Round","2020-21",3,NA,0,3,0
+"279",280,"Liverpool",2020-09-20,"@","Chelsea","Premier League","W",2,0,2,61,2,0,0,0,2.1,0.9,"Matchweek 2","2020-21",3,1.2,0,2,1
+"280",281,"Liverpool",2020-09-12,"","Leeds United","Premier League","W",4,3,1,48,2,2,2,0,2.7,0.3,"Matchweek 1","2020-21",3,2.4,1,1,0
+"281",283,"Liverpool",2020-07-26,"@","Newcastle United","Premier League","W",3,1,2,75,3,0,0,0,0.6,0.1,"Matchweek 38","2019-20",3,0.5,0,38,1
+"282",284,"Liverpool",2020-07-22,"","Chelsea","Premier League","W",5,3,2,50,5,0,0,0,1.7,2.4,"Matchweek 37","2019-20",3,-0.7,1,37,1
+"283",285,"Liverpool",2020-07-15,"@","Arsenal","Premier League","L",1,2,-1,69,1,0,0,0,2.1,0.8,"Matchweek 36","2019-20",0,1.3,0,36,1
+"284",286,"Liverpool",2020-07-11,"","Burnley","Premier League","D",1,1,0,71,1,0,0,0,1.7,0.4,"Matchweek 35","2019-20",1,1.3,1,35,1
+"285",287,"Liverpool",2020-07-08,"@","Brighton","Premier League","W",3,1,2,56,3,0,0,0,2.5,2.4,"Matchweek 34","2019-20",3,0.1,0,34,1
+"286",288,"Liverpool",2020-07-05,"","Aston Villa","Premier League","W",2,0,2,72,2,0,0,0,0.7,0.7,"Matchweek 33","2019-20",3,0,1,33,1
+"287",289,"Liverpool",2020-07-02,"@","Manchester City","Premier League","L",0,4,-4,52,0,0,0,0,1.1,2.4,"Matchweek 32","2019-20",0,-1.3,0,32,1
+"288",290,"Liverpool",2020-06-24,"","Crystal Palace","Premier League","W",4,0,4,74,4,0,0,0,2.4,0.1,"Matchweek 31","2019-20",3,2.3,1,31,0
+"289",291,"Liverpool",2020-06-21,"@","Everton","Premier League","D",0,0,0,70,0,0,0,0,0.7,0.9,"Matchweek 30","2019-20",1,-0.2,0,30,1
+"290",292,"Liverpool",2020-03-11,"","Atletico Madrid","Champions League","L",2,3,-1,71,2,0,0,0,3.4,1.1,"Round of 16","2019-20",0,2.3,1,16,1
+"291",293,"Liverpool",2020-03-07,"","Bournemouth","Premier League","W",2,1,1,75,2,0,0,0,1.8,1.4,"Matchweek 29","2019-20",3,0.4,1,29,0
+"292",294,"Liverpool",2020-03-03,"@","Chelsea","FA Cup","L",0,2,-2,58,0,0,0,0,NA,NA,"5th Round","2019-20",0,NA,0,5,0
+"293",295,"Liverpool",2020-02-29,"@","Watford","Premier League","L",0,3,-3,71,0,0,0,0,0.3,2.3,"Matchweek 28","2019-20",0,-2,0,28,0
+"294",296,"Liverpool",2020-02-24,"","West Ham United","Premier League","W",3,2,1,70,3,0,0,0,2.4,0.7,"Matchweek 27","2019-20",3,1.7,1,27,0
+"295",297,"Liverpool",2020-02-18,"@","Atletico Madrid","Champions League","L",0,1,-1,73,0,0,0,0,0.5,1.2,"Round of 16","2019-20",0,-0.7,0,16,1
+"296",298,"Liverpool",2020-02-15,"@","Norwich City","Premier League","W",1,0,1,64,1,0,0,0,2,0.3,"Matchweek 26","2019-20",3,1.7,0,26,0
+"297",299,"Liverpool",2020-02-04,"","Shrewsbury Town","FA Cup","W",1,0,1,58,0,0,0,0,NA,NA,"4th Round","2019-20",3,NA,1,4,0
+"298",300,"Liverpool",2020-02-01,"","Southampton","Premier League","W",4,0,4,62,4,0,0,0,3.2,0.8,"Matchweek 25","2019-20",3,2.4,1,25,0
+"299",301,"Liverpool",2020-01-29,"@","West Ham United","Premier League","W",2,0,2,71,1,1,1,0,2.8,0.7,"Matchweek 18","2019-20",3,2.1,0,18,0
+"300",302,"Liverpool",2020-01-26,"@","Shrewsbury Town","FA Cup","D",2,2,0,70,1,0,0,0,NA,NA,"4th Round","2019-20",1,NA,0,4,0
+"301",303,"Liverpool",2020-01-23,"@","Wolves","Premier League","W",2,1,1,53,2,0,0,0,1.1,1.8,"Matchweek 24","2019-20",3,-0.7,0,24,0
+"302",304,"Liverpool",2020-01-19,"","Manchester Utd","Premier League","W",2,0,2,53,2,0,0,0,1.9,1.3,"Matchweek 23","2019-20",3,0.6,1,23,1
+"303",305,"Liverpool",2020-01-11,"@","Tottenham Hotspur","Premier League","W",1,0,1,67,1,0,0,0,1.2,1.2,"Matchweek 22","2019-20",3,0,0,22,1
+"304",306,"Liverpool",2020-01-05,"","Everton","FA Cup","W",1,0,1,57,1,0,0,0,NA,NA,"3rd Round","2019-20",3,NA,1,3,1
+"305",307,"Liverpool",2020-01-02,"","Sheffield United","Premier League","W",2,0,2,75,2,0,0,0,2.8,0.6,"Matchweek 21","2019-20",3,2.2,1,21,0
+"306",308,"Liverpool",2019-12-29,"","Wolves","Premier League","W",1,0,1,63,1,0,0,0,1.2,0.5,"Matchweek 20","2019-20",3,0.7,1,20,0
+"307",309,"Liverpool",2019-12-26,"@","Leicester City","Premier League","W",4,0,4,59,3,1,1,0,3.2,0.1,"Matchweek 19","2019-20",3,3.1,0,19,0
+"308",310,"Liverpool",2019-12-21,"","Flamengo","FIFA Club World Cup","W",1,0,1,47,1,0,0,0,NA,NA,"","2019-20",3,NA,1,NA,0
+"309",311,"Liverpool",2019-12-18,"@","Monterrey","FIFA Club World Cup","W",2,1,1,69,2,0,0,0,NA,NA,"","2019-20",3,NA,0,NA,0
+"310",312,"Liverpool",2019-12-17,"@","Aston Villa","EFL Cup","L",0,5,-5,57,0,0,0,0,NA,NA,"Quarter-Finals","2019-20",0,NA,0,NA,1
+"311",313,"Liverpool",2019-12-14,"","Watford","Premier League","W",2,0,2,68,2,0,0,0,1.4,1,"Matchweek 17","2019-20",3,0.4,1,17,0
+"312",314,"Liverpool",2019-12-10,"@","RB Salzburg","Champions League","W",2,0,2,57,2,0,0,0,3.4,0.7,"Group Stage","2019-20",3,2.7,0,NA,0
+"313",315,"Liverpool",2019-12-07,"@","Bournemouth","Premier League","W",3,0,3,74,3,0,0,0,2.4,0.1,"Matchweek 16","2019-20",3,2.3,0,16,0
+"314",316,"Liverpool",2019-12-04,"","Everton","Premier League","W",5,2,3,59,5,0,0,0,2,1.5,"Matchweek 15","2019-20",3,0.5,1,15,1
+"315",317,"Liverpool",2019-11-30,"","Brighton","Premier League","W",2,1,1,45,2,0,0,0,1.3,0.8,"Matchweek 14","2019-20",3,0.5,1,14,0
+"316",318,"Liverpool",2019-11-27,"","Napoli","Champions League","D",1,1,0,72,1,0,0,0,0.8,0.5,"Group Stage","2019-20",1,0.3,1,NA,0
+"317",319,"Liverpool",2019-11-23,"@","Crystal Palace","Premier League","W",2,1,1,59,2,0,0,0,1.4,1,"Matchweek 13","2019-20",3,0.4,0,13,0
+"318",320,"Liverpool",2019-11-10,"","Manchester City","Premier League","W",3,1,2,45,3,0,0,0,1.1,1.3,"Matchweek 12","2019-20",3,-0.2,1,12,1
+"319",321,"Liverpool",2019-11-05,"","Genk","Champions League","W",2,1,1,72,2,0,0,0,2.3,0.7,"Group Stage","2019-20",3,1.6,1,NA,0
+"320",322,"Liverpool",2019-11-02,"@","Aston Villa","Premier League","W",2,1,1,74,2,0,0,0,2.4,0.4,"Matchweek 11","2019-20",3,2,0,11,0
+"321",323,"Liverpool",2019-10-30,"","Arsenal","EFL Cup","D",5,5,0,66,3,1,1,0,NA,NA,"4th Round","2019-20",1,NA,1,4,1
+"322",324,"Liverpool",2019-10-27,"","Tottenham Hotspur","Premier League","W",2,1,1,68,1,1,1,0,2.6,1.2,"Matchweek 10","2019-20",3,1.4,1,10,1
+"323",325,"Liverpool",2019-10-23,"@","Genk","Champions League","W",4,1,3,74,4,0,0,0,2.5,1.3,"Group Stage","2019-20",3,1.2,0,NA,0
+"324",326,"Liverpool",2019-10-20,"@","Manchester Utd","Premier League","D",1,1,0,68,1,0,0,0,1.2,0.7,"Matchweek 9","2019-20",1,0.5,0,9,1
+"325",327,"Liverpool",2019-10-05,"","Leicester City","Premier League","W",2,1,1,51,1,1,1,0,3.5,0.1,"Matchweek 8","2019-20",3,3.4,1,8,0
+"326",328,"Liverpool",2019-10-02,"","RB Salzburg","Champions League","W",4,3,1,70,4,0,0,0,2.5,1.6,"Group Stage","2019-20",3,0.9,1,NA,0
+"327",329,"Liverpool",2019-09-28,"@","Sheffield United","Premier League","W",1,0,1,70,1,0,0,0,1.9,1.3,"Matchweek 7","2019-20",3,0.6,0,7,0
+"328",330,"Liverpool",2019-09-25,"@","Milton Keynes Dons","EFL Cup","W",2,0,2,78,2,0,0,0,NA,NA,"3rd Round","2019-20",3,NA,0,3,0
+"329",331,"Liverpool",2019-09-22,"@","Chelsea","Premier League","W",2,1,1,45,2,0,0,0,0.6,1.3,"Matchweek 6","2019-20",3,-0.7,0,6,1
+"330",332,"Liverpool",2019-09-17,"@","Napoli","Champions League","L",0,2,-2,52,0,0,0,0,0.7,1.8,"Group Stage","2019-20",0,-1.1,0,NA,0
+"331",333,"Liverpool",2019-09-14,"","Newcastle United","Premier League","W",3,1,2,76,3,0,0,0,3,0.3,"Matchweek 5","2019-20",3,2.7,1,5,0
+"332",334,"Liverpool",2019-08-31,"@","Burnley","Premier League","W",3,0,3,63,2,0,0,0,1,0.9,"Matchweek 4","2019-20",3,0.1,0,4,0
+"333",335,"Liverpool",2019-08-24,"","Arsenal","Premier League","W",3,1,2,53,2,1,1,0,2.5,1,"Matchweek 3","2019-20",3,1.5,1,3,1
+"334",336,"Liverpool",2019-08-17,"@","Southampton","Premier League","W",2,1,1,63,2,0,0,0,1.3,1.9,"Matchweek 2","2019-20",3,-0.6,0,2,0
+"335",337,"Liverpool",2019-08-14,"","Chelsea","UEFA Super Cup","D",2,2,0,53,2,0,0,0,NA,NA,"UEFA Super Cup","2019-20",1,NA,1,NA,0
+"336",338,"Liverpool",2019-08-09,"","Norwich City","Premier League","W",4,1,3,58,3,0,0,0,1.8,0.9,"Matchweek 1","2019-20",3,0.9,1,1,0
+"337",341,"Liverpool",2019-05-12,"","Wolves","Premier League","W",2,0,2,59,2,0,0,0,1.6,1.3,"Matchweek 38","2018-19",3,0.3,1,38,1
+"338",342,"Liverpool",2019-05-07,"","Barcelona","Champions League","W",4,0,4,43,4,0,0,0,2.3,1.4,"Semi-Finals","2018-19",3,0.9,1,NA,1
+"339",343,"Liverpool",2019-05-04,"@","Newcastle United","Premier League","W",3,2,1,69,3,0,0,0,1.2,1.4,"Matchweek 37","2018-19",3,-0.2,0,37,1
+"340",344,"Liverpool",2019-05-01,"@","Barcelona","Champions League","L",0,3,-3,52,0,0,0,0,1.8,2.4,"Semi-Finals","2018-19",0,-0.6,0,NA,1
+"341",345,"Liverpool",2019-04-26,"","Huddersfield Town","Premier League","W",5,0,5,70,5,0,0,0,3.1,0.2,"Matchweek 36","2018-19",3,2.9,1,36,1
+"342",346,"Liverpool",2019-04-21,"@","Cardiff City","Premier League","W",2,0,2,76,1,1,1,0,3,1.1,"Matchweek 35","2018-19",3,1.9,0,35,1
+"343",347,"Liverpool",2019-04-17,"@","Porto","Champions League","W",4,1,3,49,4,0,0,0,3.5,1,"Quarter-Finals","2018-19",3,2.5,0,NA,1
+"344",348,"Liverpool",2019-04-14,"","Chelsea","Premier League","W",2,0,2,62,2,0,0,0,1.2,0.7,"Matchweek 34","2018-19",3,0.5,1,34,1
+"345",349,"Liverpool",2019-04-09,"","Porto","Champions League","W",2,0,2,64,2,0,0,0,2.3,0.8,"Quarter-Finals","2018-19",3,1.5,1,NA,1
+"346",350,"Liverpool",2019-04-05,"@","Southampton","Premier League","W",3,1,2,67,3,0,0,0,1.9,0.9,"Matchweek 33","2018-19",3,1,0,33,1
+"347",351,"Liverpool",2019-03-31,"","Tottenham Hotspur","Premier League","W",2,1,1,49,1,0,0,0,1,0.7,"Matchweek 32","2018-19",3,0.3,1,32,1
+"348",352,"Liverpool",2019-03-17,"@","Fulham","Premier League","W",2,1,1,63,1,1,1,0,2.6,1.1,"Matchweek 31","2018-19",3,1.5,0,31,0
+"349",353,"Liverpool",2019-03-13,"@","Bayern Munich","Champions League","W",3,1,2,42,3,0,0,0,1.1,0.3,"Round of 16","2018-19",3,0.8,0,16,1
+"350",354,"Liverpool",2019-03-10,"","Burnley","Premier League","W",4,2,2,69,4,0,0,0,4,0.4,"Matchweek 30","2018-19",3,3.6,1,30,0
+"351",355,"Liverpool",2019-03-03,"@","Everton","Premier League","D",0,0,0,58,0,0,0,0,1.1,0.3,"Matchweek 29","2018-19",1,0.8,0,29,1
+"352",356,"Liverpool",2019-02-27,"","Watford","Premier League","W",5,0,5,62,5,0,0,0,1.9,0.3,"Matchweek 28","2018-19",3,1.6,1,28,0
+"353",357,"Liverpool",2019-02-24,"@","Manchester Utd","Premier League","D",0,0,0,65,0,0,0,0,0.5,0.3,"Matchweek 27","2018-19",1,0.2,0,27,1
+"354",358,"Liverpool",2019-02-19,"","Bayern Munich","Champions League","D",0,0,0,49,0,0,0,0,2.1,0.4,"Round of 16","2018-19",1,1.7,1,16,1
+"355",359,"Liverpool",2019-02-09,"","Bournemouth","Premier League","W",3,0,3,66,3,0,0,0,2,0.4,"Matchweek 26","2018-19",3,1.6,1,26,0
+"356",360,"Liverpool",2019-02-04,"@","West Ham United","Premier League","D",1,1,0,73,1,0,0,0,1.1,0.8,"Matchweek 25","2018-19",1,0.3,0,25,0
+"357",361,"Liverpool",2019-01-30,"","Leicester City","Premier League","D",1,1,0,72,1,0,0,0,0.6,1.1,"Matchweek 24","2018-19",1,-0.5,1,24,0
+"358",362,"Liverpool",2019-01-19,"","Crystal Palace","Premier League","W",4,3,1,71,4,0,0,0,2.6,0.7,"Matchweek 23","2018-19",3,1.9,1,23,0
+"359",363,"Liverpool",2019-01-12,"@","Brighton","Premier League","W",1,0,1,71,0,1,1,0,2,0.4,"Matchweek 22","2018-19",3,1.6,0,22,0
+"360",364,"Liverpool",2019-01-07,"@","Wolves","FA Cup","L",1,2,-1,61,1,0,0,0,NA,NA,"3rd Round","2018-19",0,NA,0,3,0
+"361",365,"Liverpool",2019-01-03,"@","Manchester City","Premier League","L",1,2,-1,50,1,0,0,0,1.5,1.1,"Matchweek 21","2018-19",0,0.4,0,21,1
+"362",366,"Liverpool",2018-12-29,"","Arsenal","Premier League","W",5,1,4,48,3,2,2,0,3.8,1,"Matchweek 20","2018-19",3,2.8,1,20,1
+"363",367,"Liverpool",2018-12-26,"","Newcastle United","Premier League","W",4,0,4,75,3,1,1,0,2.9,0.5,"Matchweek 19","2018-19",3,2.4,1,19,0
+"364",368,"Liverpool",2018-12-21,"@","Wolves","Premier League","W",2,0,2,62,2,0,0,0,1.9,0.9,"Matchweek 18","2018-19",3,1,0,18,0
+"365",369,"Liverpool",2018-12-16,"","Manchester Utd","Premier League","W",3,1,2,65,3,0,0,0,2.5,0.7,"Matchweek 17","2018-19",3,1.8,1,17,1
+"366",370,"Liverpool",2018-12-11,"","Napoli","Champions League","W",1,0,1,48,1,0,0,0,3,1.2,"Group Stage","2018-19",3,1.8,1,NA,0
+"367",371,"Liverpool",2018-12-08,"@","Bournemouth","Premier League","W",4,0,4,60,3,0,0,0,1.6,0.3,"Matchweek 16","2018-19",3,1.3,0,16,0
+"368",372,"Liverpool",2018-12-05,"@","Burnley","Premier League","W",3,1,2,74,3,0,0,0,2.4,0.9,"Matchweek 15","2018-19",3,1.5,0,15,0
+"369",373,"Liverpool",2018-12-02,"","Everton","Premier League","W",1,0,1,58,1,0,0,0,2.9,1.1,"Matchweek 14","2018-19",3,1.8,1,14,1
+"370",374,"Liverpool",2018-11-28,"@","Paris Saint-Germain","Champions League","L",1,2,-1,56,0,1,1,0,1.3,1.5,"Group Stage","2018-19",0,-0.2,0,NA,0
+"371",375,"Liverpool",2018-11-24,"@","Watford","Premier League","W",3,0,3,64,3,0,0,0,1.2,0.4,"Matchweek 13","2018-19",3,0.8,0,13,0
+"372",376,"Liverpool",2018-11-11,"","Fulham","Premier League","W",2,0,2,73,2,0,0,0,1.8,0.5,"Matchweek 12","2018-19",3,1.3,1,12,0
+"373",377,"Liverpool",2018-11-06,"@","Red Star","Champions League","L",0,2,-2,72,0,0,0,0,2.2,0.7,"Group Stage","2018-19",0,1.5,0,NA,0
+"374",378,"Liverpool",2018-11-03,"@","Arsenal","Premier League","D",1,1,0,38,1,0,0,0,1.3,1.4,"Matchweek 11","2018-19",1,-0.0999999999999999,0,11,1
+"375",379,"Liverpool",2018-10-27,"","Cardiff City","Premier League","W",4,1,3,80,4,0,0,0,2.4,0.8,"Matchweek 10","2018-19",3,1.6,1,10,0
+"376",380,"Liverpool",2018-10-24,"","Red Star","Champions League","W",4,0,4,66,3,1,2,1,5,0.5,"Group Stage","2018-19",3,4.5,1,NA,0
+"377",381,"Liverpool",2018-10-20,"@","Huddersfield Town","Premier League","W",1,0,1,52,1,0,0,0,0.6,0.7,"Matchweek 9","2018-19",3,-0.1,0,9,0
+"378",382,"Liverpool",2018-10-07,"","Manchester City","Premier League","D",0,0,0,49,0,0,0,0,0.4,1,"Matchweek 8","2018-19",1,-0.6,1,8,1
+"379",383,"Liverpool",2018-10-03,"@","Napoli","Champions League","L",0,1,-1,43,0,0,0,0,0.1,1.9,"Group Stage","2018-19",0,-1.8,0,NA,0
+"380",384,"Liverpool",2018-09-29,"@","Chelsea","Premier League","D",1,1,0,53,1,0,0,0,1.6,1.1,"Matchweek 7","2018-19",1,0.5,0,7,1
+"381",385,"Liverpool",2018-09-26,"","Chelsea","EFL Cup","L",1,2,-1,46,1,0,0,0,NA,NA,"3rd Round","2018-19",0,NA,1,3,0
+"382",386,"Liverpool",2018-09-22,"","Southampton","Premier League","W",3,0,3,61,2,0,0,0,1.7,0.3,"Matchweek 6","2018-19",3,1.4,1,6,0
+"383",387,"Liverpool",2018-09-18,"","Paris Saint-Germain","Champions League","W",3,2,1,52,2,1,1,0,2.3,0.8,"Group Stage","2018-19",3,1.5,1,NA,0
+"384",388,"Liverpool",2018-09-15,"@","Tottenham Hotspur","Premier League","W",2,1,1,40,2,0,0,0,2.6,1,"Matchweek 5","2018-19",3,1.6,0,5,1
+"385",389,"Liverpool",2018-09-01,"@","Leicester City","Premier League","W",2,1,1,49,2,0,0,0,1,1,"Matchweek 4","2018-19",3,0,0,4,0
+"386",390,"Liverpool",2018-08-25,"","Brighton","Premier League","W",1,0,1,70,1,0,0,0,1.6,0.6,"Matchweek 3","2018-19",3,1,1,3,0
+"387",391,"Liverpool",2018-08-20,"@","Crystal Palace","Premier League","W",2,0,2,63,1,1,1,0,2.6,0.4,"Matchweek 2","2018-19",3,2.2,0,2,0
+"388",392,"Liverpool",2018-08-12,"","West Ham United","Premier League","W",4,0,4,65,4,0,0,0,4,0.7,"Matchweek 1","2018-19",3,3.3,1,1,0
+"389",393,"Liverpool",2018-05-26,"N","Real Madrid","Champions League","L",1,3,-2,35,1,0,0,0,1.9,1.5,"Final","2017-18",0,0.4,0,NA,1
+"390",394,"Liverpool",2018-05-13,"","Brighton","Premier League","W",4,0,4,72,4,0,0,0,2.8,0.1,"Matchweek 38","2017-18",3,2.7,1,38,1
+"391",395,"Liverpool",2018-05-06,"@","Chelsea","Premier League","L",0,1,-1,68,0,0,0,0,0.5,0.6,"Matchweek 37","2017-18",0,-0.1,0,37,1
+"392",396,"Liverpool",2018-05-02,"@","Roma","Champions League","L",2,4,-2,40,2,0,0,0,1.6,2.4,"Semi-Finals","2017-18",0,-0.8,0,NA,1
+"393",397,"Liverpool",2018-04-28,"","Stoke City","Premier League","D",0,0,0,72,0,0,0,0,1.9,0.6,"Matchweek 36","2017-18",1,1.3,1,36,1
+"394",398,"Liverpool",2018-04-24,"","Roma","Champions League","W",5,2,3,49,5,0,0,0,3.7,1.9,"Semi-Finals","2017-18",3,1.8,1,NA,1
+"395",399,"Liverpool",2018-04-21,"@","West Brom","Premier League","D",2,2,0,62,2,0,0,0,1.3,1.3,"Matchweek 35","2017-18",1,0,0,35,1
+"396",400,"Liverpool",2018-04-14,"","Bournemouth","Premier League","W",3,0,3,62,3,0,0,0,2,0.3,"Matchweek 34","2017-18",3,1.7,1,34,1
+"397",401,"Liverpool",2018-04-10,"@","Manchester City","Champions League","W",2,1,1,32,2,0,0,0,0.8,1.2,"Quarter-Finals","2017-18",3,-0.4,0,NA,1
+"398",402,"Liverpool",2018-04-07,"@","Everton","Premier League","D",0,0,0,62,0,0,0,0,0.9,0.6,"Matchweek 33","2017-18",1,0.3,0,33,1
+"399",403,"Liverpool",2018-04-04,"","Manchester City","Champions League","W",3,0,3,34,3,0,0,0,1.6,0.6,"Quarter-Finals","2017-18",3,1,1,NA,1
+"400",404,"Liverpool",2018-03-31,"@","Crystal Palace","Premier League","W",2,1,1,68,2,0,0,0,1.8,1.9,"Matchweek 32","2017-18",3,-0.0999999999999999,0,32,0
+"401",405,"Liverpool",2018-03-17,"","Watford","Premier League","W",5,0,5,58,5,0,0,0,2.3,0.4,"Matchweek 31","2017-18",3,1.9,1,31,0
+"402",406,"Liverpool",2018-03-10,"@","Manchester Utd","Premier League","L",1,2,-1,68,0,0,0,0,0.7,0.7,"Matchweek 30","2017-18",0,0,0,30,1
+"403",407,"Liverpool",2018-03-06,"","Porto","Champions League","D",0,0,0,65,0,0,0,0,1.6,0.6,"Round of 16","2017-18",1,1,1,16,1
+"404",408,"Liverpool",2018-03-03,"","Newcastle United","Premier League","W",2,0,2,71,2,0,0,0,1.5,0.3,"Matchweek 29","2017-18",3,1.2,1,29,0
+"405",409,"Liverpool",2018-02-24,"","West Ham United","Premier League","W",4,1,3,68,4,0,0,0,4,0.4,"Matchweek 28","2017-18",3,3.6,1,28,0
+"406",410,"Liverpool",2018-02-14,"@","Porto","Champions League","W",5,0,5,55,5,0,0,0,2.6,0.5,"Round of 16","2017-18",3,2.1,0,16,1
+"407",411,"Liverpool",2018-02-11,"@","Southampton","Premier League","W",2,0,2,48,2,0,0,0,1.9,0.9,"Matchweek 27","2017-18",3,1,0,27,0
+"408",412,"Liverpool",2018-02-04,"","Tottenham Hotspur","Premier League","D",2,2,0,34,2,0,0,0,1.2,2.6,"Matchweek 26","2017-18",1,-1.4,1,26,1
+"409",413,"Liverpool",2018-01-30,"@","Huddersfield Town","Premier League","W",3,0,3,75,2,1,1,0,1.8,0.3,"Matchweek 25","2017-18",3,1.5,0,25,0
+"410",414,"Liverpool",2018-01-27,"","West Brom","FA Cup","L",2,3,-1,69,2,0,1,1,NA,NA,"4th Round","2017-18",0,NA,1,4,0
+"411",415,"Liverpool",2018-01-22,"@","Swansea City","Premier League","L",0,1,-1,72,0,0,0,0,2.5,0.2,"Matchweek 24","2017-18",0,2.3,0,24,0
+"412",416,"Liverpool",2018-01-14,"","Manchester City","Premier League","W",4,3,1,36,4,0,0,0,0.8,0.8,"Matchweek 23","2017-18",3,0,1,23,1
+"413",417,"Liverpool",2018-01-05,"","Everton","FA Cup","W",2,1,1,61,1,1,1,0,NA,NA,"3rd Round","2017-18",3,NA,1,3,1
+"414",418,"Liverpool",2018-01-01,"@","Burnley","Premier League","W",2,1,1,58,2,0,0,0,1.7,1.3,"Matchweek 22","2017-18",3,0.4,0,22,0
+"415",419,"Liverpool",2017-12-30,"","Leicester City","Premier League","W",2,1,1,60,2,0,0,0,2.9,0.7,"Matchweek 21","2017-18",3,2.2,1,21,0
+"416",420,"Liverpool",2017-12-26,"","Swansea City","Premier League","W",5,0,5,55,5,0,0,0,3.1,0.4,"Matchweek 20","2017-18",3,2.7,1,20,0
+"417",421,"Liverpool",2017-12-22,"@","Arsenal","Premier League","D",3,3,0,46,3,0,0,0,2,1.2,"Matchweek 19","2017-18",1,0.8,0,19,1
+"418",422,"Liverpool",2017-12-17,"@","Bournemouth","Premier League","W",4,0,4,56,4,0,0,0,2.5,0.6,"Matchweek 18","2017-18",3,1.9,0,18,0
+"419",423,"Liverpool",2017-12-13,"","West Brom","Premier League","D",0,0,0,71,0,0,0,0,2.1,0.4,"Matchweek 17","2017-18",1,1.7,1,17,0
+"420",424,"Liverpool",2017-12-10,"","Everton","Premier League","D",1,1,0,79,1,0,0,0,1.6,0.9,"Matchweek 16","2017-18",1,0.7,1,16,1
+"421",425,"Liverpool",2017-12-06,"","Spartak Moscow","Champions League","W",7,0,7,53,6,1,1,0,4.2,0.6,"Group Stage","2017-18",3,3.6,1,NA,0
+"422",426,"Liverpool",2017-12-02,"@","Brighton","Premier League","W",5,1,4,57,4,0,0,0,1.8,1.7,"Matchweek 15","2017-18",3,0.1,0,15,0
+"423",427,"Liverpool",2017-11-29,"@","Stoke City","Premier League","W",3,0,3,61,3,0,0,0,2.9,0.9,"Matchweek 14","2017-18",3,2,0,14,0
+"424",428,"Liverpool",2017-11-25,"","Chelsea","Premier League","D",1,1,0,53,1,0,0,0,1.2,0.8,"Matchweek 13","2017-18",1,0.4,1,13,1
+"425",429,"Liverpool",2017-11-21,"@","Sevilla","Champions League","D",3,3,0,30,3,0,0,0,2.3,1.9,"Group Stage","2017-18",1,0.4,0,NA,0
+"426",430,"Liverpool",2017-11-18,"","Southampton","Premier League","W",3,0,3,61,3,0,0,0,2,0.4,"Matchweek 12","2017-18",3,1.6,1,12,0
+"427",431,"Liverpool",2017-11-04,"@","West Ham United","Premier League","W",4,1,3,52,4,0,0,0,2.7,1.2,"Matchweek 11","2017-18",3,1.5,0,11,0
+"428",432,"Liverpool",2017-11-01,"","NK Maribor","Champions League","W",3,0,3,75,3,0,1,1,2.7,0.3,"Group Stage","2017-18",3,2.4,1,NA,0
+"429",433,"Liverpool",2017-10-28,"","Huddersfield Town","Premier League","W",3,0,3,73,3,0,1,1,2.1,0.1,"Matchweek 10","2017-18",3,2,1,10,0
+"430",434,"Liverpool",2017-10-22,"@","Tottenham Hotspur","Premier League","L",1,4,-3,64,1,0,0,0,0.6,2,"Matchweek 9","2017-18",0,-1.4,0,9,1
+"431",435,"Liverpool",2017-10-17,"@","NK Maribor","Champions League","W",7,0,7,70,7,0,0,0,4.6,0.4,"Group Stage","2017-18",3,4.2,0,NA,0
+"432",436,"Liverpool",2017-10-14,"","Manchester Utd","Premier League","D",0,0,0,62,0,0,0,0,1.5,0.2,"Matchweek 8","2017-18",1,1.3,1,8,1
+"433",437,"Liverpool",2017-10-01,"@","Newcastle United","Premier League","D",1,1,0,68,1,0,0,0,1.3,0.3,"Matchweek 7","2017-18",1,1,0,7,0
+"434",438,"Liverpool",2017-09-26,"@","Spartak Moscow","Champions League","D",1,1,0,64,1,0,0,0,2.8,0.2,"Group Stage","2017-18",1,2.6,0,NA,0
+"435",439,"Liverpool",2017-09-23,"@","Leicester City","Premier League","W",3,2,1,57,3,0,0,0,1.7,2.8,"Matchweek 6","2017-18",3,-1.1,0,6,0
+"436",440,"Liverpool",2017-09-19,"@","Leicester City","EFL Cup","L",0,2,-2,70,0,0,0,0,NA,NA,"3rd Round","2017-18",0,NA,0,3,0
+"437",441,"Liverpool",2017-09-16,"","Burnley","Premier League","D",1,1,0,71,1,0,0,0,2.2,0.2,"Matchweek 5","2017-18",1,2,1,5,0
+"438",442,"Liverpool",2017-09-13,"","Sevilla","Champions League","D",2,2,0,49,2,0,1,1,2.4,1.2,"Group Stage","2017-18",1,1.2,1,NA,0
+"439",443,"Liverpool",2017-09-09,"@","Manchester City","Premier League","L",0,5,-5,34,0,0,0,0,0.7,2.4,"Matchweek 4","2017-18",0,-1.7,0,4,1
+"440",444,"Liverpool",2017-08-27,"","Arsenal","Premier League","W",4,0,4,49,4,0,0,0,3.1,0.6,"Matchweek 3","2017-18",3,2.5,1,3,1
+"441",445,"Liverpool",2017-08-19,"","Crystal Palace","Premier League","W",1,0,1,72,1,0,0,0,2.5,0.7,"Matchweek 2","2017-18",3,1.8,1,2,0
+"442",446,"Liverpool",2017-08-12,"@","Watford","Premier League","D",3,3,0,54,2,1,1,0,2.6,2.1,"Matchweek 1","2017-18",1,0.5,0,1,0
