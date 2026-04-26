@@ -95,3 +95,7 @@ spurs_clean %>%
   count(opp) %>%
   arrange(desc(n)) %>%
   as.data.frame()
+
+write.csv(liverpool_clean, "liverpool.csv")
+?write.csv
+write.csv(spurs_clean, "spurs.csv")
