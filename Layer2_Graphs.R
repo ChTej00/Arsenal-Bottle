@@ -138,7 +138,7 @@ gap_data <- all_clubs %>%
 
 ggplot(gap_data, aes(x = team, y = gap, fill = team)) +
   geom_col(width = 0.6) +
-  geom_text(aes(label = round(gap, 2)), vjust = -0.5, size = 3.5) +
+  geom_text(aes(label = round(gap, 2)), vjust = -0.5, size = 3) +
   scale_fill_manual(values = c(
     "Arsenal"   = "#EF0107",
     "Liverpool" = "#00B2A9",
@@ -154,5 +154,6 @@ ggplot(gap_data, aes(x = team, y = gap, fill = team)) +
   ) +
   theme_minimal(base_size = 13) +
   theme(
-    strip.text      = element_text(size = 12, face = "bold")
+    strip.text      = element_text(size = 12, face = "bold"),
+    axis.text.x = element_text(angle = 45, hjust = 1)
   )
