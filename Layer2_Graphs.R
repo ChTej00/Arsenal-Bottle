@@ -20,7 +20,6 @@ ggplot(club_summary, aes(x = team, y = avg_drop, fill = stake_label)) +
   theme_minimal(base_size = 13) +
   theme(
     legend.position = "top",
-    panel.grid      = element_blank(),
     axis.line.y     = element_line(color = "grey80")
   )
 
