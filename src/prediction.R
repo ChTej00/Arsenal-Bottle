@@ -1,7 +1,7 @@
 class(arsenal$date)
 head(arsenal$date)
 summary(arsenal$points)
-
+summary(arsenal)
 arsenal_pl_model <- arsenal %>%
   filter(comp == "Premier League", !is.na(drop_index)) %>%
   arrange(date) %>%
@@ -27,6 +27,23 @@ model_pl <- glm(underperform ~ high_stake + home + recent_form + matchweek_num,
                 family = binomial)
 
 summary(model_pl)
+
+arsenal %>%
+  filter(comp == "Premier League", !is.na(drop_index)) %>%
+  summarise(missing_points = sum(is.na(points)))
+
+arsenal <- arsenal %>%
+  mutate(points = case_when(
+    result == "W" ~ 3,
+    result == "D" ~ 1,
+    result == "L" ~ 0,
+    TRUE ~ NA_real_
+  ))
+
+# Verify
+arsenal %>%
+  filter(comp == "Premier League", !is.na(drop_index)) %>%
+  summarise(missing_points = sum(is.na(points)))
 
 arsenal_2526 <- read.csv("arsenal25-26.csv") %>%
   rename_with(tolower) %>%
