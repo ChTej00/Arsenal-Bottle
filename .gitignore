@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data — raw CSVs are reproducible via the scraper, no need to commit them
+data/raw/
+data/processed/
+
+# Tutorial notebooks — learning versions, not for public viewing
+tutorials/
+
+# soccerdata cache
+.soccerdata/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
