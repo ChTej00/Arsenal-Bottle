@@ -19,6 +19,10 @@ tutorials/
 # soccerdata cache
 .soccerdata/
 
+# Notebook/tutorial scratch — webdriver/pip lock litter from checkpoints
+notebooks/downloaded_files/
+tutorials/downloaded_files/
+
 # OS
 .DS_Store
 Thumbs.db
@@ -26,3 +30,11 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+# Claude Code / AI assistant local state — not for public viewing
+.claude/
+CLAUDE.md
+
+# Internal project docs — working notes for AI context, not for public GitHub view
+*.md
+!README.md
