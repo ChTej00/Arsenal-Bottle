@@ -1,0 +1,11 @@
+# Pinned to what is installed in the local `arsenal` conda env, verified working
+# together with pandas 3.0.5 / numpy 2.4.6. Used by src/ (the update job) and
+# app/streamlit_app.py (the hosted app). Not the notebooks' full dependency set,
+# e.g. no xgboost/statsmodels/seaborn, since those are exploratory-only and
+# never run outside notebooks/.
+pandas==3.0.5
+numpy==2.4.6
+scikit-learn==1.9.0
+soccerdata==1.9.1
+streamlit==1.64.0
+plotly==6.9.0
