@@ -76,7 +76,10 @@ def run_update(out_dir: Path = config.DATA_APP_DIR, force: bool = False) -> dict
 
     current.to_csv(out_dir / "current_season.csv", index=False)
     snap["fixtures"].to_csv(out_dir / "fixtures.csv", index=False)
-    summary.to_csv(out_dir / "summary.csv")
+    pd.DataFrame({"team": snap["teams"], "current_pts": snap["current_pts"]}).to_csv(
+        out_dir / "current_points.csv", index=False
+    )
+    summary.reset_index(names="team").to_csv(out_dir / "summary.csv", index=False)
     model.save(fitted, out_dir / "model.json", meta={
         "trained_through_gameweek": completed_gw,
         "training_rows": len(train_rows),
