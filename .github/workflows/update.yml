@@ -1,0 +1,63 @@
+# Runs once a day. src/update.py decides whether a gameweek actually finished;
+# most days it changes nothing and this workflow commits nothing. See
+# decisions_log.md and PROJECT_MASTER_CONTEXT.md for why (trigger is "a full
+# gameweek completed", not a fixed weekly schedule, since international
+# breaks mean gameweeks aren't strictly weekly).
+name: Update live predictions
+
+on:
+  schedule:
+    - cron: "15 6 * * *" # 06:15 UTC daily, well clear of the top-of-hour load GitHub warns about
+  workflow_dispatch: {} # manual "Run workflow" button, for forcing an update on demand
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch the TLS library soccerdata's Understat client needs
+        # soccerdata's Understat scraper (via wrapper-tls-requests) downloads a
+        # native binary from bogdanfinn/tls-client's GitHub releases the first
+        # time it runs in a fresh environment. Its own discovery mechanism
+        # calls GitHub's anonymous REST API (60 requests/hour per IP, easy to
+        # exhaust on a shared CI IP range), and when that call fails it falls
+        # back to guessing a filename pattern that does not match current
+        # releases (confirmed by testing: it 404s). Downloading the one
+        # correct file directly and pointing TLS_LIBRARY_PATH at it bypasses
+        # both the rate limit and the broken fallback.
+        #
+        # This URL is pinned to the tls-client version wrapper-tls-requests
+        # 1.2.5 expects (v1.13.1), which is what soccerdata==1.9.1 (see
+        # requirements.txt) pulls in. If that pin ever changes, this URL has
+        # to be updated to match, or this step downloads a binary the
+        # installed library doesn't expect.
+        run: |
+          curl -sSL -o "$RUNNER_TEMP/tls-client.so" \
+            "https://github.com/bogdanfinn/tls-client/releases/download/v1.13.1/tls-client-xgo-1.13.1-linux-amd64.so"
+          echo "TLS_LIBRARY_PATH=$RUNNER_TEMP/tls-client.so" >> "$GITHUB_ENV"
+
+      - name: Run the update job
+        run: python -m src.update
+
+      - name: Commit and push if anything changed
+        run: |
+          if [ -n "$(git status --porcelain data/app)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data/app
+            git commit -m "Update live predictions ($(date -u +'%Y-%m-%d'))"
+            git push
+          else
+            echo "No new gameweek, nothing to publish."
+          fi
