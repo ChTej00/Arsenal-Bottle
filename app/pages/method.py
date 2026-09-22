@@ -80,8 +80,9 @@ with c1:
                   annotation_text=f"midpoint, GW{config.GW_SIGMOID_MID}",
                   annotation_font=dict(color=theme.MUTED, size=11))
     theme.apply(fig, height=330, legend=False,
-                title="How much a match matters purely because of when it is",
-                xaxis_title="Gameweek", yaxis_title="Time pressure factor")
+                xaxis=dict(title=dict(text="Gameweek")),
+                yaxis=dict(title=dict(text="Time pressure factor")))
+    st.markdown("##### How much a match matters purely because of when it is")
     st.plotly_chart(fig, width="stretch")
 with c2:
     st.markdown("""
@@ -103,7 +104,7 @@ st.markdown(
 )
 
 ui.note(
-    "<b>Two versions of the flag exist, deliberately.</b> One uses a fixed threshold and only "
+    "**Two versions of the flag exist, deliberately.** One uses a fixed threshold and only "
     "ever looks at a single match, which makes it safe to use for live predictions. The other "
     "takes the top quarter of each team-season, which gives every season a comparable slice of "
     "its own biggest matches but needs the whole season to compute, so it is only ever used "
@@ -130,20 +131,23 @@ It produces impressive results that collapse in the real world. Four things guar
 """)
 
 ui.note(
-    "<b>One documented exception, stated rather than hidden.</b> The historical pressure score "
+    "**One documented exception, stated rather than hidden.** The historical pressure score "
     "is computed from a league table that includes the match being scored. The simulation "
     "correctly uses the table before the match. Recomputing history the strict way changes the "
     "model's log loss by about 0.001, which is why it was left alone, but it is a genuine "
-    "inconsistency and is recorded as one."
+    "inconsistency and is recorded as one.",
+    kind="warn",
 )
 
 # ---------------------------------------------------------------------------
 st.markdown("### The features the model uses")
 
 st.dataframe(
-    glossary[["feature", "description"]].rename(columns={
-        "feature": "Feature", "description": "What it means"}),
-    width="stretch", hide_index=True,
+    glossary[["feature", "description"]], width="stretch", hide_index=True,
+    column_config={
+        "feature": st.column_config.TextColumn("Feature", pinned=True, width="medium"),
+        "description": st.column_config.TextColumn("What it means", width="large"),
+    },
 )
 
 # ---------------------------------------------------------------------------
@@ -207,17 +211,22 @@ produced.
 
 ui.note(
     "Source code, including the notebooks this site is built from, is at "
-    "<a href='https://github.com/ChTej00/Arsenal-Bottle'>github.com/ChTej00/Arsenal-Bottle</a>. "
-    "Data from <a href='https://understat.com'>Understat</a>."
+    "[github.com/ChTej00/Arsenal-Bottle](https://github.com/ChTej00/Arsenal-Bottle). "
+    "Data from [Understat](https://understat.com).",
+    icon=":material/code:",
 )
 
-with st.expander("Distribution checks behind the statistical tests"):
+with st.expander("Distribution checks behind the statistical tests",
+                 icon=":material/functions:"):
     st.dataframe(
-        normality.rename(columns={
-            "variable": "Variable", "shapiro_W": "Shapiro-Wilk W", "p_value": "p-value",
-            "normal_at_05": "Normal?", "n": "n"}
-        ).style.format({"Shapiro-Wilk W": "{:.4f}", "p-value": "{:.4g}"}),
-        width="stretch", hide_index=True)
+        normality, width="stretch", hide_index=True,
+        column_config={
+            "variable": st.column_config.TextColumn("Variable"),
+            "shapiro_W": st.column_config.NumberColumn("Shapiro-Wilk W", format="%.4f"),
+            "p_value": st.column_config.NumberColumn("p-value", format="%.2e"),
+            "normal_at_05": st.column_config.CheckboxColumn("Normal?"),
+            "n": st.column_config.NumberColumn("n"),
+        })
     st.markdown(
         "Points can only be 0, 1 or 3, so it is nowhere near a normal distribution and fails "
         "badly, exactly as expected. This is why every parametric test on this site is paired "
