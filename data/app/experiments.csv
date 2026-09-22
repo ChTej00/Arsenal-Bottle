@@ -1,0 +1,15 @@
+experiment,notebook,log_loss,accuracy,verdict,kept
+Class weighting (balanced),NB06,1.0589,0.4429,"Forcing the model to call more draws made both metrics worse. It reallocates confidence, it does not create signal.",False
+Two-stage draw classifier,NB06,1.07,0.44,"Predict draw-or-not first, then win-or-loss. Same failure as class weighting.",False
+Poisson / Dixon-Coles goals model,NB06,,,"Model goals scored, derive W/D/L. Underperformed the direct classifier.",False
+Hyperparameter tuning (balanced objective),NB06,,,"Tuned inside the class-balanced objective, so it inherited its problem.",False
+Combined best-of-everything prototype,NB06,1.0176,0.5429,"20-team data, walk-forward retraining, class weights, draw-targeted features, tuned decision rule. Lost on both metrics.",False
+Match-level walk-forward retraining,NB06,0.9641,0.5571,Retraining after every match did not beat one model fit once before the season.,False
+Aggressive recency weighting (decay 0.4),NB06,0.9891,0.5357,Down-weighting old seasons hurt monotonically. It shrinks the usable training set without fixing any real bias.,False
+Random forest on all 20 teams,NB07,1.0465,,Five times the data did not make flexibility pay off.,False
+XGBoost on all 20 teams,NB07,1.0455,,Same verdict as random forest.,False
+Tuned regularisation strength,NB07,1.039,,"Best C=0.03 against C=1.0's 1.0391. Noise, not a gain.",False
+is_promoted flag,NB07,1.0512,,"Promoted clubs are genuinely harder to predict, but a flag does not fix a missing history.",False
+Separate opponent attack and defence terms,NB07,1.0476,,Splitting opponent quality in two added nothing.,False
+stakes x Big 6 interaction,NB07,1.0477,,Slightly worse than leaving the two features separate.,False
+Head-to-head record,NB07,1.0362,0.4886,"KEPT. The only late addition that earned its place, and the first feature that says anything about these two specific clubs.",True

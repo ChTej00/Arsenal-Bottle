@@ -1,0 +1,34 @@
+outcome,feature,coefficient,abs_coefficient,p_value,significant,description
+Loss,xG_roll5,-0.11684335945946943,0.11684335945946943,,,"The team's own expected goals, averaged over its previous 5 matches."
+Loss,xGA_roll5,0.11816268892387538,0.11816268892387538,,,"Expected goals conceded, averaged over its previous 5 matches."
+Loss,pts_roll5,-0.13634425541453327,0.13634425541453327,,,Points per match over its previous 5 matches.
+Loss,win_rate_roll5,0.06701729934780225,0.06701729934780225,,,Share of its previous 5 matches won.
+Loss,is_home,-0.19580728842795644,0.19580728842795644,,,"1 if the team is playing at home, 0 away."
+Loss,is_big6_opp,0.16161722944712492,0.16161722944712492,,,1 if the opponent is one of the traditional Big 6 clubs.
+Loss,opp_xgd_roll5,0.21079506002496112,0.21079506002496112,,,"The opponent's own rolling expected goal difference, a continuous measure of opponent quality."
+Loss,parity_gap,-0.009448715103368432,0.009448715103368432,,,"How evenly matched the two sides are, the absolute difference between their rolling goal differences."
+Loss,stakes_intensity,-0.045215915496065226,0.045215915496065226,,,"How much is riding on this match, 0 to 1, from table position, time of season, form and rivalry."
+Loss,is_non_big6_rivalry,0.0043207235027944435,0.0043207235027944435,,,"1 for a derby that is not already captured by the Big 6 flag, currently only Liverpool vs Everton."
+Loss,h2h_pts_avg3,-0.1320026808330854,0.1320026808330854,,,Average points this team took from its last 3 meetings with this opponent.
+Draw,xG_roll5,-0.024562739306535353,0.024562739306535353,0.057931568404402806,False,"The team's own expected goals, averaged over its previous 5 matches."
+Draw,xGA_roll5,0.028602479054151204,0.028602479054151204,0.047015121617618984,True,"Expected goals conceded, averaged over its previous 5 matches."
+Draw,pts_roll5,0.06886748721728081,0.06886748721728081,0.18799834154202733,False,Points per match over its previous 5 matches.
+Draw,win_rate_roll5,-0.04982370918392861,0.04982370918392861,0.3896038103479509,False,Share of its previous 5 matches won.
+Draw,is_home,-0.0006512593541597604,0.0006512593541597604,5.807344232051733e-07,True,"1 if the team is playing at home, 0 away."
+Draw,is_big6_opp,-0.026850448169645144,0.026850448169645144,7.627205265539486e-06,True,1 if the opponent is one of the traditional Big 6 clubs.
+Draw,opp_xgd_roll5,-0.02174323346906179,0.02174323346906179,3.41922282226582e-07,True,"The opponent's own rolling expected goal difference, a continuous measure of opponent quality."
+Draw,parity_gap,0.010405413306777743,0.010405413306777743,0.7064429279293407,False,"How evenly matched the two sides are, the absolute difference between their rolling goal differences."
+Draw,stakes_intensity,-0.018903396475326108,0.018903396475326108,0.6304494469085247,False,"How much is riding on this match, 0 to 1, from table position, time of season, form and rivalry."
+Draw,is_non_big6_rivalry,0.022579421573818734,0.022579421573818734,0.4743969486833556,False,"1 for a derby that is not already captured by the Big 6 flag, currently only Liverpool vs Everton."
+Draw,h2h_pts_avg3,-0.01094480572061092,0.01094480572061092,0.005880006608178227,True,Average points this team took from its last 3 meetings with this opponent.
+Win,xG_roll5,0.1414060987660045,0.1414060987660045,7.29680952235532e-09,True,"The team's own expected goals, averaged over its previous 5 matches."
+Win,xGA_roll5,-0.1467651679780262,0.1467651679780262,5.608537738808641e-09,True,"Expected goals conceded, averaged over its previous 5 matches."
+Win,pts_roll5,0.06747676819725269,0.06747676819725269,0.16876678141548507,False,Points per match over its previous 5 matches.
+Win,win_rate_roll5,-0.017193590163873947,0.017193590163873947,0.5220189684873484,False,Share of its previous 5 matches won.
+Win,is_home,0.19645854778211588,0.19645854778211588,7.983691960084863e-27,True,"1 if the team is playing at home, 0 away."
+Win,is_big6_opp,-0.13476678127747965,0.13476678127747965,6.444441806895387e-14,True,1 if the opponent is one of the traditional Big 6 clubs.
+Win,opp_xgd_roll5,-0.18905182655589955,0.18905182655589955,2.7026942893717233e-20,True,"The opponent's own rolling expected goal difference, a continuous measure of opponent quality."
+Win,parity_gap,-0.0009566982034094825,0.0009566982034094825,0.8239205624321966,False,"How evenly matched the two sides are, the absolute difference between their rolling goal differences."
+Win,stakes_intensity,0.06411931197139091,0.06411931197139091,0.0044916774382723085,True,"How much is riding on this match, 0 to 1, from table position, time of season, form and rivalry."
+Win,is_non_big6_rivalry,-0.026900145076613334,0.026900145076613334,0.487362257434822,False,"1 for a derby that is not already captured by the Big 6 flag, currently only Liverpool vs Everton."
+Win,h2h_pts_avg3,0.1429474865536962,0.1429474865536962,6.259671877592431e-12,True,Average points this team took from its last 3 meetings with this opponent.

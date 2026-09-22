@@ -1,0 +1,10 @@
+actual,predicted,count,share_of_actual
+Loss,Loss,172,0.6825396825396826
+Loss,Draw,0,0.0
+Loss,Win,80,0.31746031746031744
+Draw,Loss,94,0.47959183673469385
+Draw,Draw,0,0.0
+Draw,Win,102,0.5204081632653061
+Win,Loss,82,0.3253968253968254
+Win,Draw,0,0.0
+Win,Win,170,0.6746031746031746

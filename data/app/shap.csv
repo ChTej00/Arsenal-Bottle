@@ -1,0 +1,12 @@
+feature,mean_abs_shap,description
+h2h_pts_avg3,0.17943798,Average points this team took from its last 3 meetings with this opponent.
+is_home,0.15883766,"1 if the team is playing at home, 0 away."
+xG_roll5,0.13251452,"The team's own expected goals, averaged over its previous 5 matches."
+opp_xgd_roll5,0.12089533,"The opponent's own rolling expected goal difference, a continuous measure of opponent quality."
+xGA_roll5,0.10794302,"Expected goals conceded, averaged over its previous 5 matches."
+is_big6_opp,0.08494156,1 if the opponent is one of the traditional Big 6 clubs.
+stakes_intensity,0.051141255,"How much is riding on this match, 0 to 1, from table position, time of season, form and rivalry."
+parity_gap,0.03004818,"How evenly matched the two sides are, the absolute difference between their rolling goal differences."
+pts_roll5,0.02599503,Points per match over its previous 5 matches.
+win_rate_roll5,0.017827764,Share of its previous 5 matches won.
+is_non_big6_rivalry,0.001072689,"1 for a derby that is not already captured by the Big 6 flag, currently only Liverpool vs Everton."

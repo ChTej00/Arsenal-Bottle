@@ -1,0 +1,13 @@
+n_runs,team,title_prob
+1000,Manchester City,0.533
+1000,Arsenal,0.362
+1000,Manchester United,0.034
+1000,Liverpool,0.024
+10000,Manchester City,0.5427
+10000,Arsenal,0.3541
+10000,Manchester United,0.0283
+10000,Brighton,0.0279
+50000,Manchester City,0.54636
+50000,Arsenal,0.35062
+50000,Brighton,0.02782
+50000,Manchester United,0.02746
