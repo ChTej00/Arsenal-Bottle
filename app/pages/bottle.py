@@ -147,13 +147,14 @@ theme.apply(fig, height=370, legend=False,
                        range=[-0.82, 0.45]))
 ui.chart(
     fig,
-    title="The two negative seasons are the two everyone calls bottles",
+    title="Both bottle seasons are negative. So is one nobody calls a bottle.",
     verdict_text=(
         "Below zero means the team took fewer points from its biggest matches than from a "
         "typical one that season. <strong>2022-23 and 2024-25, the two seasons everyone calls "
-        "bottles, are the two that come out negative.</strong> 2023-24 and the title-winning "
-        "2025-26 are positive. The metric agrees with the narrative, which is exactly why the "
-        "next page goes on to ask whether it survives a significance test."
+        "bottles, are both negative, but they are the two smallest drops of the seven.</strong> "
+        "The largest is 2021-22 at -0.62, a season nobody describes that way. 2023-24 and the "
+        "title-winning 2025-26 are positive. The metric only half agrees with the narrative, "
+        "which is exactly why the next page asks whether any of it survives a significance test."
     ),
     method_text=(
         "Each season's own average points per match is the baseline, so a strong season is not "

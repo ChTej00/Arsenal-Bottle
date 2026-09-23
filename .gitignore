@@ -19,9 +19,8 @@ tutorials/
 # soccerdata cache
 .soccerdata/
 
-# Notebook/tutorial scratch — webdriver/pip lock litter from checkpoints
-notebooks/downloaded_files/
-tutorials/downloaded_files/
+# Webdriver/pip lock litter that soccerdata's scraper drops wherever it is run
+downloaded_files/
 
 # OS
 .DS_Store

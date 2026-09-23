@@ -49,12 +49,13 @@ theme.style_subplots(fig, legend_below=False)
 fig.update_yaxes(zerolinecolor=theme.COLOR["muted"], range=[-0.85, 0.75])
 ui.chart(
     fig,
-    title="Every club has negative seasons. Arsenal's are just the famous ones.",
+    title="Every club has negative seasons. Two of Arsenal's have a reputation.",
     verdict_text=(
-        "<strong>Every one of these clubs has negative seasons.</strong> What is specific to "
-        "Arsenal is not that it has them, but that its two negative seasons land exactly on "
-        "the two everyone already calls bottles. For the other three, the good and bad "
-        "pressure seasons do not map nearly so neatly onto their own reputations."
+        "<strong>Every one of these clubs has negative seasons.</strong> Arsenal has three, "
+        "Liverpool four, Manchester United three, Manchester City two. What is specific to "
+        "Arsenal is only that two of its negative seasons happen to be the two with a "
+        "reputation, and those two are its mildest. Its worst pressure season by this "
+        "measure is 2021-22, which nobody remembers as a collapse."
     ),
 )
 
