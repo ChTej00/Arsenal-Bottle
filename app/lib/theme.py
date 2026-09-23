@@ -189,7 +189,9 @@ def apply(fig, height: int | None = None, legend: bool = True, **layout):
 def style_subplots(fig, title_size: int = 12, legend_below: bool = True):
     """Subplot titles arrive as annotations pinned to the top of each cell,
     which is where the default top legend sits. On a subplot figure the legend
-    moves underneath, far enough down to clear the x-axis titles."""
+    moves underneath, far enough down to clear the x-axis titles. Either way the
+    top margin has to be deep enough to hold the titles: apply(legend=False)
+    reclaims it down to 12px, which cuts the top off every subplot title."""
     fig.update_annotations(font=dict(size=title_size, color=COLOR["text_primary"]))
     fig.update_xaxes(**{k: v for k, v in AXIS.items() if k != "title"})
     fig.update_yaxes(**{k: v for k, v in AXIS.items() if k != "title"})
@@ -198,6 +200,8 @@ def style_subplots(fig, title_size: int = 12, legend_below: bool = True):
             legend=dict(orientation="h", yanchor="top", y=-0.28, xanchor="left", x=0),
             margin=dict(l=8, r=8, t=30, b=74),
         )
+    elif (fig.layout.margin.t or 0) < 30:
+        fig.update_layout(margin_t=30)
     return fig
 
 
