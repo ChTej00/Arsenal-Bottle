@@ -4,7 +4,7 @@ import plotly.graph_objects as go
 import streamlit as st
 from plotly.subplots import make_subplots
 
-from lib import loaders, theme, ui
+from lib import explore, loaders, theme, ui
 
 ui.page_header(
     "Where the points went",
@@ -161,6 +161,114 @@ ui.chart(
         "ten highest-pressure matches minus that baseline. The comparison is always within a "
         "season, never across them."
     ),
+)
+
+# ---------------------------------------------------------------------------
+st.subheader("Try to break it yourself", anchor=False)
+
+st.markdown(
+    "Everything above rests on one arbitrary choice: that a big match is the top quarter of "
+    "a season by pressure score. Nothing makes 25% the right number. If the bottle is real it "
+    "should survive a different cut. Change it and see."
+)
+
+
+@st.fragment
+def threshold_control() -> None:
+    """The one place this app computes rather than reads, so it refuses to draw
+    anything unless the recomputation still reproduces the published figures at
+    the published setting. See lib/explore.py."""
+    drift = explore.drift_check(matches, pressure)
+    if drift is not None:
+        ui.callout(
+            "correction", "This control is switched off.",
+            f"It recomputes the bottle gap live, and a self-check found that {drift}. Rather "
+            "than show you a number that disagrees with the rest of the site, it is hidden "
+            "until the pipeline and this page agree again.",
+        )
+        return
+
+    options = {"Top 15%": 0.15, "Top 20%": 0.20, "Top 25%": 0.25,
+               "Top 30%": 0.30, "Top 40%": 0.40}
+    choice = st.segmented_control(
+        "What counts as a big match?", list(options), default="Top 25%",
+        key="stakes_threshold",
+    ) or "Top 25%"
+    pct = options[choice]
+
+    gaps = explore.verified_gaps(matches, pressure, pct)
+    ars_gaps = gaps[gaps["team"] == "Arsenal"].sort_values("season").copy()
+    ars_gaps["label"] = ars_gaps["season"].map(theme.season_label)
+    n_per_season = int(ars_gaps["n_matches"].mode().iloc[0])
+
+    published = ars_pressure.set_index("season")["ppg_gap"]
+    fig = go.Figure()
+    fig.add_trace(go.Bar(
+        x=ars_gaps["label"], y=ars_gaps["ppg_gap"],
+        marker_color=[theme.judgement_color(v) for v in ars_gaps["ppg_gap"]],
+        text=[f"{v:+.2f}" for v in ars_gaps["ppg_gap"]],
+        textposition="outside", cliponaxis=False,
+        textfont=dict(color=theme.COLOR["text_primary"], size=12),
+        name=choice,
+        hovertemplate="<b>%{x}</b><br>%{y:+.2f} points per match<extra></extra>",
+    ))
+    if pct != explore.PUBLISHED_TOP_PCT:
+        fig.add_trace(go.Scatter(
+            x=ars_gaps["label"], y=published.reindex(ars_gaps["season"]).to_numpy(),
+            mode="markers", name="Published setting (top 25%)",
+            marker=dict(symbol="line-ew", size=30,
+                        line=dict(color=theme.COLOR["muted"], width=2)),
+            hovertemplate="<b>%{x}</b><br>%{y:+.2f} at the published setting<extra></extra>",
+        ))
+    fig.add_hline(y=0, line=dict(color=theme.COLOR["muted"], width=1))
+    theme.apply(fig, height=380, legend=(pct != explore.PUBLISHED_TOP_PCT),
+                yaxis=dict(title=dict(text="Points per match, relative to normal"),
+                           range=[-0.95, 0.72]))
+
+    bottles = ["2223", "2425"]
+    still_negative = [s for s in bottles
+                      if ars_gaps.loc[ars_gaps["season"] == s, "ppg_gap"].iloc[0] < 0]
+    flipped = [theme.season_label(s) for s in bottles if s not in still_negative]
+
+    if pct == explore.PUBLISHED_TOP_PCT:
+        reading = ("This is the published setting, and it reproduces the chart above exactly. "
+                   "Move it and watch what happens.")
+    elif len(still_negative) == 2:
+        reading = (f"At the top {int(pct*100)}%, both bottle seasons are still negative. "
+                   "The finding holds at this cut.")
+    elif still_negative:
+        reading = (f"<strong>At the top {int(pct*100)}%, "
+                   f"{' and '.join(flipped)} flips positive.</strong> One of the two seasons "
+                   "the whole story rests on stops looking like a bottle purely because the "
+                   "definition moved.")
+    else:
+        reading = (f"<strong>At the top {int(pct*100)}%, neither bottle season is negative "
+                   "any more.</strong> The entire finding depends on where the line is drawn.")
+
+    ui.chart(
+        fig,
+        title=f"Arsenal's bottle gap, big match = {choice.lower()} of the season "
+              f"({n_per_season} matches)",
+        verdict_text=reading,
+        method_text=(
+            "Changing the setting reruns the same calculation the pipeline uses: flag the top "
+            "share of each team-season by pressure score, then take those matches' points per "
+            "match minus that season's own average. At the top 25% this reproduces the "
+            "published figures for all 28 team-seasons to within floating-point error, and "
+            "the page checks that before it will draw anything. Only the definition of a big "
+            "match changes, never the underlying match data."
+        ),
+    )
+
+
+threshold_control()
+
+ui.callout(
+    "finding", "This is the honest reading of the whole page.",
+    "2022-23 stays negative wherever you put the line. 2024-25 does not: it is positive at "
+    "the top 15% and 20%, and only turns negative at 25% and wider. Half the evidence for "
+    "the bottle is an artefact of a choice nobody had a principled reason to make. The next "
+    "page tests all of this properly, and finds the same fragility.",
 )
 
 # ---------------------------------------------------------------------------
