@@ -2,15 +2,19 @@
 import numpy as np
 import plotly.graph_objects as go
 import streamlit as st
+from plotly.subplots import make_subplots
 
 from lib import loaders, theme, ui
 
 ui.page_header(
-    "Act 2 · The Bottle",
+    "Where the points went",
     "Arsenal led the league for long stretches in 2022-23, 2023-24 and 2024-25 and won none "
     "of them. The accusation is that they buckled when it mattered. This page tests that "
     "against the match data, and the first answer it gives is not the expected one.",
+    eyebrow="Act 2 · The Bottle",
 )
+ui.stepper("pages/bottle.py")
+st.write("")
 
 matches = loaders.table("matches.csv")
 pressure = loaders.table("team_pressure.csv")
@@ -21,13 +25,13 @@ ars["label"] = ars["season"].map(theme.season_label)
 ars_pressure = pressure[pressure["team"] == "Arsenal"].sort_values("season").copy()
 ars_pressure["label"] = ars_pressure["season"].map(theme.season_label)
 
-ui.note(
-    "**What counts as a big match?** Rather than picking them by hand, every match gets a "
-    "pressure score from 0 to 1 built from how close the team is to a title, Champions League "
-    "or relegation place, how late in the season it is, recent form, and whether it is a "
-    "derby. The top quarter of each season by that score is what this page calls high-stakes: "
-    "ten matches a season, every season, so the comparison is fair across years.",
-    icon=":material/school:",
+ui.callout(
+    "definition", "What counts as a big match?",
+    "Rather than picking them by hand, every match gets a pressure score from 0 to 1 built "
+    "from how close the team is to a title, Champions League or relegation place, how late in "
+    "the season it is, recent form, and whether it is a derby. The top quarter of each season "
+    "by that score is what this page calls high-stakes: ten matches a season, every season, so "
+    "the comparison is fair across years.",
 )
 
 # ---------------------------------------------------------------------------
@@ -81,32 +85,49 @@ def grid(value_col):
     ])
 
 
-c1, c2 = st.columns(2, gap="medium")
-with c1:
-    st.markdown("##### Performance")
-    fig = go.Figure(go.Heatmap(
-        z=grid("match_drop_index"), x=gws, y=labels, colorscale="RdBu_r", zmid=0,
-        colorbar=dict(thickness=9, tickfont=dict(color=theme.MUTED, size=10), len=0.9),
-        hovertemplate="%{y} GW%{x}<br>Drop index %{z:+.2f}<extra></extra>",
-    ))
-    theme.apply(fig, height=300, legend=False, xaxis=dict(title=dict(text="Gameweek")))
-    st.plotly_chart(fig, width="stretch")
-with c2:
-    st.markdown("##### Results")
-    fig = go.Figure(go.Heatmap(
-        z=grid("points"), x=gws, y=labels, colorscale="RdYlGn", zmin=0, zmax=3,
-        colorbar=dict(thickness=9, tickfont=dict(color=theme.MUTED, size=10), len=0.9),
-        hovertemplate="%{y} GW%{x}<br>%{z:.0f} points<extra></extra>",
-    ))
-    theme.apply(fig, height=300, legend=False, xaxis=dict(title=dict(text="Gameweek")))
-    st.plotly_chart(fig, width="stretch")
-
-ui.verdict(
-    "Read the right-hand edge of both charts, the run-in from gameweek 29. On the left there "
-    "is no pattern: performance in the closing months looks like performance in any other "
-    "month. On the right, 2022-23 and 2024-25 turn red, meaning dropped points. <strong>The "
-    "same quality of football stopped producing the same results.</strong> That gap is what "
-    "this project calls the bottle gap."
+# One figure, two panels, shared y axis and matched gameweek axes, because the
+# reading below asks you to compare their right-hand edges. Colourbars are off:
+# the two panels measure different things on different scales, so a shared bar
+# would be meaningless and separate bars made the panels different widths.
+fig = make_subplots(rows=1, cols=2, shared_yaxes=True, horizontal_spacing=0.04,
+                    subplot_titles=["Performance (how well they played)",
+                                    "Results (points won)"])
+fig.add_trace(go.Heatmap(
+    z=grid("match_drop_index"), x=gws, y=labels,
+    colorscale=theme.SCALE_DIVERGING, reversescale=True, zmid=0, showscale=False,
+    hovertemplate="<b>%{y} · gameweek %{x}</b><br>Drop index %{z:+.2f}<extra></extra>",
+), row=1, col=1)
+fig.add_trace(go.Heatmap(
+    z=grid("points"), x=gws, y=labels,
+    colorscale=theme.SCALE_DIVERGING, zmin=0, zmax=3, showscale=False,
+    hovertemplate="<b>%{y} · gameweek %{x}</b><br>%{z:.0f} points<extra></extra>",
+), row=1, col=2)
+fig.add_vrect(x0=28.5, x1=38.5, row=1, col=1, line_width=0,
+              fillcolor=theme.COLOR["text_primary"], opacity=0.05)
+fig.add_vrect(x0=28.5, x1=38.5, row=1, col=2, line_width=0,
+              fillcolor=theme.COLOR["text_primary"], opacity=0.05)
+theme.apply(fig, height=330, legend=False)
+theme.style_subplots(fig, legend_below=False)
+fig.update_xaxes(title=dict(text="Gameweek", font=dict(color=theme.COLOR["muted"], size=11)),
+                 range=[0.5, 38.5])
+ui.chart(
+    fig,
+    title="The football held up through the run-in. The results did not.",
+    verdict_text=(
+        "Both panels use one colour scale: <strong>orange is worse, green is better</strong>. "
+        "Read the shaded band on the right of each, the run-in from gameweek 29. On the left "
+        "there is no pattern, performance in the closing months looks like performance in any "
+        "other month. On the right, 2022-23 and 2024-25 turn orange, meaning dropped points. "
+        "<strong>The same quality of football stopped producing the same results.</strong> "
+        "That gap is what this project calls the bottle gap."
+    ),
+    method_text=(
+        "The two panels measure different things on different scales, so they deliberately "
+        "share no colourbar: the left is a drop index in expected-goal units, the right is "
+        "points from 0 to 3. What they share is the direction of the scale, so orange means "
+        "the same thing in both. The panels sit in one figure with a shared vertical axis so "
+        "their gameweek axes line up exactly, which is what makes the comparison readable."
+    ),
 )
 
 # ---------------------------------------------------------------------------
@@ -114,18 +135,19 @@ st.subheader("The bottle gap, season by season", anchor=False)
 
 fig = go.Figure(go.Bar(
     x=ars_pressure["label"], y=ars_pressure["ppg_gap"],
-    marker_color=[theme.POSITIVE if v > 0 else theme.NEGATIVE for v in ars_pressure["ppg_gap"]],
+    marker_color=[theme.judgement_color(v) for v in ars_pressure["ppg_gap"]],
     text=[f"{v:+.2f}" for v in ars_pressure["ppg_gap"]],
-    textposition="outside", textfont=dict(color=theme.TEXT, size=12),
-    hovertemplate="%{x}<br>%{y:+.3f} points per match<extra></extra>",
+    textposition="outside", cliponaxis=False,
+    textfont=dict(color=theme.COLOR["text_primary"], size=12),
+    hovertemplate="<b>%{x}</b><br>%{y:+.2f} points per match against its own average<extra></extra>",
 ))
-fig.add_hline(y=0, line=dict(color=theme.MUTED, width=1))
+fig.add_hline(y=0, line=dict(color=theme.COLOR["muted"], width=1))
 theme.apply(fig, height=370, legend=False,
             yaxis=dict(title=dict(text="Points per match, relative to normal"),
-                       range=[-0.78, 0.42]))
+                       range=[-0.82, 0.45]))
 ui.chart(
     fig,
-    title="Points per match in big matches, minus that season's own average",
+    title="The two negative seasons are the two everyone calls bottles",
     verdict_text=(
         "Below zero means the team took fewer points from its biggest matches than from a "
         "typical one that season. <strong>2022-23 and 2024-25, the two seasons everyone calls "
@@ -146,21 +168,23 @@ st.subheader("Attack held up. Defence did not, slightly.", anchor=False)
 
 fig = go.Figure()
 for metric, label in [("xG", "Chances created"), ("xGA", "Chances conceded")]:
-    for stake, color, side in [("Normal", theme.FAINT, "negative"),
-                               ("High Stakes", theme.RED, "positive")]:
+    for stake, color, side in [("Normal", theme.COLOR["faint"], "negative"),
+                               ("High Stakes", theme.COLOR["brand"], "positive")]:
         sub = ars[ars["stake_label"] == stake]
         fig.add_trace(go.Violin(
             x=[label] * len(sub), y=sub[metric], name=stake, side=side,
             legendgroup=stake, showlegend=(metric == "xG"),
             line=dict(color=color, width=1.5), fillcolor=color, opacity=0.5,
-            points=False, width=0.85, meanline=dict(visible=True, color=theme.TEXT, width=1),
-            hovertemplate=f"{label} ({stake})<br>%{{y:.2f}}<extra></extra>",
+            points=False, width=0.85,
+            meanline=dict(visible=True, color=theme.COLOR["text_primary"], width=1),
+            hovertemplate=f"<b>{label}, {stake.lower()} matches</b>"
+                          "<br>%{y:.2f} expected goals<extra></extra>",
         ))
 theme.apply(fig, height=400, violinmode="overlay",
             yaxis=dict(title=dict(text="Expected goals in a match"), range=[0, 5]))
 ui.chart(
     fig,
-    title="Chances created and conceded: big matches against normal",
+    title="Attack held up. Defence softened.",
     verdict_text=(
         "Each shape is the spread of match-by-match values, with the mean marked. Arsenal's "
         "chance creation is statistically indistinguishable between big matches and ordinary "
@@ -180,21 +204,18 @@ ars_kill["Score"] = (ars_kill["scored"].astype(int).astype(str) + "-"
                      + ars_kill["conceded"].astype(int).astype(str))
 show = ars_kill[["Season", "gameweek", "opponent", "Score", "result",
                  "xG", "xGA", "match_drop_index"]]
-st.dataframe(
-    show, width="stretch", hide_index=True,
-    column_config={
-        "Season": st.column_config.TextColumn("Season", pinned=True),
-        "gameweek": st.column_config.NumberColumn("GW", width="small"),
-        "opponent": st.column_config.TextColumn("Opponent"),
-        "Score": st.column_config.TextColumn("Score", width="small"),
-        "result": st.column_config.TextColumn("Result", width="small"),
-        "xG": st.column_config.NumberColumn("Chances created", format="%.2f"),
-        "xGA": st.column_config.NumberColumn("Chances conceded", format="%.2f"),
-        "match_drop_index": st.column_config.NumberColumn(
-            "Drop index", format="%+.2f",
-            help="Positive means Arsenal played worse than their own season average"),
-    },
-)
+ui.table(show, {
+    "Season": st.column_config.TextColumn("Season", pinned=True),
+    "gameweek": st.column_config.NumberColumn("GW", width="small"),
+    "opponent": st.column_config.TextColumn("Opponent", width="medium"),
+    "Score": st.column_config.TextColumn("Score", width="small"),
+    "result": st.column_config.TextColumn("Result", width="small"),
+    "xG": st.column_config.NumberColumn("Chances created", format="%.2f"),
+    "xGA": st.column_config.NumberColumn("Chances conceded", format="%.2f"),
+    "match_drop_index": st.column_config.NumberColumn(
+        "Drop index", format="%+.2f",
+        help="Positive means Arsenal played worse than their own season average"),
+})
 n_neg = int((ars_kill["match_drop_index"] < 0).sum())
 ui.verdict(
     f"The {len(ars_kill)} run-in matches across the four title challenges where Arsenal "
@@ -204,12 +225,10 @@ ui.verdict(
     "driven by an unusually high chances-conceded number in that specific match. The 2-2 with "
     "Liverpool in 2022-23 allowed 4.64 expected goals, more than double a normal match."
 )
-ui.note(
-    "This table corrects an earlier version of this analysis, which claimed most of these "
-    "matches were games Arsenal dominated and failed to convert. Recomputing from the actual "
-    "pipeline showed the opposite sign for most of them.",
-    icon=":material/history:",
+ui.callout(
+    "correction", "This table corrects an earlier version of this analysis,",
+    "which claimed most of these matches were games Arsenal dominated and failed to convert. "
+    "Recomputing from the actual pipeline showed the opposite sign for most of them.",
 )
 
-st.page_link("pages/breakthrough.py", label="Next: what changed in the season they won",
-             icon=":material/arrow_forward:")
+ui.prev_next("pages/bottle.py")

@@ -39,7 +39,7 @@ nav = st.navigation({
     ],
     "The evidence": [
         st.Page(PAGES / "significance.py", title="Is it real?", icon=":material/science:"),
-        st.Page(PAGES / "model_page.py", title="The model", icon=":material/network_node:"),
+        st.Page(PAGES / "model.py", title="The model", icon=":material/network_node:"),
     ],
     "Live": [
         st.Page(PAGES / "predictor.py", title="Act 4 · 2026-27 predictor", icon=":material/insights:"),

@@ -1,10 +1,37 @@
+# Design tokens that Streamlit can apply natively. Anything expressible here
+# is kept out of the injected stylesheet in app/lib/theme.py. The colour values
+# mirror theme.COLOR; change both together.
+
 [theme]
 base = "dark"
 primaryColor = "#EF0107"
 backgroundColor = "#0B0E13"
 secondaryBackgroundColor = "#151A22"
 textColor = "#E8EAED"
-font = "sans serif"
+linkColor = "#EF0107"
+borderColor = "#252C38"
+dataframeBorderColor = "#252C38"
+baseRadius = "0.6rem"
+showWidgetBorder = true
+
+# Semantic callout colours, so definition / caveat / correction / finding
+# render in the site palette rather than Streamlit's defaults.
+blueColor = "#6CABDD"
+greenColor = "#2E9E6B"
+orangeColor = "#E0603C"
+yellowColor = "#E0A03C"
+redColor = "#EF0107"
+grayColor = "#8A94A3"
+
+# Chart colours, used by any st.* native chart. Plotly figures get the same
+# values through the "arsenal" template.
+chartCategoricalColors = ["#EF0107", "#6CABDD", "#00B2A9", "#FFB81C",
+                          "#B084F5", "#5BC98B", "#F5A05A", "#7D8BF7"]
+chartDivergingColors = ["#E0603C", "#252C38", "#2E9E6B"]
+chartSequentialColors = ["#151A22", "#33566F", "#6CABDD"]
+
+[client]
+toolbarMode = "minimal"
 
 [browser]
 gatherUsageStats = false

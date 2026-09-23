@@ -21,7 +21,7 @@ ui.hero(
 )
 
 st.write("")
-ui.stats([
+ui.metric_grid([
     ("7", "Seasons", "2019-20 through 2025-26, plus the live 2026-27 season"),
     (f"{len(history):,}", "Matches", "Every Premier League match across all 20 clubs"),
     ("11", "Features", "Engineered from raw match data, including a custom pressure metric"),
@@ -60,7 +60,7 @@ st.write("")
 c1, c2, c3 = st.columns(3)
 c1.page_link("pages/bottle.py", label="See the evidence", icon=":material/query_stats:")
 c2.page_link("pages/significance.py", label="See it tested", icon=":material/science:")
-c3.page_link("pages/model_page.py", label="See the model", icon=":material/network_node:")
+c3.page_link("pages/model.py", label="See the model", icon=":material/network_node:")
 
 st.divider()
 
@@ -75,15 +75,17 @@ fig = go.Figure(go.Bar(
     marker=dict(color=[theme.team_color(t) for t in top.index], line=dict(width=0)),
     text=[f"{v*100:.1f}%" for v in top["title_prob"]],
     textposition="outside",
-    textfont=dict(color=theme.TEXT, size=12),
-    hovertemplate="%{y}: %{x:.1f}%<extra></extra>",
+    textfont=dict(color=theme.COLOR["text_primary"], size=12),
+    cliponaxis=False,
+    hovertemplate="<b>%{y}</b><br>Wins the league in %{x:.1f}% of simulations<extra></extra>",
 ))
 theme.apply(fig, height=290, legend=False,
             xaxis=dict(title=dict(text="Probability of winning the league (%)"),
-                       range=[0, float(top["title_prob"].max()) * 118]))
+                       range=[0, float(top["title_prob"].max()) * 132]))
 ui.chart(
     fig,
-    title=f"Title probability after gameweek {state['last_published_gameweek']}",
+    title=f"{summary.index[0]} leads the title race after gameweek "
+          f"{state['last_published_gameweek']}",
     verdict_text=(
         f"Out of 10,000 simulated versions of the rest of this season, "
         f"<strong>{summary.index[0]}</strong> finished top in "
@@ -94,13 +96,13 @@ ui.chart(
 )
 
 if state["last_published_gameweek"] <= 8:
-    ui.note(
-        f"**Early-season caveat.** Only {state['last_published_gameweek']} gameweeks have been "
-        "played. The model reads each club's form from its last five matches, and that window "
-        "restarts every August, so right now it is working from a very small sample. Tested on "
-        "last season, the same method was only 29.7% confident in the eventual champion at "
-        "this stage, against 85.7% by the midpoint. Treat this as a snapshot, not a forecast.",
-        kind="warn",
+    ui.callout(
+        "caveat", "Early-season caveat.",
+        f"Only {state['last_published_gameweek']} gameweeks have been played. The model reads "
+        "each club's form from its last five matches, and that window restarts every August, "
+        "so right now it is working from a very small sample. Tested on last season, the same "
+        "method was only 29.7% confident in the eventual champion at this stage, against 85.7% "
+        "by the midpoint. Treat this as a snapshot, not a forecast.",
     )
 
 st.page_link("pages/predictor.py", label="Open the full predictor",
@@ -112,7 +114,7 @@ st.divider()
 st.header("How the project is built", anchor=False)
 
 c1, c2 = st.columns(2, gap="medium")
-with c1.container(border=True):
+with c1.container(border=True, height=290):
     st.markdown("**The analysis**")
     st.markdown("""
 1. Scrape seven seasons of shot-level data from Understat
@@ -121,20 +123,22 @@ with c1.container(border=True):
 4. Check whether the pattern is unique to Arsenal
 5. Test every claim, correcting for testing many at once
 """)
-with c2.container(border=True):
+with c2.container(border=True, height=290):
     st.markdown("**The system**")
     st.markdown("""
-6. Train and compare four models on the outcome of a match
-7. Simulate the remaining season 10,000 times
-8. Ship it as this site, rebuilt automatically after every gameweek
+1. Train and compare four models on the outcome of a match
+2. Simulate the remaining season 10,000 times
+3. Publish it as this site, rebuilt after every gameweek
 
-A scheduled job checks daily whether a full gameweek has finished, and only then
-refits, resimulates and republishes.
+A scheduled job checks daily whether a full gameweek has finished,
+and only then refits, resimulates and republishes.
 """)
 
-ui.note(
-    "Every number on this site is recomputed from the raw data by the same code that runs the "
-    "live pipeline. Nothing is typed in by hand, and 35 automated checks compare the fresh "
-    "output against the project's recorded values every time it rebuilds. The **Method** page "
-    "has the detail."
+ui.callout(
+    "scope", "Everything here is recomputed, not copied.",
+    "Every number on this site comes from the same code that runs the live pipeline. Nothing "
+    "is typed in by hand, and 35 automated checks compare the fresh output against the "
+    "project's recorded values every time it rebuilds. The **Method** page has the detail.",
 )
+
+ui.prev_next("pages/overview.py")
